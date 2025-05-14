@@ -1,19 +1,19 @@
 # site properties and page defaults
-title: RKJ Collab
-subtitle: by Randi 
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: rkjcollab
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: C:/Users/venkatne/OneDrive - The University of Colorado Denver/Pictures/rkj-collab-500px logo.png
 footer: C:/Users/venkatne/OneDrive - The University of Colorado Denver/Pictures/rkj-collab-500px logo.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: contact@rkjcollab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  github: rkjcollab
+  twitter: rkjcollab
+  youtube: rkjcollab
 
 ### jekyll settings
 
