@@ -1,4 +1,5 @@
 # site properties and page defaults
+
 title: RKJ Collab
 subtitle: by Randi 
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
@@ -8,12 +9,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@your-lab.com
+  email: contact@rkjcollab.com
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
-  github: your-lab
-  twitter: YourLabHandle
-  youtube: YourLabChannel
+  github: rkjcollab
+  twitter: rkjcollab
+  youtube: rkjcollab
 
 ### jekyll settings
 
