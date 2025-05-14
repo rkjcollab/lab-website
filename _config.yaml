@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
+title: RKJ Collab
+subtitle: by Randi 
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+header: C:/Users/venkatne/OneDrive - The University of Colorado Denver/Pictures/rkj-collab-500px logo.png
+footer: C:/Users/venkatne/OneDrive - The University of Colorado Denver/Pictures/rkj-collab-500px logo.png
 proofer: false
 
 # site social media and other links
