@@ -5,7 +5,6 @@ role: principal-investigator
 affiliation: RKJcollab
 aliases:
   - R. Johnson
-  - randi
   - Randi J.
 links:
   orcid: 0000-0002-1234-5678
