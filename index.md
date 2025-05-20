@@ -1,81 +1,21 @@
 ---
+layout: default
+title: Home
 ---
 
-# rkjcollab's Website
+# Welcome to RKJ Collab
 
-An engaging 1-3 sentence description of your lab.
+Welcome to our lab! We are a collaborative research group focused on T1D
 
-{% include section.html %}
+We work at the intersection of science and technology to build tools, publish findings, and train the next generation of researchers.
 
-## Highlights
+---
 
-{% capture text %}
+## Photo Gallery
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
+<div class="gallery">
+  <img src="images/TOP_Golf_04_2023.jpg" alt="Top Golf fun">
+  <img src="images/Casa_Bonita_cave_05-2025.jpg" alt="Casa Bonita">
+  <img src="images/CCPM Fall Retreat_09_2021.jpg" alt="CCPM fall retreat">
+  <!-- Add or replace images as needed -->
+</div>
