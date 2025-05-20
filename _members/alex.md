@@ -1,7 +1,7 @@
 ---
 name: Alex Chen
 image: images/team/alex.jpg
-role: researcher
+role: postdoc
 affiliation: RKJ Collab
 aliases:
   - A. Chen

@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome to RKJ Collab
+# Welcome to RKJcollab
 
 Welcome to our lab! We are a collaborative research group focused on T1D
 
