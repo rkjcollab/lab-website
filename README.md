@@ -1,6 +1,6 @@
 # rkjcollab's Website
 
-Visit **[www.rkjcollab.com](http://www.rkjcollab.com)** 🚀  
+Visit **[rkjcollab.com](http://rkjcollab.com)** 🚀  
 Visit **[rkjcollab.github.io/lab-website-template](https://rkjcollab.github.io/lab-website-template)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
