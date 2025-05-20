@@ -1,1 +1,1 @@
-Sitemap: https://rkjcollab.com/sitemap.xml
+Sitemap: http://www.rkjcollab.com/sitemap.xml
