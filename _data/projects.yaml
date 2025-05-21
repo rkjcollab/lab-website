@@ -28,7 +28,6 @@
   tags:
     - resource
 
-
 - title: Effects of Rare Variants and Ancestry on Beta Agonist Response in Asthma and COPD
   subtitle: 2022-2025
   group: featured
@@ -38,8 +37,7 @@
   repo: rkjcollab/lab-website-template
   tags:
     - resource
-    
-
+  
 - title: Exploring the Genomic Mechanism Behind the Maternal Protection from T1D 
   subtitle: 2021-2015
   group: featured
@@ -49,9 +47,7 @@
   repo: rkjcollab/lab-website-template
   tags:
     - resource
-    
-
-
+  
 - title: Multi-omics integration to characterize genetic influences on metabotypes of type 1 diabetes progression 
   subtitle: 2020-2023
   image: images/NIH NIDDK.jpg
