@@ -1,1 +1,1 @@
-Sitemap: https://rkjcollab.github.io/lab-website-template/sitemap.xml
+Sitemap: https://rkjcollab.com/sitemap.xml
