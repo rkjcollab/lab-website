@@ -27,7 +27,7 @@
   repo: rkjcollab/lab-website-template
 
 - title: "Exploring the Genomic Mechanism Behind the Maternal Protection from T1D"
-  subtitle: 2021-2015
+  subtitle: 2021-2025
   group: featured
   image: images/Helmsley.png
   description: "The overarching project goal is to gain better understanding of the genomic mechanism behind the maternal protection from T1D by scanning the epigenome for regions/genes where maternal protection may be operating and identifying maternal characteristics driving those epigenetic changes."
@@ -35,14 +35,12 @@
 
 - title: "Multi-omics integration to characterize genetic influences on metabotypes of type 1 diabetes progression"
   subtitle: 2020-2023
-  group: featured
   image: images/NIH NIDDK.jpg
   description: "In this study, we examine more closely the metabolomics traits associated with type 1 diabetes and characterize the genetic variation driving those changes."
   repo: rkjcollab/lab-website-template
 
 - title: "BioData Catalyst Fellows Program: Prediction and Characterization of Genetically Regulated Expression of Target Tissues in Asthma"
   subtitle: 2020-2021
-  group: featured
   image: images/NHLBI.png
   description: "This study combines TOPMed whole genome sequencing, genetic arrays, and gene expression signatures of CD4+ T cell and nasal airway epithelium from two populations of African ancestry to gain insight into the genetics driving dysfunction in asthma."
   repo: rkjcollab/lab-website-template
