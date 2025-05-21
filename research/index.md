@@ -14,6 +14,16 @@ Welcome! This page highlights our published works, software tools, datasets, and
 
 {% include section.html %}
 
+## 🛠 Current Projects
+
+{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+
+{% include section.html %}
+
+## 📁 Past Projects
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
+
 ## 🔬 Highlighted Publication
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
@@ -30,13 +40,5 @@ Welcome! This page highlights our published works, software tools, datasets, and
 
 {% include section.html %}
 
-## 🛠️ Featured Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
-
-{% include section.html %}
-
-## 📁 More Projects
-
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
 
