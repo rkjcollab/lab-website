@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Connect
 nav:
-  order: 5
+  order: 3
   tooltip: Email, address, and location
 ---
 
