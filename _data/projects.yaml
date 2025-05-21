@@ -4,8 +4,6 @@
   image: images/Helmsley.png
   description: "This study leverages cutting-edge statistical approaches to combine pregnancy and early life epigenetic measures from the ENDIA cohort with early life epigenetic measures and follow-up in the TEDDY and DAISY cohorts to deliver new insights into the impact of the T1D in utero environment on offspring T1D risk."
   repo: rkjcollab/lab-website-template
-  tags:
-    - resource
 
 - title: "Epigenomic Mechanisms of the Maternal Protection in Type 1 Diabetes"
   subtitle: 2023-2025
@@ -13,17 +11,13 @@
   image: images/JDRF.jpg
   description: "We will generate a robust catalogue of cell-type specific epigenetic measures on ENDIA subjects exposed and unexposed to maternal T1D and use it to deliver mechanistic insights into the cell compartments and biological pathways by which features of the maternal T1D in utero environment may affect offspring T1D risk."
   repo: rkjcollab/lab-website-template
-  tags:
-    - resource
 
-- title: "Pharamcogenetic approaches to drug metabolism in American Indian/Alaska Native People"
+- title: "Pharmacogenetic approaches to drug metabolism in American Indian/Alaska Native People"
   subtitle: 2023-2025
   group: featured
   image: images/NIH.png
-  description: "To understand perspectives on participant engagement, return of results, and data sharing from historically underrepresented participants (e.g., AIAN, African American, and Hispanic/Latino) in the Colorado Center for Personalized Medicine (CCPM) Biobank with focus groups and surveys. Develop a cross-site framework for assessing biobank participants perspectives and engagement related to bioethical issues in biomedical research."
+  description: "To understand perspectives on participant engagement, return of results, and data sharing from historically underrepresented participants (e.g., AIAN, African American, and Hispanic/Latino) in the Colorado Center for Personalized Medicine (CCPM) Biobank with focus groups and surveys. Develop a cross-site framework for assessing biobank participants' perspectives and engagement related to bioethical issues in biomedical research."
   repo: rkjcollab/lab-website-template
-  tags:
-    - resource
 
 - title: "Effects of Rare Variants and Ancestry on Beta Agonist Response in Asthma and COPD"
   subtitle: 2022-2025
@@ -31,8 +25,6 @@
   image: images/NIH.png
   description: "We propose genetic studies based on β2AR pathway gene variants and whole-genome studies of rare variants and genetic ancestry to identify novel mechanisms for inter-ethnic differences in drug response and disease severity."
   repo: rkjcollab/lab-website-template
-  tags:
-    - resource
 
 - title: "Exploring the Genomic Mechanism Behind the Maternal Protection from T1D"
   subtitle: 2021-2015
@@ -40,21 +32,17 @@
   image: images/Helmsley.png
   description: "The overarching project goal is to gain better understanding of the genomic mechanism behind the maternal protection from T1D by scanning the epigenome for regions/genes where maternal protection may be operating and identifying maternal characteristics driving those epigenetic changes."
   repo: rkjcollab/lab-website-template
-  tags:
-    - resource
 
 - title: "Multi-omics integration to characterize genetic influences on metabotypes of type 1 diabetes progression"
   subtitle: 2020-2023
+  group: featured
   image: images/NIH NIDDK.jpg
   description: "In this study, we examine more closely the metabolomics traits associated with type 1 diabetes and characterize the genetic variation driving those changes."
   repo: rkjcollab/lab-website-template
-  tags:
-    - software
 
-- title: "BioData Catalyst Fellows Program: Prediction and Characterization of Genetically Regulated Expression of Target Tissues in Asthma."
+- title: "BioData Catalyst Fellows Program: Prediction and Characterization of Genetically Regulated Expression of Target Tissues in Asthma"
   subtitle: 2020-2021
+  group: featured
   image: images/NHLBI.png
   description: "This study combines TOPMed whole genome sequencing, genetic arrays, and gene expression signatures of CD4+ T cell and nasal airway epithelium from two populations of African ancestry to gain insight into the genetics driving dysfunction in asthma."
   repo: rkjcollab/lab-website-template
-  tags:
-    - software
