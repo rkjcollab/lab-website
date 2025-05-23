@@ -1,5 +1,6 @@
 ---
 name: Kirk Hohsfield
+slug: kirk-hohsfield
 image: images/bread.jpg
 role: postdoc
 group: student

@@ -1,5 +1,6 @@
 ---
 name: Charlie Repaci
+slug: charlie-repaci
 image: images/bread.jpg
 role: programmer
 group: staff

@@ -1,5 +1,6 @@
 ---
 name: Sarah Slack
+slug: sarah-slack
 image: images/bread.jpg
 role: mascot
 group: staff

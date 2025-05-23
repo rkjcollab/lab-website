@@ -1,5 +1,6 @@
 ---
 name: Shane Ridoux
+slug: shane-ridoux
 image: images/rice.jpg
 role: phd
 group: student

@@ -1,5 +1,6 @@
 ---
 name: Neha Venkatesh
+slug: neha-venkatesh
 image: images/rice.jpg
 role: undergrad
 group: student

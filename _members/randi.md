@@ -1,5 +1,6 @@
 ---
 name: Randi Johnson
+slug: randi-johnson
 image: images/bread.jpg
 role: principal-investigator
 group: staff
