@@ -13,17 +13,43 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 
 ## 🧑‍💼 Staff
 
-{% include list.html data="members" component="portrait" filter="group == 'staff'" %}
+{% assign staff = site.data.members | where: "group", "staff" %}
+{% assign role_order_staff = "principal-investigator,postdoc,programmer" | split: "," %}
+
+{% for role in role_order_staff %}
+  {% for member in staff %}
+    {% if member.role == role %}
+      {% include portrait.html member=member %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 ---
 
 ## 🎓 Students
 
-{% include list.html data="members" component="portrait" filter="group == 'student'" %}
+{% assign students = site.data.members | where: "group", "student" %}
+{% assign role_order_students = "phd,undergrad,programmer" | split: "," %}
+
+{% for role in role_order_students %}
+  {% for member in students %}
+    {% if member.role == role %}
+      {% include portrait.html member=member %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
 
 ---
 
 ## 🧑‍🎓 Alumni
 
-{% include list.html data="members" component="portrait" filter="group == 'alumni'" %}
+{% assign alumni = site.data.members | where: "group", "alumni" %}
+{% assign role_order_alumni = "phd,postdoc" | split: "," %}
 
+{% for role in role_order_alumni %}
+  {% for member in alumni %}
+    {% if member.role == role %}
+      {% include portrait.html member=member %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}
