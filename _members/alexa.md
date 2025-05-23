@@ -2,7 +2,7 @@
 name: alexa
 slug: alexa
 image: images/rice.jpg
-role: researher
+role: programmer
 group: alumni
 aliases:
   - alexa. a

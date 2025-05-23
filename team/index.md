@@ -14,7 +14,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🧑‍💼 Staff
 
 {% assign staff = site.members | where: "group", "staff" %}
-{% assign role_order_staff = "principal-investigator,postdoc,programmer" | split: "," %}
+{% assign role_order_staff = "principal-investigator,programmer,mascot" | split: "," %}
 
 {% for role in role_order_staff %}
   {% for member in staff %}
@@ -29,7 +29,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🎓 Students
 
 {% assign students = site.members | where: "group", "student" %}
-{% assign role_order_students = "phd,undergrad,programmer" | split: "," %}
+{% assign role_order_students = "postdoc,phd,undergrad" | split: "," %}
 
 {% for role in role_order_students %}
   {% for member in students %}
@@ -44,7 +44,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🧑‍🎓 Alumni
 
 {% assign alumni = site.members | where: "group", "alumni" %}
-{% assign role_order_alumni = "phd,postdoc" | split: "," %}
+{% assign role_order_alumni = "phd,postdoc,programmer" | split: "," %}
 
 {% for role in role_order_alumni %}
   {% for member in alumni %}

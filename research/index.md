@@ -8,7 +8,6 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %} Research
 
-Welcome! This page highlights our published works, software tools, datasets, and ongoing projects.
 
 ---
 
@@ -24,9 +23,6 @@ Welcome! This page highlights our published works, software tools, datasets, and
 
 {% include list.html component="card" data="projects" filter="!group" style="small" %}
 
-## 🔬 Highlighted Publication
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
 
