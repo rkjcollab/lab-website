@@ -15,13 +15,13 @@ nav:
 
 ## 🛠 Current Projects
 
-{% include list.html component="card" data="projects" filter="group == 'featured'" %}
+{% include list.html component="project-row" data="projects" filter="group == 'featured'" %}
 
 {% include section.html %}
 
 ## 📁 Past Projects
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="project-row" data="projects" filter="!group" style="small" %}
 
 
 {% include section.html %}

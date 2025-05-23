@@ -1,0 +1,54 @@
+<div class="citation-container">
+  <div class="citation">
+    <a
+      {% if include.link %}
+        href="{{ include.link | relative_url | uri_escape }}"
+      {% endif %}
+      class="citation-image"
+      aria-label="{{ include.title | default: "project image" | regex_strip }}"
+    >
+      <img
+        src="{{ include.image | relative_url | uri_escape }}"
+        alt="{{ include.title | default: "project image" | regex_strip }}"
+        loading="lazy"
+        {% include fallback.html %}
+      >
+    </a>
+
+    <div class="citation-text">
+      <a
+        {% if include.link %}
+          href="{{ include.link | relative_url | xml_escape }}"
+        {% endif %}
+        class="citation-title"
+      >
+        {{ include.title | default: "[No title]" }}
+      </a>
+
+      {% if include.subtitle %}
+        <div class="citation-authors">
+          {{ include.subtitle }}
+        </div>
+      {% endif %}
+
+      {% if include.description %}
+        <div class="citation-description">
+          {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+        </div>
+      {% endif %}
+
+      {% if include.repo %}
+        <div class="citation-buttons">
+          <a
+            href="https://github.com/{{ include.repo }}"
+            class="button bare"
+            target="_blank"
+            rel="noopener"
+          >
+            GitHub Repo
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+</div>
