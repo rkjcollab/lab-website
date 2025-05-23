@@ -2,7 +2,7 @@
 name: Sarah Slack
 image: images/bread.jpg
 role: mascot
-affiliation: RKJcollab
+group: staff
 aliases:
   - Sarah S.
   - sarah

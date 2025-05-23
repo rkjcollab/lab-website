@@ -2,7 +2,7 @@
 name: Randi Johnson
 image: images/bread.jpg
 role: principal-investigator
-affiliation: RKJcollab
+group: staff
 aliases:
   - R. Johnson
   - Randi J.

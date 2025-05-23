@@ -2,7 +2,7 @@
 name: Charlie Repaci
 image: images/bread.jpg
 role: programmer
-affiliation: RKJcollab
+group: staff
 aliases:
   - Charlie R.
   - charlie

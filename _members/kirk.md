@@ -2,7 +2,7 @@
 name: Kirk Hohsfield
 image: images/bread.jpg
 role: postdoc
-affiliation: RKJcollab
+group: student
 aliases:
   - K. Hohsfield
   - kirk

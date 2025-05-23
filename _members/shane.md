@@ -2,7 +2,7 @@
 name: Shane Ridoux
 image: images/rice.jpg
 role: phd
-affiliation: RKJcollab
+group: student
 aliases:
   - S. Ridoux
   - shane

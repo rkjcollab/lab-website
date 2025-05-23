@@ -2,7 +2,7 @@
 name: Neha Venkatesh
 image: images/rice.jpg
 role: undergrad
-affiliation: RKJcollab
+group: student
 aliases:
   - N. Venkatesh
   - Neha V.
