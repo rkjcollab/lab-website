@@ -17,7 +17,7 @@
   <div class="citation-text">
     <a
       {% if include.link %}
-        href="{{ include.link | relative_url | xml_escape }}"
+        href="{{ include.link | relative_url | uri_escape }}"
       {% endif %}
       class="citation-title"
     >
