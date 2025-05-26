@@ -7,7 +7,6 @@ title: Home
 
 Welcome to our lab! We are a collaborative research group focused on T1D.
 
-We work at the intersection of science and technology to build tools, publish findings, and train the next generation of researchers.
 
 ---
 
@@ -19,7 +18,7 @@ We work at the intersection of science and technology to build tools, publish fi
   <img src="images/hp3.jpg" alt="Photo 3 from RKJcollab">
   <img src="images/hp4.jpg" alt="Photo 4 from RKJcollab">
   <img src="images/hp5.jpg" alt="Photo 5 from RKJcollab">
-  <img src="images/hp6.jpg" alt="Photo 6 from RKJcollab">
+  <img src="images/hp6.jpg" alt="Photo 6 from RKJcollab"> 
   <img src="images/hp7.jpg" alt="Photo 7 from RKJcollab">
   <img src="images/hp8.jpg" alt="Photo 8 from RKJcollab">
   <img src="images/hp9.jpg" alt="Photo 9 from RKJcollab">
