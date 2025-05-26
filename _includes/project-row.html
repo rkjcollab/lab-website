@@ -35,18 +35,5 @@
         {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
       </div>
     {% endif %}
-
-    {% if include.repo %}
-      <div class="citation-buttons">
-        <a
-          href="https://github.com/{{ include.repo }}"
-          class="button bare"
-          target="_blank"
-          rel="noopener"
-        >
-          GitHub Repo
-        </a>
-      </div>
-    {% endif %}
   </div>
 </div>
