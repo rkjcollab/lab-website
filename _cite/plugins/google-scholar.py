@@ -2,7 +2,6 @@ import os
 from serpapi import GoogleSearch
 from util import *
 
-
 def main(entry):
     """
     receives single list entry from google-scholar data file
@@ -44,7 +43,6 @@ def main(entry):
         year = get_safe(work, "year", "")
         source = {
             "id": get_safe(work, "citation_id", ""),
-            # api does not provide Manubot-citeable id, so keep citation details
             "title": get_safe(work, "title", ""),
             "authors": list(map(str.strip, get_safe(work, "authors", "").split(","))),
             "publisher": get_safe(work, "publication", ""),
@@ -52,10 +50,7 @@ def main(entry):
             "link": get_safe(work, "link", ""),
         }
 
-        # copy fields from entry to source
         source.update(entry)
-
-        # add source to list
         sources.append(source)
 
     return sources
