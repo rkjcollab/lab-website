@@ -18,11 +18,11 @@ grad:
   icon: fa-solid fa-user-graduate
   description: Graduate Student
 
-staffresearcher:
+staff-researcher:
   icon: fa-solid fa-code
   description: Staff Researcher
   
-bioinformaticsanalyst:
+bioinformatics-analyst:
   icon: fa-solid fa-code
   description: Bioinformatics Analyst
 

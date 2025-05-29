@@ -2,7 +2,7 @@
 name: Charlie Repaci
 slug: charlie-repaci
 image: images/charlie.jpg
-role: staffresearcher
+role: staff-researcher
 group: staff
 aliases:
   - Charlie R.

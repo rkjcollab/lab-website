@@ -2,7 +2,7 @@
 name: Sarah Slack
 slug: sarah-slack
 image: images/sarah.jpg
-role: bioinformaticsanalyst
+role: bioinformatics-analyst
 group: staff
 aliases:
   - Sarah S.

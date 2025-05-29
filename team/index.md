@@ -14,7 +14,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🧑‍💼 Staff
 
 {% assign staff = site.members | where: "group", "staff" %}
-{% assign role_order_staff = "principal-investigator,programmer,mascot" | split: "," %}
+{% assign role_order_staff = "principal-investigator,staff-researcher,bioinformatics-analyst" | split: "," %}
 
 {% for role in role_order_staff %}
   {% for member in staff %}
@@ -29,7 +29,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🎓 Students
 
 {% assign students = site.members | where: "group", "student" %}
-{% assign role_order_students = "postdoc,phd,undergrad" | split: "," %}
+{% assign role_order_students = "postdoc,phd,grad" | split: "," %}
 
 {% for role in role_order_students %}
   {% for member in students %}
