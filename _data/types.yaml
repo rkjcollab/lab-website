@@ -14,13 +14,17 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
+grad:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Graduate Student
 
-programmer:
+staffresearcher:
   icon: fa-solid fa-code
-  description: Programmer
+  description: Staff Researcher
+  
+bioinformaticsanalyst:
+  icon: fa-solid fa-code
+  description: Bioinformatics Analyst
 
 mascot:
   icon: fa-solid fa-dog
