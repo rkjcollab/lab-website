@@ -1,7 +1,7 @@
 ---
 name: Sarah Slack
 slug: sarah-slack
-image: images/bread.jpg
+image: images/sarah.jpg
 role: mascot
 group: staff
 aliases:

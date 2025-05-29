@@ -1,7 +1,7 @@
 ---
 name: Charlie Repaci
 slug: charlie-repaci
-image: images/bread.jpg
+image: images/charlie.jpg
 role: programmer
 group: staff
 aliases:

@@ -1,7 +1,7 @@
 ---
 name: Randi Johnson
 slug: randi-johnson
-image: images/bread.jpg
+image: images/randi.jpg
 role: principal-investigator
 group: staff
 aliases:

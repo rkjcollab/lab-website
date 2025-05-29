@@ -1,7 +1,7 @@
 ---
 name: Shane Ridoux
 slug: shane-ridoux
-image: images/rice.jpg
+image: images/shane.jpg
 role: phd
 group: student
 aliases:

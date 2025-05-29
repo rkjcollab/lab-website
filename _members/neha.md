@@ -1,7 +1,7 @@
 ---
 name: Neha Venkatesh
 slug: neha-venkatesh
-image: images/rice.jpg
+image: images/neha.jpg
 role: undergrad
 group: student
 aliases:

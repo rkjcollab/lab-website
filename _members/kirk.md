@@ -1,7 +1,7 @@
 ---
 name: Kirk Hohsfield
 slug: kirk-hohsfield
-image: images/bread.jpg
+image: images/kirk.jpg
 role: postdoc
 group: student
 aliases:
