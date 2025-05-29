@@ -8,21 +8,21 @@
 - title: "Epigenomic Mechanisms of the Maternal Protection in Type 1 Diabetes"
   subtitle: 2023-2025
   group: featured
-  image: images/JDRF.jpg
+  image: images/new JDRFA.jpg
   description: "We will generate a robust catalogue of cell-type specific epigenetic measures on ENDIA subjects exposed and unexposed to maternal T1D and use it to deliver mechanistic insights into the cell compartments and biological pathways by which features of the maternal T1D in utero environment may affect offspring T1D risk."
   repo: rkjcollab/lab-website-template
 
 - title: "Pharmacogenetic approaches to drug metabolism in American Indian/Alaska Native People"
   subtitle: 2023-2025
   group: featured
-  image: images/NIH.png
+  image: images/NHGRI.png
   description: "To understand perspectives on participant engagement, return of results, and data sharing from historically underrepresented participants (e.g., AIAN, African American, and Hispanic/Latino) in the Colorado Center for Personalized Medicine (CCPM) Biobank with focus groups and surveys. Develop a cross-site framework for assessing biobank participants' perspectives and engagement related to bioethical issues in biomedical research."
   repo: rkjcollab/lab-website-template
 
 - title: "Effects of Rare Variants and Ancestry on Beta Agonist Response in Asthma and COPD"
   subtitle: 2022-2025
   group: featured
-  image: images/NIH.png
+  image: images/NHLBI.png
   description: "We propose genetic studies based on β2AR pathway gene variants and whole-genome studies of rare variants and genetic ancestry to identify novel mechanisms for inter-ethnic differences in drug response and disease severity."
   repo: rkjcollab/lab-website-template
 
