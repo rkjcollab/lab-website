@@ -28,7 +28,7 @@ nav:
 
 {% include section.html %}
 
-## 📚 All Publications
+## 📚 Publications
 
 {% include search-box.html %}
 {% include search-info.html %}
