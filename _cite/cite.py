@@ -3,6 +3,7 @@ cite process to convert sources and metasources into full citations
 """
 
 import traceback
+import re
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
@@ -19,6 +20,24 @@ warnings = []
 
 # output citations file
 output_file = "_data/citations.yaml"
+
+
+# Utility function to normalize titles (for deduplication)
+def normalize_title(title):
+    return re.sub(r'\W+', '', title.lower().strip())
+
+# Deduplication logic: prefer DOI, fallback to normalized title
+def deduplicate_citations(citations):
+    seen = set()
+    deduped = []
+    for citation in citations:
+        key = citation.get("doi")
+        if not key:
+            key = normalize_title(citation.get("title", ""))
+        if key and key not in seen:
+            seen.add(key)
+            deduped.append(citation)
+    return deduped
 
 
 log()
@@ -120,7 +139,6 @@ log("Generating citations")
 # list of new citations
 citations = []
 
-
 # loop through compiled sources
 for index, source in enumerate(sources):
     log(f"Processing source {index + 1} of {len(sources)}, {label(source)}")
@@ -173,19 +191,24 @@ for index, source in enumerate(sources):
 
 log()
 
+log("Deduplicating citations")
+
+# deduplicate by DOI or normalized title
+deduped_citations = deduplicate_citations(citations)
+log(f"{len(deduped_citations)} unique citation(s) after deduplication")
+
+
 log("Saving updated citations")
 
-
-# save new citations
+# save deduplicated citations
 try:
-    save_data(output_file, citations)
+    save_data(output_file, deduped_citations)
 except Exception as e:
     log(e, level="ERROR")
     errors.append(e)
 
 
 log()
-
 
 # exit at end, so user can see all errors/warnings in one run
 if len(warnings):
