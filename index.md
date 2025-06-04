@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+header: images/logo.png
 ---
 
 # Welcome to RKJcollab
