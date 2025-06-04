@@ -1,4 +1,4 @@
-how to modify this code just to keep only logo.png {% assign image = page.header | default: site.header %}
+{% assign image = page.header | default: site.header %}
 {% assign dark = page.header-dark | is_nil: site.header-dark | is_nil: true %}
 
 {% assign svg = "images/logo.svg" | file_exists %}
