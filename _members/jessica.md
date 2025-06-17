@@ -1,7 +1,7 @@
 ---
 name: Jessica Guerra
 slug: Jessica Guerra
-image: 
+image: images/blank.png
 role: grad
 group: alumni
 aliases:

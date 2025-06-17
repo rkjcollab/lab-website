@@ -1,7 +1,7 @@
 ---
 name: Kristina Copeland
 slug: Kristina Copeland
-image: 
+image: images/blank.png 
 role: grad
 group: alumni
 aliases:
