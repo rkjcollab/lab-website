@@ -26,6 +26,10 @@ bioinformatics-analyst:
   icon: fa-solid fa-code
   description: Bioinformatics Analyst
 
+research-sevices-proffesional:
+  icon: fa-solid fa-code
+  description: Research Sevices Proffesional
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot

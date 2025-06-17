@@ -44,7 +44,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 ## 🧑‍🎓 Alumni
 
 {% assign alumni = site.members | where: "group", "alumni" %}
-{% assign role_order_alumni = "phd,postdoc,programmer" | split: "," %}
+{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,grad" | split: "," %}
 
 {% for role in role_order_alumni %}
   {% for member in alumni %}

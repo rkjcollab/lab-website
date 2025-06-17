@@ -1,11 +1,11 @@
 ---
-name: alex
+name: Alex Romero
 slug: alex
-image: images/rice.jpg
-role: phd
+image: images/Alex_Romero.png
+role: research-sevices-proffesional
 group: alumni
 aliases:
-  - alex. a
+  - alex. r
 ---
 
 
