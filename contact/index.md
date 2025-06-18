@@ -57,8 +57,8 @@ nav:
 
 {%
   include figure.html
-  image="images/barbara.jpg"
-  caption="[Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes)"
+  image="images/biomedical.jpg"
+  caption="[Department of Biomedical Informatics, CU School of Medicine](https://medschool.cuanschutz.edu/dbmi) "
 %}
 
 {% endcapture %}
@@ -67,8 +67,8 @@ nav:
 
 {%
   include figure.html
-  image="images/biomedical.jpg"
-  caption="[Department of Biomedical Informatics, CU School of Medicine](https://medschool.cuanschutz.edu/dbmi) "
+  image="images/barbara.jpg"
+  caption="[Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes)"
 %}
 
 {%
