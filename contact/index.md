@@ -35,14 +35,14 @@ nav:
 
 {%
   include figure.html
-  image="images/phd_epi_csph.jpg"
+  image="[images/phd_epi_csph.jpg](https://coloradosph.cuanschutz.edu/education/degrees-and-programs/doctor-of-philosophy/phd-in-epidemiology)"
   caption="[PhD - Epidemiology at the Colorado School of Public Health](https://coloradosph.cuanschutz.edu/education/degrees-and-programs/doctor-of-philosophy/phd-in-epidemiology)"
 %}
 
 {%
   include figure.html
-  image="images/hgeneprg.jpg"
-  caption="[Human Medical Genetics and Genomics Training Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)"
+  image="images/barbara.jpg"
+  caption="[Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes)"
 %}
 
 {% endcapture %}
@@ -67,8 +67,8 @@ nav:
 
 {%
   include figure.html
-  image="images/barbara.jpg"
-  caption="[Barbara Davis Center for Diabetes](https://medschool.cuanschutz.edu/barbara-davis-center-for-diabetes)"
+  image="images/hgeneprg.jpg"
+  caption="[Human Medical Genetics and Genomics Training Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)"
 %}
 
 {%
@@ -90,8 +90,8 @@ Staff and Postdoctoral Fellows: Open postings available on [CU Careers](https://
 {% endcapture %}
 
 {% capture col2 %}
-PhD Students: Through affiliated training programs
-MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
+-PhD Students: Through affiliated training programs
+-MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
 {% endcapture %}
 
 {% capture col3 %}
