@@ -7,11 +7,15 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
 
-Welcome to our team page! Meet the amazing people that make up our lab — including staff, students, and alumni.
+Our expertise: epidemiology, biostatistics, bioinformatics and computer science, and genetics/genomics 
+
+Our values: consequential science; ownership; growth; efficiency; diversity of thought, experiences, and expertise 
+
+Themes in our work: thoughtful and appropriate study selection and design; multidisciplinary collaborations; open science; enthusiasm 
 
 ---
 
-## 🧑‍💼 Staff
+## 🧑‍💼 Faculty and Staff
 
 {% assign staff = site.members | where: "group", "staff" %}
 {% assign role_order_staff = "principal-investigator,staff-researcher,bioinformatics-analyst" | split: "," %}
@@ -26,7 +30,7 @@ Welcome to our team page! Meet the amazing people that make up our lab — inclu
 
 ---
 
-## 🎓 Students
+## 🎓 Trainees
 
 {% assign students = site.members | where: "group", "student" %}
 {% assign role_order_students = "postdoc,phd,grad" | split: "," %}

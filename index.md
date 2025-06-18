@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome to RKJcollab
 
 Our goal is to impact population health by leading high-quality, consequential research at the intersection of epidemiology and precision medicine. 
 We specialize in the integrative analyses of multi-omics, genetics/genomics, questionnaire, and/or EHR data to: 
