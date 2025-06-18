@@ -29,7 +29,7 @@ nav:
 
 {% include section.html %}
 
-## 🏫 Affiliations and Training Programs 
+## 🧬 Affiliations and Training Programs 
 
 {% capture col1 %}
 
@@ -83,15 +83,15 @@ nav:
 
 {% include section.html dark=true %}
 
-## ✨ Join Us
+## 👩 Join Us
 
 {% capture col1 %}
-**Staff and Postdoctoral Fellows**: Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
+Staff and Postdoctoral Fellows: Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
 {% endcapture %}
 
 {% capture col2 %}
-- **PhD Students**: Through affiliated training programs
-- **MPH, Undergraduate, and Other Students**: Open postings on [Handshake](https://app.joinhandshake.com/login)
+PhD Students: Through affiliated training programs
+MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
 {% endcapture %}
 
 {% capture col3 %}
