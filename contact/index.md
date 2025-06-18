@@ -7,7 +7,13 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Want to connect with us!!
+## Join Us
+
+- **Staff and Postdoctoral Fellows**: Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
+- **PhD Students**: Through affiliated training programs
+- **MPH, Undergraduate, and Other Students**: Open postings on [Handshake](https://app.joinhandshake.com/login)
+- Or email [Randi Johnson](mailto:randi.johnson@cuanschutz.edu)
+
 
 {%
   include button.html
