@@ -51,14 +51,14 @@ nav:
 
 {%
   include figure.html
-  image="images/personalmedicine.jpg"
-  caption="[Colorado Center for Personalized Medicine](https://medschool.cuanschutz.edu/ccpm) "
+  image="images/biomedical.jpg"
+  caption="[Department of Biomedical Informatics, CU School of Medicine](https://medschool.cuanschutz.edu/dbmi) "
 %}
 
 {%
   include figure.html
-  image="images/biomedical.jpg"
-  caption="[Department of Biomedical Informatics, CU School of Medicine](https://medschool.cuanschutz.edu/dbmi) "
+  image="images/personalmedicine.jpg"
+  caption="[Colorado Center for Personalized Medicine](https://medschool.cuanschutz.edu/ccpm) "
 %}
 
 {% endcapture %}
@@ -90,8 +90,8 @@ Staff and Postdoctoral Fellows: Open postings available on [CU Careers](https://
 {% endcapture %}
 
 {% capture col2 %}
--PhD Students: Through affiliated training programs
--MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
+- PhD Students: Through affiliated training programs
+- MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
 {% endcapture %}
 
 {% capture col3 %}
