@@ -35,7 +35,7 @@ nav:
 
 {%
   include figure.html
-  image="[images/phd_epi_csph.jpg](https://coloradosph.cuanschutz.edu/education/degrees-and-programs/doctor-of-philosophy/phd-in-epidemiology)"
+  image="images/phd_epi_csph.jpg"
   caption="[PhD - Epidemiology at the Colorado School of Public Health](https://coloradosph.cuanschutz.edu/education/degrees-and-programs/doctor-of-philosophy/phd-in-epidemiology)"
 %}
 

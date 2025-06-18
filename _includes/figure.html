@@ -10,9 +10,8 @@
       src="{{ include.image | relative_url | uri_escape }}"
       style="
         width: 100%;
-        aspect-ratio: 4 / 3;
+        height: 250px;
         object-fit: cover;
-        border-radius: 0.5rem;
       "
       alt="{{ include.caption | default: "figure image" | regex_strip }}"
       loading="lazy"
