@@ -9,9 +9,8 @@
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       style="
-        width: 100%;
-        height: 250px;
-        object-fit: cover;
+        width: {{ include.width | default: "auto" }};
+        max-height: {{ include.height | default: "unset" }};
       "
       alt="{{ include.caption | default: "figure image" | regex_strip }}"
       loading="lazy"
