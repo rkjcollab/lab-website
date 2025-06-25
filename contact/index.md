@@ -14,12 +14,14 @@ nav:
   text="Randi K Johnson"
   link="randi.johnson@cuanschutz.edu"
 %}
+
 {%
   include button.html
   type="phone"
   text="(303) 724-3078"
   link="+1-303-724-3078"
 %}
+
 {%
   include button.html
   type="address"
