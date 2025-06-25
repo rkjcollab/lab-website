@@ -18,7 +18,7 @@ We specialize in the integrative analyses of multi-omics, genetics/genomics, que
 
 ## Photo Gallery
 
-{%
+
   include figure.html
   image="images/hp5.jpg"
   image="images/hp2.jpg"
@@ -31,5 +31,4 @@ We specialize in the integrative analyses of multi-omics, genetics/genomics, que
   image="images/hp7.jpg"
   image="images/hp3.jpg"
   image="images/hp16.jpg"
-%}
   
