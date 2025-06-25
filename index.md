@@ -14,21 +14,23 @@ We specialize in the integrative analyses of multi-omics, genetics/genomics, que
 3) enable precision prevention. We accomplish our work using open-source software implemented in high-performance and cloud computational spaces, and with a particular focus on autoimmune and allergic diseases. 
 
 
-{% include section.html %}
+---
 
 ## Photo Gallery
 
+<div class="gallery">
+  <img src="images/hp5.jpg" alt="Photo 1 from RKJcollab">
+  <img src="images/hp2.jpg" alt="Photo 2 from RKJcollab">
+  <img src="images/hp9.jpg" alt="Photo 11 from RKJcollab">
+  <img src="images/hp10.jpg" alt="Photo 3 from RKJcollab">
+  <img src="images/hp12.jpg" alt="Photo 4 from RKJcollab">
+  <img src="images/hp13.jpg" alt="Photo 16copy from RKJcollab">
+  <img src="images/hp14.jpg" alt="Photo 5 from RKJcollab">
+  <img src="images/hp6.jpg" alt="Photo 6 from RKJcollab"> 
+  <img src="images/hp4.jpg" alt="Photo 7 from RKJcollab">
+  <img src="images/hp7.jpg" alt="Photo 8 from RKJcollab">
+  <img src="images/hp3.jpg" alt="Photo 9 from RKJcollab">
+  <img src="images/hp16.jpg" alt="Photo 10 from RKJcollab">
 
-  include figure.html
-  image="images/hp5.jpg"
-  image="images/hp2.jpg"
-  image="images/hp9.jpg"
-  image="images/hp10.jpg"
-  image="images/hp12.jpg"
-  image="images/hp13.jpg"
-  image="images/hp14.jpg"
-  image="images/hp4.jpg"
-  image="images/hp7.jpg"
-  image="images/hp3.jpg"
-  image="images/hp16.jpg"
-  
+</div>
+
