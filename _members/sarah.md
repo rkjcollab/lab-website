@@ -8,6 +8,7 @@ aliases:
   - Sarah S.
   - sarah
   - S. Slack
+  - Sarah D. Slack
 links:
   orcid: https://orcid.org/0000-0002-0559-3138 
   github: https://github.com/sdslack

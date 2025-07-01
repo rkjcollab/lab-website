@@ -8,6 +8,7 @@ aliases:
   - Charlie R.
   - charlie
   - C. Repaci
+  - Charlie T. Repaci
 links:
   orcid: https://orcid.org/0000-0001-8656-0903 
   github: https://github.com/crepaci

@@ -8,6 +8,7 @@ aliases:
   - S. Ridoux
   - shane
   - Shane R.
+  - Shane E. Ridoux
 links:
   orcid: 0009-0003-0936-3377
   github: shaneridoux

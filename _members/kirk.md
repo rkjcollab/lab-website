@@ -8,6 +8,7 @@ aliases:
   - K. Hohsfield
   - kirk
   - Kirk H.
+  - Kirk R. Hohsfield
 links:
   orcid: 0000-0002-6707-7913
   github: https://github.com/khohsfield
