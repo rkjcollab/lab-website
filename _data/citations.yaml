@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.06.23.661117
+  title: Differences in immune cell profiles around the time of islet autoimmunity
+    seroconversion in children with and without type 1 diabetes
+  authors:
+  - Kirk R. Hohsfield
+  - Patrick M. Carry
+  - Sarah D. Slack
+  - Charlie T. Repaci
+  - Lauren A. Vanderlinden
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M. Norris
+  - Randi K. Johnson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-06-27'
+  link: https://doi.org/g9rxbb
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/ijms25147620
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
     a Key Link to Offspring Obesity in Early Childhood
