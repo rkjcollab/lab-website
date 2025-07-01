@@ -33,7 +33,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## 🎓 Trainees
 
 {% assign students = site.members | where: "group", "student" %}
-{% assign role_order_students = "postdoc,phd,grad" | split: "," %}
+{% assign role_order_students = "postdoc,phd,mph" | split: "," %}
 
 {% for role in role_order_students %}
   {% for member in students %}
@@ -48,7 +48,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## 🧑‍🎓 Alumni
 
 {% assign alumni = site.members | where: "group", "alumni" %}
-{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,grad" | split: "," %}
+{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,ms,mph" | split: "," %}
 
 {% for role in role_order_alumni %}
   {% for member in alumni %}

@@ -6,6 +6,8 @@ role: research-sevices-proffesional
 group: alumni
 aliases:
   - alex. r
+  - alex
+  - x romero
 ---
 
 

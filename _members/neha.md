@@ -7,6 +7,8 @@ group: student
 aliases:
   - N. Venkatesh
   - Neha V.
+  - neha
+  - a venkatesh
 links:
   orcid: 0000-0002-1234-5678
   github: alexchen

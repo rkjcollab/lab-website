@@ -7,6 +7,8 @@ group: staff
 aliases:
   - R. Johnson
   - Randi J.
+  - Randi K Johnson
+  - R K johnson
 links:
   orcid: 0000-0002-1234-5678
   github: alexchen
