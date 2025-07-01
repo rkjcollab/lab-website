@@ -85,11 +85,6 @@ nav:
   caption="[Human Medical Genetics and Genomics Training Program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home)"
 %}
 
-{%
-  include figure.html
-  image="images/epi_csph.png"
-  caption="[Department of Epidemiology, Colorado School of Public Health](https://coloradosph.cuanschutz.edu/education/departments/epidemiology)"
-%}
 
 {% endcapture %}
 
