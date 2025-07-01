@@ -2,7 +2,7 @@
 name: Erika Esquinca
 slug: Erika Esquinca
 image: images/Erika-Esquinca.png
-role: grad
+role: ms
 group: alumni
 aliases:
   - erika e

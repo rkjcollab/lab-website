@@ -2,7 +2,7 @@
 name: Jessica Guerra
 slug: Jessica Guerra
 image: images/blank.png
-role: grad
+role: mph
 group: alumni
 aliases:
   - jessica G

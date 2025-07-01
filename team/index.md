@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
 
-Our expertise: epidemiology, biostatistics, bioinformatics and computer science, and genetics/genomics 
+Our expertise: epidemiology; biostatistics; bioinformatics and computer science; and genetics/genomics 
 
 Our values: consequential science; ownership; growth; efficiency; diversity of thought, experiences, and expertise 
 
-Themes in our work: thoughtful and appropriate study selection and design; multidisciplinary collaborations; open science; enthusiasm 
+Themes in our work: thoughtful and appropriate study selection and design; multidisciplinary collaborations; open and ethical science; enthusiasm 
 
 ---
 

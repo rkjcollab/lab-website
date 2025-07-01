@@ -2,7 +2,7 @@
 name: Amanda Brice
 slug: Amanda Brice
 image: images/Amanda-Brice.png
-role: grad
+role: mph
 group: alumni
 aliases:
   - amanda b

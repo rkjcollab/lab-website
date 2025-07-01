@@ -2,7 +2,7 @@
 name: Kristina Copeland
 slug: Kristina Copeland
 image: images/blank.png 
-role: grad
+role: mph
 group: alumni
 aliases:
   - k copeland

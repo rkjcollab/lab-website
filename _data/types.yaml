@@ -14,9 +14,13 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-grad:
+mph:
   icon: fa-solid fa-user-graduate
-  description: Graduate Student
+  description: MPH Student
+
+ms:
+  icon: fa-solid fa-user-graduate
+  description: MS Student
 
 staff-researcher:
   icon: fa-solid fa-code

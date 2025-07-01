@@ -2,7 +2,7 @@
 name: Neha Venkatesh
 slug: neha-venkatesh
 image: images/neha.jpg
-role: grad
+role: mph
 group: student
 aliases:
   - N. Venkatesh
