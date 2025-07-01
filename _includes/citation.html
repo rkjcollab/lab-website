@@ -25,24 +25,6 @@
           {% include fallback.html %}
         >
       </a>
-
-      {% if citation.figure_1_url %}
-        <div class="citation-figure1" style="margin-top: 0.5em;">
-          <a
-            {% if citation.link %}
-              href="{{ citation.link | relative_url | uri_escape }}"
-            {% endif %}
-            aria-label="Figure 1 from {{ citation.title | default: 'article' }}"
-          >
-            <img
-              src="{{ citation.figure_1_url | relative_url | uri_escape }}"
-              alt="Figure 1 from {{ citation.title | default: 'article' }}"
-              loading="lazy"
-              style="max-width: 300px; border: 1px solid #ddd; border-radius: 4px;"
-            >
-          </a>
-        </div>
-      {% endif %}
     {% endif %}
 
     <div class="citation-text">
@@ -58,7 +40,8 @@
         {{ citation.title | default: "[no title info]" }}
       </a>
 
-      <div class="citation-authors"
+      <div
+        class="citation-authors"
         {% if citation.authors.size > 10 %}
           data-tooltip="{{ citation.authors | join: ", " | xml_escape }}"
         {% endif %}

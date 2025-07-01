@@ -1,155 +1,64 @@
-- id: orcid:10.3390/ijms25147620
-  title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as a Key Link to Offspring Obesity in Early Childhood
-  date: '2024-07-11'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:38915393
-  title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity differentiate between reversion versus progression of islet autoimmunity.
-  date: '2024-06-10'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1038/s41467-024-48507-7
-  title: Multi-omics in nasal epithelium reveals three axes of dysregulation for asthma risk in the African Diaspora populations
-  date: '2024-05-28'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1155/2023/5367637
-  title: DNA Methylation Near DLGAP2 May Mediate the Relationship between Family History of Type 1 Diabetes and Type 1 Diabetes Risk
-  date: '2023-09-11'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.3390/nu15040945
-  title: An Oxylipin-Related Nutrient Pattern and Risk of Type 1 Diabetes in the Diabetes Autoimmunity Study in the Young (DAISY)
-  date: '2023-02-14'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.3390/ijerph20032368
-  title: COVID-19 Mortality in the Colorado Center for Personalized Medicine Biobank
-  date: '2023-01-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.2337/db21-1111
-  title: 'Changes in the Coexpression of Innate Immunity Genes During Persistent Islet Autoimmunity Are Associated With Progression of Islet Autoimmunity: Diabetes Autoimmunity Study in the Young (DAISY)'
-  date: '2022-09-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.2196/37327
-  title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized Medicine: Observational Study'
-  date: '2022-06-13'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1016/j.jaci.2021.11.002
-  title: Discovering metabolite quantitative trait loci in asthma using an isolated population
-  date: '2022-05-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:35304161
-  title: Lipid mediators are detectable in the nasal epithelium and differ by asthma status in female subjects.
-  date: '2022-03-15'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1101/2022.02.15.22271018
-  title: COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized Medicine
-  date: '2022-02-21'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.3390/nu13114057
-  title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
-  date: '2021-11-13'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:34496950
-  title: An effective processing pipeline for harmonizing DNA methylation data from Illumina's 450K and EPIC platforms for epidemiological studies.
-  date: '2021-09-08'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.3390/metabo11080542
-  title: A Mediation Approach to Discovering Causal Relationships between the Metabolome and DNA Methylation in Type 1 Diabetes
-  date: '2021-08-14'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1007/s00125-021-05446-y
-  title: Maternal food consumption during late pregnancy and offspring risk of islet autoimmunity and type 1 diabetes
-  date: '2021-07-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1038/s41390-020-1084-2
-  title: Predictors of oxylipins in a healthy pediatric population
-  date: '2021-05-29'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:33863802
-  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
-  date: '2021-04-16'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1111/1753-0407.13093
-  title: Prediction of the development of islet autoantibodies through integration of environmental, genetic, and metabolic markers
-  date: '2021-02-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1111/pedi.13085
-  title: Metabolomics‐related nutrient patterns at seroconversion and risk of progression to type 1 diabetes
-  date: '2020-11-09'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:32651851
-  title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes Autoimmunity Study In the Young (DAISY).
-  date: '2020-07-10'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1111/pedi.12995
-  title: DNA methylation near the INS gene is associated with INS genetic variation (rs689) and type 1 diabetes in the Diabetes Autoimmunity Study in the Young
-  date: '2020-06-28'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:32333871
-  title: Type 1 diabetes-origins and epidemiology - Authors' reply.
-  date: '2020-05-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1038/s41598-020-60758-0
-  title: Longitudinal DNA methylation differences precede type 1 diabetes
-  date: '2020-02-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:31999944
-  title: Type 1 diabetes-early life origins and changing epidemiology.
-  date: '2020-01-27'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.1017/jns.2020.9
-  title: Association between change in self-reported sugar intake and a sugar biomarker (δ13C) in children at increased risk for type 1 diabetes
-  date: '2020-01-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:31715316
-  title: 'Utilizing cooled liquid chromatography and chemical derivatization to separate and quantify C3-epimers of 25-hydroxy vitamin D and low abundant 1α,25(OH)2D3: Application in a pediatric population.'
-  date: '2019-11-10'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:31616039
-  title: Metabolite-related dietary patterns and the development of islet autoimmunity.
-  date: '2019-10-15'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:31082869
-  title: 'Gluten Intake and Risk of Celiac Disease: Long-Term Follow-up of an At-Risk Birth Cohort.'
-  date: '2019-05-09'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:30796108
-  title: 'Gluten Intake and Risk of Islet Autoimmunity and Progression to Type 1 Diabetes in Children at Increased Risk of the Disease: The Diabetes Autoimmunity Study in the Young (DAISY).'
-  date: '2019-02-22'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:30795754
-  title: The global school-based student health survey as a tool to guide adolescent health interventions in rural Guatemala.
-  date: '2019-02-22'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
-- id: orcid:10.2105/AJPH.2015.302711
-  title: 'Adverse birth outcomes in Colorado: Assessing the impact of a statewide initiative to prevent unintended pregnancy'
-  date: '2015-01-01'
-  type: paper
-  link: https://orcid.org/0000-0001-9345-4439
+- id: doi:10.1101/2025.06.23.661117
+  tags: [immunology, type1diabetes, autoimmunity]
+- id: doi:10.3390/ijms25147620
+  tags: [metabolomics, obesity, pregnancy]
+- id: pmid:38915393
+  tags: [epigenetics, autoimmunity, longitudinal]
+- id: doi:10.1038/s41467-024-48507-7
+  tags: [multiomics, asthma, african diaspora, epithelium]
+- id: doi:10.1155/2023/5367637
+  tags: [DNA methylation, genetics, type1diabetes]
+- id: doi:10.3390/nu15040945
+  tags: [nutrients, oxylipins, type1diabetes]
+- id: doi:10.3390/ijerph20032368
+  tags: [COVID-19, mortality, biobank]
+- id: doi:10.2337/db21-1111
+  tags: [immunity, coexpression, diabetes]
+- id: doi:10.2196/37327
+  tags: [COVID-19, surveillance, biobank]
+- id: doi:10.1016/j.jaci.2021.11.002
+  tags: [metabolite, asthma, QTL]
+- id: pmid:35304161
+  tags: [lipid mediators, asthma, nasal epithelium]
+- id: doi:10.1101/2022.02.15.22271018
+  tags: [COVID-19, biobank, surveillance]
+- id: doi:10.3390/nu13114057
+  tags: [epigenetics, infant feeding, DNA methylation]
+- id: pmid:34496950
+  tags: [DNA methylation, pipeline, epidemiology]
+- id: doi:10.3390/metabo11080542
+  tags: [mediation, metabolome, methylation, diabetes]
+- id: doi:10.1007/s00125-021-05446-y
+  tags: [maternal nutrition, pregnancy, type1diabetes]
+- id: doi:10.1038/s41390-020-1084-2
+  tags: [oxylipins, pediatrics, metabolomics]
+- id: pmid:33863802
+  tags: [phospholipids, autoimmunity, diabetes]
+- id: doi:10.1111/1753-0407.13093
+  tags: [prediction, autoantibodies, diabetes]
+- id: doi:10.1111/pedi.13085
+  tags: [metabolomics, nutrient patterns, seroconversion]
+- id: pmid:32651851
+  tags: [gluten, thyroid autoantibodies, diabetes]
+- id: doi:10.1111/pedi.12995
+  tags: [DNA methylation, INS gene, diabetes]
+- id: pmid:32333871
+  tags: [type1diabetes, epidemiology, commentary]
+- id: doi:10.1038/s41598-020-60758-0
+  tags: [DNA methylation, longitudinal, diabetes]
+- id: pmid:31999944
+  tags: [type1diabetes, early origins, epidemiology]
+- id: doi:10.1017/jns.2020.9
+  tags: [diet, sugar intake, biomarkers]
+- id: pmid:31715316
+  tags: [vitamin D, chromatography, epimers]
+- id: pmid:31616039
+  tags: [diet, metabolite patterns, autoimmunity]
+- id: pmid:31082869
+  tags: [gluten, celiac disease, cohort study]
+- id: pmid:30796108
+  tags: [gluten, islet autoimmunity, diabetes]
+- id: pmid:30795754
+  tags: [adolescent health, survey, Guatemala]
+- id: doi:10.2105/AJPH.2015.302711
+  tags: [birth outcomes, public health, pregnancy]
