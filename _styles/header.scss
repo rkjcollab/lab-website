@@ -2,7 +2,8 @@
 ---
 
 $logo-big: 200px;
-$logo: 200px;
+$logo-height: 200px;
+$logo-width:300px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -40,7 +41,8 @@ header a {
 }
 
 .logo {
-  height: $logo;
+  height: $logo-height;
+  width: $logo-width;
 }
 
 .logo > * {
