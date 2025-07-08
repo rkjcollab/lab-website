@@ -6,7 +6,8 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  height: 200px;
+  color: black;
+  height: 400px;
   overflow: hidden;
   position: sticky !important;
   top: 0;
@@ -14,7 +15,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: black;
   text-decoration: none;
 }
 
@@ -46,6 +47,7 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  color: black;
 }
 
 .title {
@@ -63,7 +65,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: black;
   appearance: none;
   transition: background var(--transition);
 }
