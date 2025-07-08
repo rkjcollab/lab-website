@@ -1,25 +1,21 @@
 ---
 ---
 
-$logo-big: 250px;
-$logo: 150px;
+$logo-big: 200px;
+$logo: 100px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
 
 header {
   display: flex;
-  justify-content: center; // Replace space-between
-  flex-direction: column;  // Stack logo/text/nav
+  justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
   color: black;
-
-  height: 800px;         //  Fixed header height
-  overflow: hidden;      //  Hide overflow from large logo
 
   @if $sticky {
     position: sticky !important;
@@ -35,12 +31,11 @@ header a {
 
 .home {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
-  flex-grow: 0;
+  flex-grow: 1;
   max-width: 100%;
 }
 
@@ -55,14 +50,13 @@ header a {
 
 .title-text {
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  justify-content: flex-start;
+  align-items: baseline;
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: center;
+  text-align: left;
   color: black; // Ensure title/subtitle are black
   font-weight: bold
 }
