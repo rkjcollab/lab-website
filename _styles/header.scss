@@ -1,5 +1,3 @@
----
-
 $logo-big: 500px;
 $logo: 500px;
 $big-padding: 100px;
@@ -19,7 +17,7 @@ header {
   height: 200px;         // Fixed header height
   overflow: hidden;      // Hide overflow from large logo
 
-  @if $sticky {
+  @if $sticky == true {
     position: sticky !important;
     top: 0;
     z-index: 10 !important;
@@ -148,7 +146,7 @@ header[data-big] {
   flex-direction: column;
   padding: $big-padding 20px;
 
-  @if $sticky {
+  @if $sticky == true {
     top: unset;
   }
 
