@@ -18,7 +18,7 @@ header {
   box-shadow: var(--shadow);
   color: black;
 
-  height: 400px;         //  Fixed header height
+  height: 800px;         //  Fixed header height
   overflow: hidden;      //  Hide overflow from large logo
 
   @if $sticky {
@@ -35,11 +35,12 @@ header a {
 
 .home {
   display: flex;
-  justify-content: flex-start;
+  flex-direction: column;
+  justify-content: center;
   align-items: center;
   gap: 10px;
   flex-basis: 0;
-  flex-grow: 1;
+  flex-grow: 0;
   max-width: 100%;
 }
 
@@ -54,13 +55,14 @@ header a {
 
 .title-text {
   display: flex;
-  justify-content: flex-start;
-  align-items: baseline;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   flex-wrap: wrap;
   gap: 5px;
   min-width: 0;
   font-family: var(--title);
-  text-align: left;
+  text-align: center;
   color: black; // Ensure title/subtitle are black
   font-weight: bold
 }
