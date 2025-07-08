@@ -1,0 +1,180 @@
+$logo-big: 500px;
+$logo: 500px;
+$big-padding: 100px;
+$collapse: 700px;
+$sticky: true;
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 20px;
+  box-shadow: var(--shadow);
+  color: black;  // Set text color inside header to black
+
+  height: 200px;         // Fixed header height
+  overflow: hidden;      // Hide overflow from large logo
+
+  @if $sticky == true {
+    position: sticky !important;
+    top: 0;
+    z-index: 10 !important;
+  }
+}
+
+header a {
+  color: black;  // Ensure links in header are black
+  text-decoration: none;
+}
+
+.home {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+  flex-basis: 0;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.logo {
+  height: $logo;
+  width: 500px;  // Set logo width
+  flex-shrink: 0;
+}
+
+.logo > * {
+  height: 100%;
+  width: 100%;  // Make sure SVG/image fills container
+}
+
+.title-text {
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 5px;
+  min-width: 0;
+  font-family: var(--title);
+  text-align: left;
+  color: black;  // Ensure title/subtitle are black
+}
+
+.title {
+  font-size: var(--large);
+  color: black;
+}
+
+.subtitle {
+  opacity: 0.65;
+  font-weight: var(--thin);
+  color: black;
+}
+
+.nav-toggle {
+  display: none;
+  position: relative;
+  width: 30px;
+  height: 30px;
+  margin: 0;
+  color: black;//  Toggle icon color
+  appearance: none;
+  transition: background var(--transition);
+}
+
+.nav-toggle:after {
+  content: "\f0c9";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  font-size: 15px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+
+.nav-toggle:checked:after {
+  content: "\f00d";
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  font-family: var(--heading);
+  text-transform: uppercase;
+  color: black;
+}
+
+nav > a {
+  padding: 5px;
+  color: black;
+
+  &:hover {
+    color: gray;
+  }
+}
+
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    justify-content: flex-end;
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-toggle:not(:checked) + nav {
+      display: none;
+    }
+
+    nav {
+      align-items: flex-end;
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+}
+
+header[data-big] {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: $big-padding 20px;
+
+  @if $sticky == true {
+    top: unset;
+  }
+
+  .home {
+    flex-direction: column;
+    flex-grow: 0;
+  }
+
+  .logo {
+    height: $logo-big;
+    width: 500px;  // Enforce logo width in big header too
+    flex-shrink: 0;
+  }
+
+  .title-text {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    color: black;
+  }
+
+  .title {
+    font-size: var(--xxl);
+    color: black;
+  }
+
+  .subtitle {
+    font-size: var(--large);
+    color: black;
+  }
+}
