@@ -1,6 +1,6 @@
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -8,6 +8,7 @@ header {
   box-shadow: var(--shadow);
   color: black;
   height: 400px;
+  overflow: hidden;
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
