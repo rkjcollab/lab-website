@@ -9,7 +9,7 @@ $sticky: true;
 
 header {
   display: flex;
-  justify-content: space-between;
+  justify-content: center; // Replace space-between
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
@@ -18,7 +18,7 @@ header {
   color: black;
 
   height: 400px;         //  Fixed header height
-
+  overflow: hidden;      //  Hide overflow from large logo
 
   @if $sticky {
     position: sticky !important;
