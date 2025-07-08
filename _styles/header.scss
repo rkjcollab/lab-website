@@ -62,15 +62,18 @@ header a {
   font-family: var(--title);
   text-align: left;
   color: black; // Ensure title/subtitle are black
+  font-weight: bold
 }
 
 .title {
   font-size: var(--large);
+  font-weight: bold
 }
 
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
+  font-weight: bold
 }
 
 .nav-toggle {
@@ -112,6 +115,7 @@ nav {
 
 nav > a {
   padding: 5px;
+  font-weight: bold
 }
 
 nav > a:hover {
