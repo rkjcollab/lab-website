@@ -6,14 +6,13 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  color: black;
   position: sticky !important;
   top: 0;
   z-index: 10 !important;
 }
 
 header a {
-  color: black;
+  color: var(--text);
   text-decoration: none;
 }
 
@@ -28,14 +27,12 @@ header a {
 }
 
 .logo {
-  height: 500px;
-  width: 500px;
-  flex-shrink: 0;
+  height: 40px;
 }
 
 .logo > * {
+  width: unset;
   height: 100%;
-  width: 100%;
 }
 
 .title-text {
@@ -47,18 +44,15 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
-  color: black;
 }
 
 .title {
   font-size: var(--large);
-  color: black;
 }
 
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
-  color: black;
 }
 
 .nav-toggle {
@@ -67,7 +61,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: black;
+  color: var(--text);
   appearance: none;
   transition: background var(--transition);
 }
@@ -77,11 +71,11 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
+  color: var(--text);
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   transform: translate(-50%, -50%);
-  color: black;
 }
 
 .nav-toggle:checked:after {
@@ -96,15 +90,14 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
-  color: black;
 }
 
 nav > a {
   padding: 5px;
-  color: black;
 }
+
 nav > a:hover {
-  color: gray;
+  color: var(--primary);
 }
 
 @media (max-width: 700px) {
@@ -136,23 +129,19 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 500px;
-  width: 500px;
+  height: 80px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  color: black;
 }
 header[data-big] .title {
   font-size: var(--xxl);
-  color: black;
 }
 header[data-big] .subtitle {
   font-size: var(--large);
-  color: black;
 }
 
 /*# sourceMappingURL=header.css.map */
