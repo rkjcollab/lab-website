@@ -10,6 +10,7 @@ $sticky: true;
 header {
   display: flex;
   justify-content: center; // Replace space-between
+  flex-direction: column;  // Stack logo/text/nav
   align-items: center;
   flex-wrap: wrap;
   gap: 20px;
