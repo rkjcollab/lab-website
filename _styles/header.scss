@@ -14,7 +14,7 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  color: black;// Set text color inside header to black
+  color: black;  // Set text color inside header to black
 
   height: 200px;         // Fixed header height
   overflow: hidden;      // Hide overflow from large logo
@@ -27,7 +27,7 @@ header {
 }
 
 header a {
-  color: black; // Ensure links in header are black
+  color: black;  // Ensure links in header are black
   text-decoration: none;
 }
 
@@ -43,13 +43,13 @@ header a {
 
 .logo {
   height: $logo;
-  width: 500px;//  Set logo width
+  width: 500px;  // Set logo width
   flex-shrink: 0;
 }
 
 .logo > * {
   height: 100%;
-  width: 100%;//  Make sure SVG/image fills container
+  width: 100%;  // Make sure SVG/image fills container
 }
 
 .title-text {
@@ -61,7 +61,7 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
-  color: black;// Ensure title/subtitle are black
+  color: black;  // Ensure title/subtitle are black
 }
 
 .title {
@@ -159,7 +159,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
-    width: 500px;//  Enforce logo width in big header too
+    width: 500px;  // Enforce logo width in big header too
     flex-shrink: 0;
   }
 
