@@ -1,8 +1,8 @@
 ---
 ---
 
-$logo-big: 80px;
-$logo: 40px;
+$logo-big: 250px;
+$logo: 150px;
 $big-padding: 100px;
 $collapse: 700px;
 $sticky: true;
@@ -16,8 +16,8 @@ header {
   padding: 20px;
   box-shadow: var(--shadow);
 
-  height: 200px;         // ✅ Fixed header height
-  overflow: hidden;      // ✅ Hide overflow from large logo
+  height: 200px;         //  Fixed header height
+  overflow: hidden;      //  Hide overflow from large logo
 
 
   @if $sticky {
