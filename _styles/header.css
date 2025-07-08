@@ -29,6 +29,7 @@ header a {
 
 .logo {
   height: 200px;
+  width: 300px;
 }
 
 .logo > * {
