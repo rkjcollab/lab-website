@@ -15,6 +15,7 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
+  color: black; // ✅ Set text color inside header to black
 
   @if $sticky {
     position: sticky !important;
@@ -24,7 +25,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: black; // ✅ Ensure links in header are black
   text-decoration: none;
 }
 
@@ -40,11 +41,13 @@ header a {
 
 .logo {
   height: $logo;
+  width: 500px; // ✅ Set logo width
+  flex-shrink: 0;
 }
 
 .logo > * {
-  width: 500px;
   height: 100%;
+  width: 100%; // ✅ Make sure SVG/image fills container
 }
 
 .title-text {
@@ -56,15 +59,18 @@ header a {
   min-width: 0;
   font-family: var(--title);
   text-align: left;
+  color: black; // ✅ Ensure title/subtitle are black
 }
 
 .title {
   font-size: var(--large);
+  color: black;
 }
 
 .subtitle {
   opacity: 0.65;
   font-weight: var(--thin);
+  color: black;
 }
 
 .nav-toggle {
@@ -73,7 +79,7 @@ header a {
   width: 30px;
   height: 30px;
   margin: 0;
-  color: var(--text);
+  color: black; // ✅ Toggle icon color
   appearance: none;
   transition: background var(--transition);
 }
@@ -83,11 +89,11 @@ header a {
   position: absolute;
   left: 50%;
   top: 50%;
-  color: var(--text);
   font-size: 15px;
   font-family: "Font Awesome 6 Free";
   font-weight: 900;
   transform: translate(-50%, -50%);
+  color: black;
 }
 
 .nav-toggle:checked:after {
@@ -102,14 +108,16 @@ nav {
   gap: 10px;
   font-family: var(--heading);
   text-transform: uppercase;
+  color: black;
 }
 
 nav > a {
   padding: 5px;
-}
+  color: black;
 
-nav > a:hover {
-  color: var(--primary);
+  &:hover {
+    color: gray;
+  }
 }
 
 header:not([data-big]) {
@@ -149,6 +157,7 @@ header[data-big] {
 
   .logo {
     height: $logo-big;
+    width: 500px; // ✅ Enforce logo width in big header too
     flex-shrink: 0;
   }
 
@@ -156,13 +165,16 @@ header[data-big] {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    color: black;
   }
 
   .title {
     font-size: var(--xxl);
+    color: black;
   }
 
   .subtitle {
     font-size: var(--large);
+    color: black;
   }
 }
