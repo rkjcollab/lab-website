@@ -18,7 +18,6 @@ header {
   color: black;
 
   height: 400px;         //  Fixed header height
-  overflow: hidden;      //  Hide overflow from large logo
 
 
   @if $sticky {
