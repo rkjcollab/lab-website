@@ -11,6 +11,7 @@
 <div class="citation-container">
   <div class="citation">
     {% if include.style == "rich" %}
+      {%- comment -%}
       <a
         {% if citation.link %}
           href="{{ citation.link | relative_url | uri_escape }}"
@@ -25,6 +26,7 @@
           {% include fallback.html %}
         >
       </a>
+     {%- endcomment -%}
     {% endif %}
 
     <div class="citation-text">
