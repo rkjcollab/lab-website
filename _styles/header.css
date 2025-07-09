@@ -28,8 +28,8 @@ header a {
 }
 
 .logo {
-  height: 300px;
-  width: 400px;
+  height: 200px;
+  width: 300px;
 }
 
 .logo > * {
@@ -136,7 +136,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 200px;
+  height: 400px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
