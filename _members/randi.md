@@ -12,7 +12,7 @@ aliases:
   - Randi K. Johnson
   - Randi
 links:
-  orcid: 0000-0002-1234-5678
+  orcid: 0000-0001-9345-4439
   github: alexchen
   google-scholar: https://scholar.google.com/citations?user=pwGJOuEAAAAJ&hl=en
   linkedin: randikjohson
