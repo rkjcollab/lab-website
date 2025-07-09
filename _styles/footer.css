@@ -10,16 +10,12 @@ footer {
   box-shadow: var(--shadow);
 }
 
-footer a {
+footer a,
+footer a:visited,
+footer a:hover,
+footer a:active {
   color: black !important;
-}
-
-footer a:hover {
-  color: black !important;
-}
-
-footer .icon {
-  color: black;
+  text-decoration: none; /* optional */
 }
 
 /*# sourceMappingURL=footer.css.map */
