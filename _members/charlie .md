@@ -10,9 +10,9 @@ aliases:
   - C. Repaci
   - Charlie T. Repaci
 links: 
-  orcid: 000-0001-8656-0903  
+  orcid: 0000-0001-8656-0903  
   github: crepaci
-  google-scholar: https://scholar.google.com/citations?user=GT0xSs0AAAAJ&hl=en 
+  google-scholar: https://scholar.google.com/citations?user=GT0xSs0AAAAJ&hl=en
   linkedin: charlie-repaci-07b723179 
 ---
 

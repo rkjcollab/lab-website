@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %} Team
 
-Our expertise: epidemiology; biostatistics; bioinformatics and computer science; and genetics/genomics 
+Our expertise: epidemiology, biostatistics, bioinformatics and computer science, and genetics/genomics 
 
 Our values: consequential science; ownership; growth; efficiency; diversity of thought, experiences, and expertise 
 
-Themes in our work: thoughtful and appropriate study selection and design; multidisciplinary collaborations; open and ethical science; enthusiasm 
+Themes in our work: thoughtful and appropriate study selection and design; multidisciplinary collaborations; open science; enthusiasm 
 
 ---
 
@@ -33,7 +33,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## Trainees
 
 {% assign students = site.members | where: "group", "student" %}
-{% assign role_order_students = "postdoc,phd,mph" | split: "," %}
+{% assign role_order_students = "postdoc,phd,grad" | split: "," %}
 
 {% for role in role_order_students %}
   {% for member in students %}
@@ -48,7 +48,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## Alumni
 
 {% assign alumni = site.members | where: "group", "alumni" %}
-{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,ms,mph" | split: "," %}
+{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,grad" | split: "," %}
 
 {% for role in role_order_alumni %}
   {% for member in alumni %}
