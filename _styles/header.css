@@ -137,6 +137,7 @@ header[data-big] .home {
 }
 header[data-big] .logo {
   height: 200px;
+  width: 300px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
