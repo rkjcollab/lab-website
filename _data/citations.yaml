@@ -16,8 +16,13 @@
   date: '2025-07-01'
   link: https://doi.org/g9scnx
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - vaccine hesitancy
+  - demographic factors
+  - health conditions
+  - trust in science
 - id: doi:10.1101/2025.06.23.661117
   title: Differences in immune cell profiles around the time of islet autoimmunity
     seroconversion in children with and without type 1 diabetes
