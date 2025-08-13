@@ -48,7 +48,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## Alumni
 
 {% assign alumni = site.members | where: "group", "alumni" %}
-{% assign role_order_alumni = "research-sevices-proffesional,postdoc,phd,ms,mph" | split: "," %}
+{% assign role_order_alumni = "research-services-professional,postdoc,phd,ms,mph" | split: "," %}
 
 {% for role in role_order_alumni %}
   {% for member in alumni %}
