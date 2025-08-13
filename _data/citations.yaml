@@ -1,5 +1,33 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.07.15.25331523
+  title: Enabling reproducible type 1 diabetes polygenic risk scoring for clinical
+    and translational applications
+  authors:
+  - Maizy S. Brasher
+  - Matthew J. Fisher
+  - Carolina Sanchez Wild
+  - Jonathan A. Shortt
+  - Krista Miller
+  - Randi K. Johnson
+  - Nicholas M. Rafaels
+  - Elizabeth L. Kudron
+  - Ian M. Brooks
+  - Kristy R. Crooks
+  - Sean M. Oser
+  - Tamara K. Oser
+  - Joanne B. Cole
+  - Laura K. Wiley
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Meng Lin
+  - Christopher R. Gignoux
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-17'
+  link: https://doi.org/g9wt9k
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.06.30.25330574
   title: Demographic Factors, Attitudes, and Pre-Existing Conditions Impacting COVID-19
     Vaccine Hesitancy
@@ -18,11 +46,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - vaccine hesitancy
-  - demographic factors
-  - health conditions
-  - trust in science
 - id: doi:10.1101/2025.06.23.661117
   title: Differences in immune cell profiles around the time of islet autoimmunity
     seroconversion in children with and without type 1 diabetes
@@ -42,10 +65,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - immunology
-  - type1diabetes
-  - autoimmunity
 - id: doi:10.3390/ijms25147620
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
     a Key Link to Offspring Obesity in Early Childhood
@@ -67,10 +86,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - metabolomics
-  - obesity
-  - pregnancy
 - id: pmid:38915393
   title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
     differentiate between reversion versus progression of islet autoimmunity.
@@ -92,10 +107,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - epigenetics
-  - autoimmunity
-  - longitudinal
 - id: doi:10.1038/s41467-024-48507-7
   title: Multi-omics in nasal epithelium reveals three axes of dysregulation for asthma
     risk in the African Diaspora populations
@@ -143,11 +154,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - multiomics
-  - asthma
-  - african diaspora
-  - epithelium
 - id: doi:10.1155/2023/5367637
   title: DNA Methylation Near DLGAP2 May Mediate the Relationship between Family History
     of Type 1 Diabetes and Type 1 Diabetes Risk
@@ -172,10 +178,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - DNA methylation
-  - genetics
-  - type1diabetes
 - id: doi:10.3390/nu15040945
   title: An Oxylipin-Related Nutrient Pattern and Risk of Type 1 Diabetes in the Diabetes
     Autoimmunity Study in the Young (DAISY)
@@ -200,10 +202,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - nutrients
-  - oxylipins
-  - type1diabetes
 - id: doi:10.3390/ijerph20032368
   title: COVID-19 Mortality in the Colorado Center for Personalized Medicine Biobank
   authors:
@@ -224,10 +222,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - COVID-19
-  - mortality
-  - biobank
 - id: doi:10.2337/db21-1111
   title: 'Changes in the Coexpression of Innate Immunity Genes During Persistent Islet
     Autoimmunity Are Associated With Progression of Islet Autoimmunity: Diabetes Autoimmunity
@@ -250,10 +244,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - immunity
-  - coexpression
-  - diabetes
 - id: doi:10.2196/37327
   title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
     Medicine: Observational Study'
@@ -272,10 +262,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - COVID-19
-  - surveillance
-  - biobank
 - id: doi:10.1016/j.jaci.2021.11.002
   title: Discovering metabolite quantitative trait loci in asthma using an isolated
     population
@@ -297,10 +283,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - metabolite
-  - asthma
-  - QTL
 - id: pmid:35304161
   title: Lipid mediators are detectable in the nasal epithelium and differ by asthma
     status in female subjects.
@@ -323,10 +305,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - lipid mediators
-  - asthma
-  - nasal epithelium
 - id: doi:10.1101/2022.02.15.22271018
   title: COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
     Medicine
@@ -345,10 +323,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - COVID-19
-  - biobank
-  - surveillance
 - id: doi:10.3390/nu13114057
   title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
     Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
@@ -370,10 +344,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - epigenetics
-  - infant feeding
-  - DNA methylation
 - id: pmid:34496950
   title: An effective processing pipeline for harmonizing DNA methylation data from
     Illumina's 450K and EPIC platforms for epidemiological studies.
@@ -392,10 +362,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - DNA methylation
-  - pipeline
-  - epidemiology
 - id: doi:10.3390/metabo11080542
   title: A Mediation Approach to Discovering Causal Relationships between the Metabolome
     and DNA Methylation in Type 1 Diabetes
@@ -418,11 +384,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - mediation
-  - metabolome
-  - methylation
-  - diabetes
 - id: doi:10.1007/s00125-021-05446-y
   title: Maternal food consumption during late pregnancy and offspring risk of islet
     autoimmunity and type 1 diabetes
@@ -448,10 +409,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - maternal nutrition
-  - pregnancy
-  - type1diabetes
 - id: doi:10.1038/s41390-020-1084-2
   title: Predictors of oxylipins in a healthy pediatric population
   authors:
@@ -473,10 +430,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - oxylipins
-  - pediatrics
-  - metabolomics
 - id: pmid:33863802
   title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
     Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
@@ -498,10 +451,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - phospholipids
-  - autoimmunity
-  - diabetes
 - id: doi:10.1111/1753-0407.13093
   title: Prediction of the development of islet autoantibodies through integration
     of environmental, genetic, and metabolic markers
@@ -523,10 +472,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - prediction
-  - autoantibodies
-  - diabetes
 - id: doi:10.1111/pedi.13085
   title: "Metabolomics\u2010related nutrient patterns at seroconversion and risk of\
     \ progression to type 1 diabetes"
@@ -548,10 +493,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - metabolomics
-  - nutrient patterns
-  - seroconversion
 - id: pmid:32651851
   title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes
     Autoimmunity Study In the Young (DAISY).
@@ -570,10 +511,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - gluten
-  - thyroid autoantibodies
-  - diabetes
 - id: doi:10.1111/pedi.12995
   title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
     \            </scp>\n            gene is associated with\n            <scp>\n\
@@ -596,10 +533,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - DNA methylation
-  - INS gene
-  - diabetes
 - id: pmid:32333871
   title: Type 1 diabetes-origins and epidemiology - Authors' reply.
   authors:
@@ -612,10 +545,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - type1diabetes
-  - epidemiology
-  - commentary
 - id: doi:10.1038/s41598-020-60758-0
   title: Longitudinal DNA methylation differences precede type 1 diabetes
   authors:
@@ -638,10 +567,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - DNA methylation
-  - longitudinal
-  - diabetes
 - id: pmid:31999944
   title: Type 1 diabetes-early life origins and changing epidemiology.
   authors:
@@ -654,10 +579,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - type1diabetes
-  - early origins
-  - epidemiology
 - id: doi:10.1017/jns.2020.9
   title: "Association between change in self-reported sugar intake and a sugar biomarker\
     \ (\u03B4<sup>13</sup>C) in children at increased risk for type 1 diabetes"
@@ -675,10 +596,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - diet
-  - sugar intake
-  - biomarkers
 - id: pmid:31715316
   title: "Utilizing cooled liquid chromatography and chemical derivatization to separate\
     \ and quantify C3-epimers of 25-hydroxy vitamin D and low abundant 1\u03B1,25(OH)"
@@ -696,10 +613,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - vitamin D
-  - chromatography
-  - epimers
 - id: pmid:31616039
   title: Metabolite-related dietary patterns and the development of islet autoimmunity.
   authors:
@@ -728,10 +641,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - diet
-  - metabolite patterns
-  - autoimmunity
 - id: pmid:31082869
   title: 'Gluten Intake and Risk of Celiac Disease: Long-Term Follow-up of an At-Risk
     Birth Cohort.'
@@ -756,10 +665,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - gluten
-  - celiac disease
-  - cohort study
 - id: pmid:30796108
   title: 'Gluten Intake and Risk of Islet Autoimmunity and Progression to Type 1 Diabetes
     in Children at Increased Risk of the Disease: The Diabetes Autoimmunity Study
@@ -784,10 +689,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - gluten
-  - islet autoimmunity
-  - diabetes
 - id: pmid:30795754
   title: The global school-based student health survey as a tool to guide adolescent
     health interventions in rural Guatemala.
@@ -805,10 +706,6 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - adolescent health
-  - survey
-  - Guatemala
 - id: doi:10.2105/AJPH.2015.302711
   title: 'Adverse Birth Outcomes in Colorado: Assessing the Impact of a Statewide
     Initiative to Prevent Unintended Pregnancy'
@@ -824,7 +721,3 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-  tags:
-  - birth outcomes
-  - public health
-  - pregnancy
