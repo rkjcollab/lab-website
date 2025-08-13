@@ -9,9 +9,9 @@ We specialize in the integrative analyses of multi-omics, genetics/genomics, que
 
 1) provide insight into disease development and progression, 
 
-2) improve secondary prevention through early detection of disease or identification of high-risk groups, and 
+2) improve secondary prevention through early detection of disease or identification of high-risk groups, and enable precision prevention. 
 
-3) enable precision prevention. We accomplish our work using open-source software implemented in high-performance and cloud computational spaces, and with a particular focus on autoimmune and allergic diseases. 
+We accomplish our work using open-source software implemented in high-performance and cloud computational spaces, and with a particular focus on autoimmune and allergic diseases. 
 
 
 ---
