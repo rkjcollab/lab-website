@@ -18,7 +18,7 @@ Themes in our work: thoughtful and appropriate study selection and design; multi
 ## Faculty and Staff
 
 {% assign staff = site.members | where: "group", "staff" %}
-{% assign role_order_staff = "principal-investigator,staff-researcher,bioinformatics-analyst" | split: "," %}
+{% assign role_order_staff = "principal-investigator,biostatistician ,bioinformatics-analyst" | split: "," %}
 
 {% for role in role_order_staff %}
   {% for member in staff %}

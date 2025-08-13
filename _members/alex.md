@@ -2,7 +2,7 @@
 name: Alex Romero
 slug: alex
 image: images/Alex_Romero.png
-role: research-sevices-proffesional
+role: research-services-professional
 group: alumni
 aliases:
   - alex. r

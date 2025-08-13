@@ -22,9 +22,9 @@ ms:
   icon: fa-solid fa-user-graduate
   description: MS Student
 
-staff-researcher:
+biostatistician:
   icon: fa-solid fa-code
-  description: Staff Researcher
+  description: Biostatistician
   
 bioinformatics-analyst:
   icon: fa-solid fa-code
@@ -32,7 +32,7 @@ bioinformatics-analyst:
 
 research-services-professional:
   icon: fa-solid fa-code
-  description: Research Sevices Proffesional
+  description: Research Services Professional
 
 mascot:
   icon: fa-solid fa-dog
