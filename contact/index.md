@@ -40,8 +40,7 @@ nav:
 
 - Or email [Randi Johnson](mailto:randi.johnson@cuanschutz.edu)
 
-- [RKJcollab Mentoring Philosophy and Compact](https://olucdenver-my.sharepoint.com/personal/randi_johnson_cuanschutz_edu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frandi%5Fjohnson%5Fcuanschutz%5Fedu%2FDocuments%2FLaboratory%2FRKJcollab%20Mentoring%20Philosophy%20and%20Compact%2Epdf&parent=%2Fpersonal%2Frandi%5Fjohnson%5Fcuanschutz%5Fedu%2FDocuments%2FLaboratory)
-
+- [RKJcollab Mentoring Philosophy and Compact]("pdfs\RKJcollab Mentoring Philosophy and Compact.pdf")
 
 {% include section.html %}
 
