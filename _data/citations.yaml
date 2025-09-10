@@ -74,6 +74,912 @@
   - type 1 diabetes
   - omics
   - trainee lead
+- id: doi:10.1093/genetics/iyaf094
+  title: A rapid accurate approach to inferring pedigrees in endogamous populations
+  authors:
+  - Cole M Williams
+  - Brooke A Scelza
+  - Sarah D Slack
+  - Neus Font-Porterias
+  - Dana R Al-Hindi
+  - Rasika A Mathias
+  - Harold Watson
+  - Kathleen C Barnes
+  - Ethan Lange
+  - Randi K Johnson
+  - Christopher R Gignoux
+  - Sohini Ramachandran
+  - Brenna M Henn
+  publisher: GENETICS
+  date: '2025-05-20'
+  link: https://doi.org/g927zw
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2024.12.007
+  title: Characterizing substructure via mixture modeling in large-scale genetic summary
+    statistics
+  authors:
+  - Hayley R. Stoneman
+  - Adelle M. Price
+  - Nikole Scribner Trout
+  - Riley Lamont
+  - Souha Tifour
+  - Nikita Pozdeyev
+  - Heather D. Anderson
+  - Christina L. Aquilante
+  - Kelsey Arbogast
+  - Christopher H. Arehart
+  - Ian M. Brooks
+  - Tonya M. Brunetti
+  - Judith Brutus-Lestin
+  - Elizabeth E. Burke
+  - Emily M. Casteel
+  - Joanne B. Cole
+  - Curtis R. Coughlin
+  - Kristy Crooks
+  - Jacob Crawford
+  - Erin Culver
+  - Michelle N. Edelmann
+  - Matthew J. Fisher
+  - Alan W. Franklin
+  - Teresa C. Frye
+  - Hunter George
+  - Chris R. Gignoux
+  - Elizabeth K. Gilliland
+  - Casey S. Greene
+  - Brooke Hawkes
+  - Emily Hearst
+  - Audrey E. Hendricks
+  - Randi K. Johnson
+  - Colleen G. Julian
+  - Dave Kao
+  - Iain Konigsberg
+  - Lisa Ku
+  - Elizabeth L. Kudron
+  - Rashawnda Lacy
+  - Ethan M. Lange
+  - Yee Ming Lee
+  - Joe A. Lesny
+  - Meng Lin
+  - Jan T. Lowery
+  - Luciana B. Vargas
+  - Betzaida L. Maldonado
+  - Darcy Marceau
+  - James L. Martin
+  - Brianna L. Gates
+  - David Mayer
+  - Nicole L. McDaniel
+  - Andrew Monte
+  - Ethan Moore
+  - Ann Nadrash
+  - Jack Pattee
+  - Nikita Pozdeyev
+  - Alaa Radwan
+  - Nick Rafaels
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Elise L. Shalowitz
+  - Hoda Sherif
+  - Johnathan A. Shortt
+  - Adrian M. Stewart
+  - Kristen J. Sutton
+  - Carolyn T. Swartz
+  - Anna Tanaka
+  - Matthew R.G. Taylor
+  - Candace Teague
+  - Emily B. Todd
+  - Katy E. Trinkley
+  - Laura K. Wiley
+  - Kristy Crooks
+  - Meng Lin
+  - Nicholas Rafaels
+  - Christopher R. Gignoux
+  - Katie M. Marker
+  - Audrey E. Hendricks
+  publisher: The American Journal of Human Genetics
+  date: '2025-02-01'
+  link: https://doi.org/g9fh2v
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/dc25-0330
+  title: DNA Methylation Smoking Scores and Risk of Islet Autoimmunity and Type 1
+    Diabetes
+  authors:
+  - Lauren A. Vanderlinden
+  - Ellen Wong
+  - Randi K. Johnson
+  - Patrick Carry
+  - Fran Dong
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Diabetes Care
+  date: '2025-07-25'
+  link: https://doi.org/g927zx
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1210/clinem/dgae478
+  title: Early Appearance of Thyroid Autoimmunity in Children Followed From Birth
+    for Type 1 Diabetes Risk
+  authors:
+  - Berglind Jonsdottir
+  - Joanna L Clasen
+  - Kendra Vehik
+  - "\xC5ke Lernmark"
+  - Markus Lundgren
+  - Ezio Bonifacio
+  - Desmond Schatz
+  - Anette-Gabriele Ziegler
+  - William Hagopian
+  - Marian Rewers
+  - Richard McIndoe
+  - Jorma Toppari
+  - Jeffrey Krischer
+  - Beena Akolkar
+  - Andrea Steck
+  - Riitta Veijola
+  - Michael J Haller
+  - Helena Elding Larsson
+  - Marian Rewers
+  - Kimberly Bautista
+  - Judith Baxter
+  - Daniel Felipe-Morales
+  - Brigitte I Frohnert
+  - Marisa Stahl
+  - Isabel Flores Garcia
+  - Patricia Gesualdo
+  - Sierra Hays
+  - Michelle Hoffman
+  - Randi Johnson
+  - Rachel Karban
+  - Edwin Liu
+  - Leila Loaiza
+  - Jill Norris
+  - "Holly O\u2019Donnell"
+  - Loana Thorndahl
+  - Andrea Steck
+  - Kathleen Waugh
+  - Jorma Toppari
+  - Olli G Simell
+  - Annika Adamsson
+  - Suvi Ahonen
+  - "Mari \xC5kerlund"
+  - Sirpa Anttila
+  - Leena Hakola
+  - Anne Hekkala
+  - Tiia Honkanen
+  - Teija Hurskainen
+  - "Heikki Hy\xF6ty"
+  - Jorma Ilonen
+  - Saori Itoshima
+  - Minna Jokipolvi
+  - Sanna Jokipuu
+  - Taru Karjalainen
+  - Leena Karlsson
+  - Jukka Kero
+  - Marika Korpela
+  - Jaakko J Koskenniemi
+  - "Miia K\xE4h\xF6nen"
+  - Mikael Knip
+  - Minna-Liisa Koivikko
+  - Katja Kokkonen
+  - Merja Koskinen
+  - Mirva Koreasalo
+  - Kalle Kurppa
+  - Salla Kuusela
+  - "Jarita Kyt\xF6l\xE4"
+  - Mia Laakso
+  - Jutta Laiho
+  - Tiina Latva-aho
+  - Siiri Leisku
+  - "Laura Lepp\xE4nen"
+  - Katri Lindfors
+  - "Maria L\xF6nnrot"
+  - "Elina M\xE4ntym\xE4ki"
+  - Markus Mattila
+  - Maija Miettinen
+  - Tiina Niininen
+  - "Sari Niinist\xF6"
+  - Noora Nurminen
+  - Sami Oikarinen
+  - Hanna-Leena Oinas
+  - Paula Ollikainen
+  - Zhian Othmani
+  - Sirpa Pohjola
+  - Solja Raja-Hanhela
+  - Jenna Rautanen
+  - Anne Riikonen
+  - Minna Romo
+  - "Juulia R\xF6nk\xE4"
+  - "Nelli R\xF6nk\xE4"
+  - Satu Simell
+  - Aino Tihinen
+  - "P\xE4ivi Tossavainen"
+  - "Mari V\xE4h\xE4-M\xE4kil\xE4"
+  - Eeva Varjonen
+  - Riitta Veijola
+  - Irene Viinikangas
+  - Silja Vilmi
+  - Suvi M Virtanen
+  - Richard McIndoe
+  - Desmond Schatz
+  - Diane Hopkins
+  - Michael Haller
+  - Melissa Gardiner
+  - Ashok Sharma
+  - Laura Jacobsen
+  - Percy Gordon
+  - Jennifer Hosford
+  - Sharon Maina
+  - Chelsea Salmon
+  - Anette G Ziegler
+  - Ezio Bonifacio
+  - Cigdem Gezginci
+  - "Willi Gr\xE4tz"
+  - Anja Heublein
+  - Sandra Hummel
+  - Annette Knopff
+  - Sibylle Koletzko
+  - Claudia Ramminger
+  - Roswith Roth
+  - Jennifer Schmidt
+  - Marlon Scholz
+  - Joanna Stock
+  - Katharina Warncke
+  - Lorena Wendel
+  - Christiane Winkler
+  - "Helmholtz Zentrum M\xFCnchen"
+  - Forschergruppe Diabetes
+  - Klinikum rechts der Isar
+  - "\xC5ke Lernmark"
+  - Daniel Agardh
+  - "Carin Andr\xE9n Aronsson"
+  - Rasmus Bennet
+  - Corrado Cilio
+  - Susanne Dahlberg
+  - Malin Goldman Tsubarah
+  - "Emelie Ericson-Hallstr\xF6m"
+  - Lina Fransson
+  - Emina Halilovic
+  - Susanne Hyberg
+  - Berglind Jonsdottir
+  - Naghmeh Karimi
+  - Helena Elding Larsson
+  - "Marielle Lindstr\xF6m"
+  - Markus Lundgren
+  - Marlena Maziarz
+  - Jessica Melin
+  - Kobra Rahmati
+  - Anita Ramelius
+  - Falastin Salami
+  - "Anette Sj\xF6berg"
+  - Evelyn Tekum Amboh
+  - "Carina T\xF6rn"
+  - Ulrika Ulvenhag
+  - Terese Wiktorsson
+  - "\xC5sa Wimar"
+  - William A Hagopian
+  - Michael Killian
+  - Claire Cowen Crouch
+  - Jennifer Skidmore
+  - Trevor Bender
+  - Megan Llewellyn
+  - Cody McCall
+  - Arlene Meyer
+  - Jocelyn Meyer
+  - Denise Mulenga
+  - Nole Powell
+  - Jared Radtke
+  - Shreya Roy
+  - Preston Tucker
+  - Dorothy Becker
+  - Margaret Franciscus
+  - MaryEllen Dalmagro-Elias Smith
+  - Ashi Daftary
+  - Mary Beth Klein
+  - Chrystal Yates
+  - Jeffrey P Krischer
+  - Rajesh Adusumali
+  - Sarah Austin-Gonzalez
+  - Maryouri Avendano
+  - Sandra Baethke
+  - Brant Burkhardt
+  - Martha Butterworth
+  - Nicholas Cadigan
+  - Joanna Clasen
+  - Kevin Counts
+  - Laura Gandolfo
+  - Jennifer Garmeson
+  - Veena Gowda
+  - Christina Karges
+  - Shu Liu
+  - Xiang Liu
+  - Kristian Lynch
+  - Jamie Malloy
+  - Lazarus Mramba
+  - Cristina McCarthy
+  - Jose Moreno
+  - Hemang M Parikh
+  - Cassandra Remedios
+  - Chris Shaffer
+  - Susan Smith
+  - Noah Sulman
+  - Roy Tamura
+  - Dena Tewey
+  - Henri Thuma
+  - Michael Toth
+  - Ulla Uusitalo
+  - Kendra Vehik
+  - Ponni Vijayakandipan
+  - Melissa Wroble
+  - Jimin Yang
+  - Kenneth Young
+  - Michael Abbondondolo
+  - Lori Ballard
+  - Rasheedah Brown
+  - David Cuthbertson
+  - Stephen Dankyi
+  - Christopher Eberhard
+  - Steven Fiske
+  - David Hadley
+  - Kathleen Heyman
+  - Belinda Hsiao
+  - Francisco Perez Laras
+  - Hye-Seung Lee
+  - Qian Li
+  - Laura Smith
+  - William Hagopian
+  - Jared Radtke
+  - Preston Tucker
+  - Clive H Wasserfall
+  - William E Winter
+  - David L Pittman
+  - Chris Deigan
+  - Beena Akolkar
+  - Thomas Briese
+  - Todd Brusko
+  - Teresa Buckner
+  - Suzanne Bennett Johnson
+  - Eoin McKinney
+  - Tomi Pastinen
+  - Steffen Ullitz Thorsen
+  - Eric Triplett
+  publisher: The Journal of Clinical Endocrinology &amp; Metabolism
+  date: '2024-07-12'
+  link: https://doi.org/gt4fpn
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-025-62730-w
+  title: Modeling the genomic architecture of adiposity and anthropometrics across
+    the lifespan
+  authors:
+  - Christopher H. Arehart
+  - Meng Lin
+  - Raine A. Gibson
+  - Heather D. Anderson
+  - Christina L. Aquilante
+  - Kelsey Arbogast
+  - Christopher H. Arehart
+  - Ian M. Brooks
+  - Tonya M. Brunetti
+  - Judith Brutus-Lestin
+  - Elizabeth E. Burke
+  - Emily M. Casteel
+  - Joanne B. Cole
+  - Curtis R. Coughlin
+  - Kristy Crooks
+  - Jacob Crawford
+  - Erin Culver
+  - Michelle N. Edelmann
+  - Matthew J. Fisher
+  - Alan W. Franklin
+  - Teresa C. Frye
+  - Hunter George
+  - Christopher R. Gignoux
+  - Elizabeth K. Gilliland
+  - Casey S. Greene
+  - Brooke Hawkes
+  - Emily Hearst
+  - Audrey E. Hendricks
+  - Randi K. Johnson
+  - Colleen G. Julian
+  - Dave Kao
+  - Iain Konigsberg
+  - Lisa Ku
+  - Elizabeth L. Kudron
+  - Rashawnda Lacy
+  - Ethan M. Lange
+  - Yee Ming Lee
+  - Joe A. Lesny
+  - Meng Lin
+  - Jan T. Lowery
+  - Luciana B. Vargas
+  - Betzaida L. Maldonado
+  - Darcy Marceau
+  - James L. Martin
+  - Brianna L. Gates
+  - David Mayer
+  - Nicole L. McDaniel
+  - Andrew Monte
+  - Ethan Moore
+  - Ann Nadrash
+  - Jack Pattee
+  - Nikita Pozdeyev
+  - Alaa Radwan
+  - Nick Rafaels
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Elise L. Shalowitz
+  - Hoda Sherif
+  - Johnathan A. Shortt
+  - Adrian M. Stewart
+  - Kristen J. Sutton
+  - Carolyn T. Swartz
+  - Anna Tanaka
+  - Matthew R. G. Taylor
+  - Candace Teague
+  - Emily B. Todd
+  - Katy E. Trinkley
+  - Laura K. Wiley
+  - Sridharan Raghavan
+  - Christopher R. Gignoux
+  - Maggie A. Stanislawski
+  - Andrew D. Grotzinger
+  - Luke M. Evans
+  publisher: Nature Communications
+  date: '2025-08-13'
+  link: https://doi.org/g9x39m
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.02.06.25321273
+  title: Prediction and Characterization of Genetically Regulated Expression of Target
+    Tissues in Asthma
+  authors:
+  - Sarah D. Slack
+  - Erika Esquinca
+  - Christopher H. Arehart
+  - Meher Preethi Boorgula
+  - Brooke Szczesny
+  - Alex Romero
+  - Monica Campbell
+  - Sameer Chavan
+  - Nicholas Rafaels
+  - Harold Watson
+  - R. Clive Landis
+  - Nadia N. Hansel
+  - Charles N. Rotimi
+  - Christopher O. Olopade
+  - Camila A. Figueiredo
+  - Carole Ober
+  - Andrew H. Liu
+  - Eimear E. Kenny
+  - Kai Kammers
+  - Ingo Ruczinski
+  - Margaret A. Taub
+  - Michelle Daya
+  - Christopher R. Gignoux
+  - Katerina Kechris
+  - Kathleen C. Barnes
+  - Rasika A. Mathias
+  - Randi K. Johnson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-08'
+  link: https://doi.org/g927zz
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mus.28301
+  title: Prevalence of Pathogenic Transthyretin Gene Variants in the Rocky Mountain
+    Region
+  authors:
+  - Ellie Jacoby
+  - Dianna Quan
+  - Emily Todd
+  - Jonathan Shortt
+  - Harry Smith
+  - Nicholas Rafaels
+  - Kristy Crooks
+  publisher: Muscle &amp; Nerve
+  date: '2024-12-10'
+  link: https://doi.org/g9fh2w
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/dc24-2886
+  title: 'Unfolding the Mystery of Autoimmunity: The Environmental Determinants of
+    Diabetes in the Young (TEDDY) Study'
+  authors:
+  - Marian Rewers
+  - Daniel Agardh
+  - Suzanne Bennett Johnson
+  - Ezio Bonifacio
+  - Helena Elding Larsson
+  - Patricia Gesualdo
+  - William Hagopian
+  - Michael J. Haller
+  - "Heikki Hy\xF6ty"
+  - Randi Johnson
+  - Richard McIndoe
+  - Eoin McKinney
+  - Jessica Melin
+  - "\xC5ke Lernmark"
+  - Richard E. Lloyd
+  - Kristian F. Lynch
+  - Jill M. Norris
+  - Stephen S. Rich
+  - Roswith Roth
+  - Desmond Schatz
+  - Jorma Toppari
+  - Eric Triplett
+  - Kendra Vehik
+  - Suvi M. Virtanen
+  - Anette-G. Ziegler
+  - Beena Akolkar
+  - Jeffrey P. Krischer
+  - Marian Rewers
+  - Kimberly Bautista
+  - Judith Baxter
+  - Daniel Felipe-Morales
+  - Brigitte I. Frohnert
+  - Marisa Stahl
+  - Patricia Gesualdo
+  - Michelle Hoffman
+  - Randi Johnson
+  - Rachel Karban
+  - Edwin Liu
+  - Jill Norris
+  - "Holly O\u2019Donnell"
+  - Andrea Steck
+  - Kathleen Waugh
+  - Jorma Toppari
+  - Olli G. Simell
+  - Annika Adamsson
+  - Suvi Ahonen
+  - "Mari \xC5kerlund"
+  - Sirpa Anttila
+  - Leena Hakola
+  - Sanni Heikura
+  - "Heikki Hy\xF6ty"
+  - Jorma Ilonen
+  - Saori Itoshima
+  - Sanna Jokipuu
+  - Taru Karjalainen
+  - Leena Karlsson
+  - Pieta Kemppainen
+  - Jukka Kero
+  - Marika Korpela
+  - Jaakko J. Koskenniemi
+  - "Miia K\xE4h\xF6nen"
+  - Mikael Knip
+  - Minna-Liisa Koivikko
+  - Katja Kokkonen
+  - Merja Koskinen
+  - Mirva Koreasalo
+  - Kalle Kurppa
+  - Salla Kuusela
+  - "Jarita Kyt\xF6l\xE4"
+  - Jutta Laiho
+  - Tiina Latva-aho
+  - Siiri Leisku
+  - "Laura Lepp\xE4nen"
+  - Katri Lindfors
+  - "Maria L\xF6nnrot"
+  - "Elina M\xE4ntym\xE4ki"
+  - Markus Mattila
+  - Maija E. Miettinen
+  - "Teija Mykk\xE4nen"
+  - Tiina Niininen
+  - "Sari Niinist\xF6"
+  - Noora Nurminen
+  - Sami Oikarinen
+  - Hanna-Leena Oinas
+  - Paula Ollikainen
+  - Zhian Othmani
+  - Sirpa Pohjola
+  - Jenna Rautanen
+  - Mia Rein
+  - Minna Romo
+  - "Juulia R\xF6nk\xE4"
+  - "Nelli R\xF6nk\xE4"
+  - Noora Ruotsalainen
+  - Satu Simell
+  - "P\xE4ivi Tossavainen"
+  - "Mari V\xE4h\xE4-M\xE4kil\xE4"
+  - Eeva Varjonen
+  - Riitta Veijola
+  - Irene Viinikangas
+  - Suvi M. Virtanen
+  - Richard McIndoe
+  - Desmond Schatz
+  - Diane Hopkins
+  - Michael Haller
+  - Melissa Gardiner
+  - Ashok Sharma
+  - Laura Jacobsen
+  - Percy Gordon
+  - Jennifer Hosford
+  - Anette-G. Ziegler
+  - Ezio Bonifacio
+  - Cigdem Sanverdi
+  - Anja Heublein
+  - Sandra Hummel
+  - Annette Knopff
+  - "Melanie K\xF6ger"
+  - Sibylle Koletzko
+  - Claudia Ramminger
+  - Roswith Roth
+  - Jennifer Schmidt
+  - Marlon Scholz
+  - Joanna Stock
+  - Katharina Warncke
+  - "Lorena M\xFCller"
+  - Christiane Winkler
+  - "\xC5ke Lernmark"
+  - Daniel Agardh
+  - "Carin Andr\xE9n Aronsson"
+  - Rasmus Bennet
+  - Corrado Cilio
+  - Susanne Dahlberg
+  - Malin Goldman Tsubarah
+  - "Emelie Ericson-Hallstr\xF6m"
+  - Lina Fransson
+  - Emina Halilovic
+  - Susanne Hyberg
+  - Berglind Jonsdottir
+  - Naghmeh Karimi
+  - Helena Elding Larsson
+  - Markus Lundgren
+  - Jessica Melin
+  - Kobra Rahmati
+  - Anita Ramelius
+  - Falastin Salami
+  - "Anette Sj\xF6berg"
+  - Evelyn Tekum Amboh
+  - "Carina T\xF6rn"
+  - Terese Wiktorsson
+  - Eva Andersson
+  - Marie Andersson Turpeinen
+  - Rawya Antar
+  - Maria Ask
+  - Jenny Bremer
+  - Sylvia Bianconi Svensson
+  - Ulla-Marie Carlsson
+  - Magdalena Delikat Kulinski
+  - Annika Fors
+  - "Ulla F\xE4lt"
+  - Thomas Gard
+  - Joanna Gerardsson
+  - Monika Hansen
+  - Anna Hansson
+  - Carina Hansson
+  - Gertie Hansson
+  - "Elin M. H\xE5rd af Segerstad"
+  - Hanna Jisser
+  - Fredrik Johansen
+  - Linda Jonsson
+  - Silvija Jovic
+  - Sigrid Lenrick Forss
+  - Barbro Lernmark
+  - "Marielle Lindstr\xF6m"
+  - Maria Markan
+  - Theodosia Massadakis
+  - Marlena Maziarz
+  - Zeliha Mestan
+  - "Maria M\xE5nsson Martinez"
+  - Caroline Nilsson
+  - Emma Nilsson
+  - Yohanna Nordh
+  - Karin Ottosson
+  - Sara Rang
+  - Anna Rosenquist
+  - "Monika Sedig J\xE4rvirova"
+  - Sara Sibthorpe
+  - "Birgitta Sj\xF6berg"
+  - Ulrika Swartling
+  - Erika Trulsson
+  - Ulrika Ulvenhag
+  - Anne Wallin
+  - Ingrid Wigheden
+  - "\xC5sa Wimar"
+  - "Sofie \xC5berg"
+  - William A. Hagopian
+  - Michael Killian
+  - Claire Cowen Crouch
+  - Jennifer Skidmore
+  - Ben Kim
+  - Cody McCall
+  - Arlene Meyer
+  - Jared Radtke
+  - Shreya Roy
+  - Dorothy Becker
+  - Margaret Franciscus
+  - MaryEllen Dalmagro-Elias Smith
+  - Ashi Daftary
+  - Mary Beth Klein
+  - Chrystal Yates
+  - Jeffrey P. Krischer
+  - Rajesh Adusumali
+  - Sarah Austin-Gonzalez
+  - Maryouri Avendano
+  - Sandra Baethke
+  - Brant Burkhardt
+  - Martha Butterworth
+  - Nicholas Cadigan
+  - Joanna Clasen
+  - Kevin Counts
+  - Laura Gandolfo
+  - Jennifer Garmeson
+  - Veena Gowda
+  - Shu Liu
+  - Xiang Liu
+  - Kristian Lynch
+  - Jamie Malloy
+  - Lazarus Mramba
+  - Cristina McCarthy
+  - Hemang M. Parikh
+  - Cassandra Remedios
+  - Chris Shaffer
+  - Susan Smith
+  - Noah Sulman
+  - Roy Tamura
+  - Dena Tewey
+  - Henri Thuma
+  - Michael Toth
+  - Ulla Uusitalo
+  - Kendra Vehik
+  - Ponni Vijayakandipan
+  - Melissa Wroble
+  - Jimin Yang
+  - Kenneth Young
+  - Michael Abbondondolo
+  - Lori Ballard
+  - Rasheedah Brown
+  - David Cuthbertson
+  - Stephen Dankyi
+  - Christopher Eberhard
+  - Steven Fiske
+  - David Hadley
+  - Kathleen Heyman
+  - Belinda Hsiao
+  - Christina Karges
+  - Francisco Perez Laras
+  - Hye-Seung Lee
+  - Qian Li
+  - Colleen Maguire
+  - Wendy McLeod
+  - Aubrie Merrell
+  - Steven Meulemans
+  - Jose Moreno
+  - Ryan Quigley
+  - Laura Smith
+  - Liping Yu
+  - Dongmei Miao
+  - Kathleen Gillespie
+  - Kyla Chandler
+  - Olivia Pearce
+  - Sarah Stollery
+  - Elinor Balch
+  - Hanah Batholomew
+  - Zahra Hashmi
+  - Elisabeth Aardal Eriksson
+  - Ing-Marie Lundgren
+  - "Ewa L\xF6nn Karlsson"
+  - Dzeneta Neszirevic Dernroth
+  - Michael Kalnoski
+  - Chao-Nan Ting
+  - Iris Erlund
+  - Terhi Vihervaara
+  - Petra Arohonka
+  - Inga Liukko
+  - Linda Patrikainen
+  - Outi Ruotsalainen
+  - Tiina Keippila
+  - Stephen S. Rich
+  - Wei-Min Chen
+  - Suna Onengut-Gumuscu
+  - Emily Farber
+  - Rebecca Roche Pickin
+  - Jonathan Davis
+  - Jordan Davis
+  - Dan Gallo
+  - Jessica Bonnie
+  - Paul Campolieto
+  - Randie R. Little
+  - Kuanysh Kabytaev
+  - Curt Rohlfing
+  - William Hagopian
+  - Jared Radtke
+  - Henry Erlich
+  - Steven J. Mack
+  - Anna Lisa Fear
+  - Oliver Fiehn
+  - Bill Wikoff
+  - Brian Defelice
+  - Dmitry Grapov
+  - Tobias Kind
+  - Mine Palazoglu
+  - Luis Valdiviez
+  - Benjamin Wancewicz
+  - Gert Wohlgemuth
+  - Joyce Wong
+  - Joseph F. Petrosino
+  - Richard E. Lloyd
+  - Nadim J. Ajami
+  - Tulin Ayvaz
+  - Tonya Bauch
+  - Harshavardhan Doddapaneni
+  - Richard Gibbs
+  - Rachel Hirsch
+  - Kristi L. Hoffman
+  - Hanna Houston
+  - Diane S. Hutchinson
+  - Sara Javornik Cregeen
+  - Elizabeth Laval
+  - Lenka Kusic
+  - Ginger Metcalf
+  - Hannah Moreno
+  - Donna Muzny
+  - "Jacqueline L. O\u2019Brien"
+  - Katelyn Payne
+  - Ashlie Renner
+  - Lauren Riley
+  - Matthew C. Ross
+  - Daniel P. Smith
+  - Anil Surathu
+  - Auriole Tamegnon
+  - Xiangjun Tian
+  - Michael Tisza
+  - Nguyen Truong
+  - Li Wang
+  - Matthew C. Wong
+  - Eduardo Zavala
+  - Clive H. Wasserfall
+  - William E. Winter
+  - David L. Pittman
+  - Santica M. Marcovina
+  - Andrew N. Hoofnagle
+  - Thomas O. Metz
+  - Bobbie-Jo Webb-Robertson
+  - Ernesto S. Nakayasu
+  - Lisa Bramer
+  - Athena Schepmoes
+  - Panshak Dakup
+  - Jin-Xiong She
+  - Richard McIndoe
+  - Haitao Liu
+  - John Nechtman
+  - Yansheng Zhao
+  - Na Jiang
+  - Yanna Tian
+  - Guangkuo Dong
+  - Clive H. Wasserfall
+  - William E. Winter
+  - David L. Pittman
+  - Chris Deigan
+  - Ricky Schrock
+  - Polina Malone
+  - Sandra Ke
+  - Niveen Mulholland
+  - Beena Akolkar
+  - Thomas Briese
+  - Todd Brusko
+  - Teresa Buckner
+  - Suzanne Bennett Johnson
+  - Eoin McKinney
+  - Tomi Pastinen
+  - Steffen Ullitz Thorsen
+  - Eric Triplett
+  publisher: Diabetes Care
+  date: '2025-04-24'
+  link: https://doi.org/g9vh6w
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/ijms25147620
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
     a Key Link to Offspring Obesity in Early Childhood
@@ -99,31 +1005,689 @@
   - developmental origin
   - omics
   - trainee lead
-- id: pmid:38915393
-  title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
-    differentiate between reversion versus progression of islet autoimmunity.
+- id: doi:10.1038/s43856-024-00482-2
+  title: 'Author Correction: Genotype-stratified treatment for monogenic insulin resistance:
+    a systematic review'
   authors:
-  - Patrick M Carry
-  - Lauren A Vanderlinden
-  - Randi K Johnson
+  - Robert K. Semple
+  - Kashyap A. Patel
+  - Sungyoung Auh
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Rebecca J. Brown
+  publisher: Communications Medicine
+  date: '2024-03-26'
+  link: https://doi.org/g927z2
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-024-00491-1
+  title: 'Effective interventions in preventing gestational diabetes mellitus: A systematic
+    review and meta-analysis'
+  authors:
+  - Wubet Worku Takele
+  - Kimberly K. Vesco
+  - Jami Josefson
+  - Leanne M. Redman
+  - Wesley Hannah
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Sian C. Chivers
+  - Andrea J. Fawcett
+  - Jessica A. Grieger
+  - Nahal Habibi
+  - Gloria K. W. Leung
+  - Kai Liu
+  - Eskedar G. Mekonnen
+  - Maleesa Pathirana
+  - Alejandra Quinteros
+  - Rachael Taylor
+  - Gebresilasea G. Ukke
+  - Shao J. Zhou
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Siew Lim
+  publisher: Communications Medicine
+  date: '2024-04-20'
+  link: https://doi.org/g8gz66
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-024-00478-y
+  title: 'Islet autoantibodies as precision diagnostic tools to characterize heterogeneity
+    in type 1 diabetes: a systematic review'
+  authors:
+  - Jamie L. Felton
+  - Maria J. Redondo
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela S. F. Monaco
+  - Arianna Harris-Kawano
+  - Dianna Perez
+  - Zeb Saeed
+  - Benjamin Hoag
+  - Rashmi Jain
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba M. Ismail
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - John M. Wentworth
+  - Kurt J. Griffin
+  - Emily K. Sims
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2024-04-06'
+  link: https://doi.org/g927z3
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2024.1345494
+  title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
+    differentiate between reversion versus progression of islet autoimmunity
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
   - Teresa Buckner
-  - Andrea K Steck
+  - Andrea K. Steck
   - Katerina Kechris
-  - Ivana V Yang
-  - Tasha E Fingerlin
+  - Ivana V. Yang
+  - Tasha E. Fingerlin
   - Oliver Fiehn
   - Marian Rewers
-  - Jill M Norris
-  publisher: Frontiers in immunology
+  - Jill M. Norris
+  publisher: Frontiers in Immunology
   date: '2024-06-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/38915393
+  link: https://doi.org/g9rxrw
   orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41467-024-48507-7
   title: Multi-omics in nasal epithelium reveals three axes of dysregulation for asthma
     risk in the African Diaspora populations
@@ -175,37 +1739,662 @@
   - omics
   - allergic disease
   - genetics
-- id: doi:10.1155/2023/5367637
-  title: DNA Methylation Near DLGAP2 May Mediate the Relationship between Family History
-    of Type 1 Diabetes and Type 1 Diabetes Risk
+- id: doi:10.1038/s43856-023-00429-z
+  title: 'Precision prognostics for cardiovascular disease in Type 2 diabetes: a systematic
+    review and meta-analysis'
   authors:
+  - Abrar Ahmad
+  - Lee-Ling Lim
+  - Mario Luca Morieri
+  - Claudia Ha-ting Tam
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Hugo Fitipaldi
+  - Chuiguo Huang
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Robert Wilhelm Koivula
+  - Ayesha A. Motala
+  - Sok Cin Tye
+  - Gechang Yu
+  - Yingchai Zhang
+  - Michele Provenzano
+  - Diana Sherifali
+  - Russell J. de Souza
+  - Deirdre Kay Tobias
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
   - Randi K. Johnson
-  - Amanda J. Ireton
-  - Patrick M. Carry
-  - Lauren A. Vanderlinden
-  - Fran Dong
-  - Alex Romero
-  - David R. Johnson
-  - Debashis Ghosh
-  - Fan Yang
-  - Brigitte Frohnert
-  - Ivana V. Yang
-  - Katerina Kechris
-  - Marian Rewers
-  - Jill M. Norris
-  publisher: Pediatric Diabetes
-  date: '2023-09-11'
-  link: https://doi.org/g9k62n
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Maria F. Gomez
+  - Ronald C. W. Ma
+  - Nestoras Mathioudakis
+  publisher: Communications Medicine
+  date: '2024-01-22'
+  link: https://doi.org/gtfw8r
   orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - developmental origin
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - causal inference
-  - trainee lead
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00427-1
+  title: 'Precision stratification of prognostic risk factors associated with outcomes
+    in gestational diabetes mellitus: a systematic review'
+  authors:
+  - Zhila Semnani-Azad
+  - Romy Gaillard
+  - Alice E. Hughes
+  - Kristen E. Boyle
+  - Deirdre K. Tobias
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Wei Perng
+  publisher: Communications Medicine
+  date: '2024-01-12'
+  link: https://doi.org/g927z4
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-024-00556-1
+  title: 'Precision treatment of beta-cell monogenic diabetes: a systematic review'
+  authors:
+  - Rochelle N. Naylor
+  - Kashyap A. Patel
+  - Jarno L. T. Kettunen
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - "Julie St\xF8y"
+  - Jacques Beltrand
+  - Michel Polak
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - "Tina Vilsb\xF8ll"
+  - Siri A. W. Greeley
+  - Andrew T. Hattersley
+  - Tiinamaija Tuomi
+  publisher: Communications Medicine
+  date: '2024-07-18'
+  link: https://doi.org/g8vf3g
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3390/nu15040945
   title: An Oxylipin-Related Nutrient Pattern and Risk of Type 1 Diabetes in the Diabetes
     Autoimmunity Study in the Young (DAISY)
@@ -261,81 +2450,2555 @@
   - trainee lead
   - COVID19
   - genetics
-- id: doi:10.2337/db21-1111
-  title: 'Changes in the Coexpression of Innate Immunity Genes During Persistent Islet
-    Autoimmunity Are Associated With Progression of Islet Autoimmunity: Diabetes Autoimmunity
-    Study in the Young (DAISY)'
+- id: doi:10.1155/2023/5367637
+  title: DNA Methylation Near DLGAP2 May Mediate the Relationship between Family History
+    of Type 1 Diabetes and Type 1 Diabetes Risk
   authors:
-  - Patrick M. Carry
-  - Kathleen Waugh
-  - Lauren A. Vanderlinden
   - Randi K. Johnson
-  - Teresa Buckner
-  - Marian Rewers
-  - Andrea K. Steck
-  - Ivana Yang
-  - Tasha E. Fingerlin
+  - Amanda J. Ireton
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Fran Dong
+  - Alex Romero
+  - David R. Johnson
+  - Debashis Ghosh
+  - Fan Yang
+  - Brigitte Frohnert
+  - Ivana V. Yang
   - Katerina Kechris
+  - Marian Rewers
   - Jill M. Norris
-  publisher: Diabetes
-  date: '2022-06-20'
-  link: https://doi.org/grb9tw
+  publisher: Pediatric Diabetes
+  date: '2023-09-11'
+  link: https://doi.org/g9k62n
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
   tags:
+  - developmental origin
   - autoimmunity
   - type 1 diabetes
   - omics
-- id: doi:10.2196/37327
-  title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
-    Medicine: Observational Study'
-  authors:
-  - Randi K Johnson
-  - Katie M Marker
-  - David Mayer
-  - Jonathan Shortt
-  - David Kao
-  - Kathleen C Barnes
-  - Jan T Lowery
-  - Christopher R Gignoux
-  publisher: JMIR Public Health and Surveillance
-  date: '2022-06-13'
-  link: https://doi.org/grgbwb
-  orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - biobank
-  - population health
-  - trainee lead
-  - COVID19
-- id: doi:10.1016/j.jaci.2021.11.002
-  title: Discovering metabolite quantitative trait loci in asthma using an isolated
-    population
-  authors:
-  - Randi K. Johnson
-  - Tonya Brunetti
-  - Kevin Quinn
-  - Katrina Doenges
-  - Monica Campbell
-  - Christopher Arehart
-  - Margaret A. Taub
-  - Rasika A. Mathias
-  - Nichole Reisdorph
-  - Kathleen C. Barnes
-  - Michelle Daya
-  publisher: Journal of Allergy and Clinical Immunology
-  date: '2022-05-01'
-  link: https://doi.org/g9k62r
-  orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - omics
   - causal inference
-  - allergic disease
-  - genetics
+  - trainee lead
+- id: doi:10.1038/s43856-023-00357-y
+  title: 'Disease-modifying therapies and features linked to treatment response in
+    type 1 diabetes prevention: a systematic review'
+  authors:
+  - Jamie L. Felton
+  - Kurt J. Griffin
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela S. F. Monaco
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba M. Ismail
+  - Andrea K. Steck
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - Stephen Gitelman
+  - John M. Wentworth
+  - Maria J. Redondo
+  - Emily K. Sims
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g927z5
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fnut.2023.1040993
+  title: Genome-wide analysis of oxylipins and oxylipin profiles in a pediatric population
+  authors:
+  - Teresa Buckner
+  - Randi K. Johnson
+  - Lauren A. Vanderlinden
+  - Patrick M. Carry
+  - Alex Romero
+  - Suna Onengut-Gumuscu
+  - Wei-Min Chen
+  - Soojeong Kim
+  - Oliver Fiehn
+  - Brigitte I. Frohnert
+  - Tessa Crume
+  - Wei Perng
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Frontiers in Nutrition
+  date: '2023-03-28'
+  link: https://doi.org/g927z6
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00368-9
+  title: 'Genotype-stratified treatment for monogenic insulin resistance: a systematic
+    review'
+  authors:
+  - Robert K. Semple
+  - Kashyap A. Patel
+  - Sungyoung Auh
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Rebecca J. Brown
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g927z7
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00363-0
+  title: 'Impact of individual and environmental factors on dietary or lifestyle interventions
+    to prevent type 2 diabetes development: a systematic review'
+  authors:
+  - Dhanasekaran Bodhini
+  - Robert W. Morton
+  - Vanessa Santhakumar
+  - Mariam Nakabuye
+  - Hugo Pomares-Millan
+  - Christoffer Clemmensen
+  - Stephanie L. Fitzpatrick
+  - Marta Guasch-Ferre
+  - James S. Pankow
+  - Mathias Ried-Larsen
+  - Paul W. Franks
+  - Deirdre K. Tobias
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Viswanathan Mohan
+  - Ruth J. F. Loos
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g927z8
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fimmu.2023.1124370
+  title: 'Investigating iron intake in risk of progression from islet autoimmunity
+    to type 1 diabetes: The diabetes autoimmunity study in the young'
+  authors:
+  - Sulafa Elhassan
+  - Fran Dong
+  - Teresa Buckner
+  - Randi K. Johnson
+  - Jennifer A. Seifert
+  - Patrick M. Carry
+  - Lauren Vanderlinden
+  - Kathleen Waugh
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Frontiers in Immunology
+  date: '2023-03-28'
+  link: https://doi.org/g927z9
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00366-x
+  title: 'Participant characteristics in the prevention of gestational diabetes as
+    evidence for precision medicine: a systematic review and meta-analysis'
+  authors:
+  - Siew Lim
+  - Wubet Worku Takele
+  - Kimberly K. Vesco
+  - Leanne M. Redman
+  - Wesley Hannah
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Sian C. Chivers
+  - Andrea J, Fawcett
+  - Jessica A. Grieger
+  - Nahal Habibi
+  - Gloria K. W. Leung
+  - Kai Liu
+  - Eskedar Getie Mekonnen
+  - Maleesa Pathirana
+  - Alejandra Quinteros
+  - Rachael Taylor
+  - Gebresilasea G. Ukke
+  - Shao J. Zhou
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Jami Josefson
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g9272b
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.18.23288756
+  title: 'Precision Diagnostics: Using Islet Autoantibodies to Characterize Heterogeneity
+    in Type 1 Diabetes'
+  authors:
+  - Jamie L. Felton
+  - Maria J. Redondo
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela SF Monaco
+  - Arianna Harris-Kawano
+  - Dianna Perez
+  - Zeb Saeed
+  - Benjamin Hoag
+  - Rashmi Jain
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba Ismail
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - John M. Wentworth
+  - Kurt J. Griffin
+  - Emily K. Sims
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-19'
+  link: https://doi.org/g9272c
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00371-0
+  title: 'Precision gestational diabetes treatment: a systematic review and meta-analyses'
+  authors:
+  - Jamie L. Benham
+  - "V\xE9ronique Gingras"
+  - Niamh-Maire McLennan
+  - Jasper Most
+  - Jennifer M. Yamamoto
+  - Catherine E. Aiken
+  - Susan E. Ozanne
+  - Rebecca M. Reynolds
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g9272d
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00360-3
+  title: 'Precision subclassification of type 2 diabetes: a systematic review'
+  authors:
+  - Shivani Misra
+  - Robert Wagner
+  - Bige Ozkan
+  - "Martin Sch\xF6n"
+  - Magdalena Sevilla-Gonzalez
+  - Katsiaryna Prystupa
+  - Caroline C. Wang
+  - Raymond J. Kreienkamp
+  - Sara J. Cromer
+  - Mary R. Rooney
+  - Daisy Duan
+  - Anne Cathrine Baun Thuesen
+  - Amelia S. Wallace
+  - Aaron Leong
+  - Aaron J. Deutsch
+  - Mette K. Andersen
+  - Liana K. Billings
+  - Robert H. Eckel
+  - Wayne Huey-Herng Sheu
+  - Torben Hansen
+  - Norbert Stefan
+  - Mark O. Goodarzi
+  - Debashree Ray
+  - Elizabeth Selvin
+  - Jose C. Florez
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Sridaran Raghaven
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Stephen S. Rich
+  - Paul W. Franks
+  - James B. Meigs
+  - Miriam S. Udler
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/gtnkhr
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00393-8
+  title: 'Refining the diagnosis of gestational diabetes mellitus: a systematic review
+    and meta-analysis'
+  authors:
+  - Ellen C. Francis
+  - Camille E. Powe
+  - William L. Lowe
+  - Sara L. White
+  - Denise M. Scholtens
+  - Jiaxi Yang
+  - Yeyi Zhu
+  - Cuilin Zhang
+  - Marie-France Hivert
+  - Soo Heon Kwak
+  - Arianne Sweeting
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-12-18'
+  link: https://doi.org/gs9x3b
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41591-023-02502-5
+  title: Second international consensus report on gaps and opportunities for the clinical
+    translation of precision diabetes medicine
+  authors:
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Nature Medicine
+  date: '2023-10-01'
+  link: https://doi.org/gswpdp
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00369-8
+  title: 'The use of precision diagnostics for monogenic diabetes: a systematic review
+    and expert opinion'
+  authors:
+  - Rinki Murphy
+  - Kevin Colclough
+  - Toni I. Pollin
+  - Jennifer M. Ikle
+  - Pernille Svalastoga
+  - Kristin A. Maloney
+  - "C\xE9cile Saint-Martin"
+  - Janne Molnes
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  - Shivani Misra
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - "P\xE5l R. Nj\xF8lstad"
+  - Liana K. Billings
+  - Katharine R. Owen
+  - Anna L. Gloyn
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g9272f
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00359-w
+  title: 'Treatment effect heterogeneity following type 2 diabetes treatment with
+    GLP1-receptor agonists and SGLT2-inhibitors: a systematic review'
+  authors:
+  - Katherine G. Young
+  - Eram Haider McInnes
+  - Robert J. Massey
+  - Anna R. Kahkoska
+  - Scott J. Pilla
+  - Sridharan Raghavan
+  - Maggie A. Stanislawski
+  - Deirdre K. Tobias
+  - Andrew P. McGovern
+  - Adem Y. Dawed
+  - Angus G. Jones
+  - Ewan R. Pearson
+  - John M. Dennis
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/g9q9dm
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.04.12.23288421
+  title: 'Type 1 Diabetes Prevention: a systematic review of studies testing disease-modifying
+    therapies and features linked to treatment response'
+  authors:
+  - Jamie L. Felton
+  - Kurt J. Griffin
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela SF Monaco
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba M. Ismail
+  - Andrea K. Steck
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - Stephen Gitelman
+  - John M. Wentworth
+  - Maria J. Redondo
+  - Emily K. Sims
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-17'
+  link: https://doi.org/g9272g
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s43856-023-00358-x
+  title: 'Utility and precision evidence of technology in the treatment of type 1
+    diabetes: a systematic review'
+  authors:
+  - Laura M. Jacobsen
+  - Jennifer L. Sherr
+  - Elizabeth Considine
+  - Angela Chen
+  - Sarah M. Peeling
+  - Margo Hulsmans
+  - Sara Charleer
+  - Marzhan Urazbayeva
+  - Mustafa Tosur
+  - Selma Alamarie
+  - Maria J. Redondo
+  - Korey K. Hood
+  - Peter A. Gottlieb
+  - Pieter Gillard
+  - Jessie J. Wong
+  - Irl B. Hirsch
+  - Richard E. Pratley
+  - Lori M. Laffel
+  - Chantal Mathieu
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridaran Raghaven
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Randi K. Johnson
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - S. Alice Long
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Cate Speake
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa de Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell de Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Marie-France Hivert
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Leanne M. Redman
+  - Maria J. Redondo
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: https://doi.org/gtnkhs
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:35304161
   title: Lipid mediators are detectable in the nasal epithelium and differ by asthma
     status in female subjects.
@@ -379,31 +5042,81 @@
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.3390/nu13114057
-  title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
-    Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
+- id: doi:10.2196/37327
+  title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
+    Medicine: Observational Study'
   authors:
-  - Elizabeth Walker-Short
-  - Teresa Buckner
-  - Timothy Vigers
-  - Patrick Carry
+  - Randi K Johnson
+  - Katie M Marker
+  - David Mayer
+  - Jonathan Shortt
+  - David Kao
+  - Kathleen C Barnes
+  - Jan T Lowery
+  - Christopher R Gignoux
+  publisher: JMIR Public Health and Surveillance
+  date: '2022-06-13'
+  link: https://doi.org/grgbwb
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - biobank
+  - population health
+  - trainee lead
+  - COVID19
+- id: doi:10.2337/db21-1111
+  title: 'Changes in the Coexpression of Innate Immunity Genes During Persistent Islet
+    Autoimmunity Are Associated With Progression of Islet Autoimmunity: Diabetes Autoimmunity
+    Study in the Young (DAISY)'
+  authors:
+  - Patrick M. Carry
+  - Kathleen Waugh
   - Lauren A. Vanderlinden
-  - Fran Dong
   - Randi K. Johnson
-  - Ivana V. Yang
-  - Katerina Kechris
+  - Teresa Buckner
   - Marian Rewers
+  - Andrea K. Steck
+  - Ivana Yang
+  - Tasha E. Fingerlin
+  - Katerina Kechris
   - Jill M. Norris
-  publisher: Nutrients
-  date: '2021-11-13'
-  link: https://doi.org/g9k62t
+  publisher: Diabetes
+  date: '2022-06-20'
+  link: https://doi.org/grb9tw
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+- id: doi:10.1016/j.jaci.2021.11.002
+  title: Discovering metabolite quantitative trait loci in asthma using an isolated
+    population
+  authors:
+  - Randi K. Johnson
+  - Tonya Brunetti
+  - Kevin Quinn
+  - Katrina Doenges
+  - Monica Campbell
+  - Christopher Arehart
+  - Margaret A. Taub
+  - Rasika A. Mathias
+  - Nichole Reisdorph
+  - Kathleen C. Barnes
+  - Michelle Daya
+  publisher: Journal of Allergy and Clinical Immunology
+  date: '2022-05-01'
+  link: https://doi.org/g9k62r
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
   tags:
   - omics
-  - trainee lead
-  - nutrition
+  - causal inference
+  - allergic disease
+  - genetics
 - id: pmid:34496950
   title: An effective processing pipeline for harmonizing DNA methylation data from
     Illumina's 450K and EPIC platforms for epidemiological studies.
@@ -426,6 +5139,32 @@
   - autoimmunity
   - type 1 diabetes
   - omics
+- id: pmid:33863802
+  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
+    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
+  authors:
+  - Patrick M Carry
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Teresa Buckner
+  - Oliver Fiehn
+  - Andrea K Steck
+  - Katerina Kechris
+  - Ivana Yang
+  - Tasha E Fingerlin
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Diabetes
+  date: '2021-04-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33863802
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+  - trainee lead
 - id: doi:10.3390/metabo11080542
   title: A Mediation Approach to Discovering Causal Relationships between the Metabolome
     and DNA Methylation in Type 1 Diabetes
@@ -454,6 +5193,31 @@
   - omics
   - casual inference
   - trainee lead
+- id: doi:10.3390/nu13114057
+  title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
+    Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
+  authors:
+  - Elizabeth Walker-Short
+  - Teresa Buckner
+  - Timothy Vigers
+  - Patrick Carry
+  - Lauren A. Vanderlinden
+  - Fran Dong
+  - Randi K. Johnson
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Nutrients
+  date: '2021-11-13'
+  link: https://doi.org/g9k62t
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - omics
+  - trainee lead
+  - nutrition
 - id: doi:10.1007/s00125-021-05446-y
   title: Maternal food consumption during late pregnancy and offspring risk of islet
     autoimmunity and type 1 diabetes
@@ -484,58 +5248,6 @@
   - autoimmunity
   - type 1 diabetes
   - nutrition
-- id: doi:10.1038/s41390-020-1084-2
-  title: Predictors of oxylipins in a healthy pediatric population
-  authors:
-  - Teresa Buckner
-  - Lauren A. Vanderlinden
-  - Randi K. Johnson
-  - Brian C. DeFelice
-  - Patrick M. Carry
-  - Jennifer Seifert
-  - Kathleen Waugh
-  - Fran Dong
-  - Oliver Fiehn
-  - Michael Clare-Salzler
-  - Marian Rewers
-  - Jill M. Norris
-  publisher: Pediatric Research
-  date: '2020-07-29'
-  link: https://doi.org/g9k62w
-  orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - omics
-  - trainee lead
-  - nutrition
-  - genetics
-- id: pmid:33863802
-  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
-    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
-  authors:
-  - Patrick M Carry
-  - Lauren A Vanderlinden
-  - Randi K Johnson
-  - Teresa Buckner
-  - Oliver Fiehn
-  - Andrea K Steck
-  - Katerina Kechris
-  - Ivana Yang
-  - Tasha E Fingerlin
-  - Marian Rewers
-  - Jill M Norris
-  publisher: Diabetes
-  date: '2021-04-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33863802
-  orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - trainee lead
 - id: doi:10.1111/1753-0407.13093
   title: Prediction of the development of islet autoantibodies through integration
     of environmental, genetic, and metabolic markers
@@ -562,33 +5274,32 @@
   - type 1 diabetes
   - omics
   - genetics
-- id: doi:10.1111/pedi.13085
-  title: "Metabolomics\u2010related nutrient patterns at seroconversion and risk of\
-    \ progression to type 1 diabetes"
+- id: doi:10.1038/s41390-020-1084-2
+  title: Predictors of oxylipins in a healthy pediatric population
   authors:
-  - Randi K. Johnson
+  - Teresa Buckner
   - Lauren A. Vanderlinden
+  - Randi K. Johnson
   - Brian C. DeFelice
-  - Ulla Uusitalo
+  - Patrick M. Carry
   - Jennifer Seifert
-  - Sili Fan
-  - Tessa Crume
+  - Kathleen Waugh
+  - Fran Dong
   - Oliver Fiehn
+  - Michael Clare-Salzler
   - Marian Rewers
-  - Katerina Kechris
   - Jill M. Norris
-  publisher: Pediatric Diabetes
-  date: '2020-08-09'
-  link: https://doi.org/gqvv7r
+  publisher: Pediatric Research
+  date: '2020-07-29'
+  link: https://doi.org/g9k62w
   orcid: 0000-0001-9345-4439
   plugin: sources.py
   file: sources.yaml
   tags:
-  - autoimmunity
-  - type 1 diabetes
   - omics
   - trainee lead
   - nutrition
+  - genetics
 - id: pmid:32651851
   title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes
     Autoimmunity Study In the Young (DAISY).
@@ -611,34 +5322,6 @@
   - autoimmunity
   - trainee lead
   - nutrition
-- id: doi:10.1111/pedi.12995
-  title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
-    \            </scp>\n            gene is associated with\n            <scp>\n\
-    \              <i>INS</i>\n            </scp>\n            genetic variation (rs689)\
-    \ and type 1 diabetes in the Diabetes Autoimmunity Study in the Young"
-  authors:
-  - Patrick M. Carry
-  - Lauren A. Vanderlinden
-  - Randi K. Johnson
-  - Fran Dong
-  - Andrea K. Steck
-  - Brigitte I. Frohnert
-  - Marian Rewers
-  - Ivana V. Yang
-  - Katerina Kechris
-  - Jill M. Norris
-  publisher: Pediatric Diabetes
-  date: '2020-02-28'
-  link: https://doi.org/gqvv7s
-  orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - trainee lead
-  - genetics
 - id: pmid:32333871
   title: Type 1 diabetes-origins and epidemiology - Authors' reply.
   authors:
@@ -694,6 +5377,44 @@
   tags:
   - autoimmunity
   - type 1 diabetes
+- id: doi:10.1101/2020.02.25.965376
+  title: A rapid, accurate approach to inferring pedigrees in endogamous populations
+  authors:
+  - Cole M. Williams
+  - Brooke A. Scelza
+  - Sarah D. Slack
+  - Rasika A. Mathias
+  - Harold Watson
+  - Kathleen C. Barnes
+  - Ethan Lange
+  - Randi K. Johnson
+  - Christopher R. Gignoux
+  - Sohini Ramachandran
+  - Brenna M. Henn
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-02-26'
+  link: https://doi.org/gkvphz
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-85951/v1
+  title: "An Effective Processing Pipeline for Harmonizing DNA Methylation Data from\
+    \ Illumina\u2019s 450K and EPIC Platforms for Epidemiological Studies"
+  authors:
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Patrick M Carry
+  - Fran Dong
+  - Dawn L. DeMeo
+  - Ivana V Yang
+  - Jill M Norris
+  - Katerina Kechris
+  publisher: Springer Science and Business Media LLC
+  date: '2020-10-07'
+  link: https://doi.org/g9272h
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1017/jns.2020.9
   title: "Association between change in self-reported sugar intake and a sugar biomarker\
     \ (\u03B4<sup>13</sup>C) in children at increased risk for type 1 diabetes"
@@ -712,6 +5433,61 @@
   plugin: sources.py
   file: sources.yaml
   tags:
+  - trainee lead
+  - nutrition
+- id: doi:10.1111/pedi.12995
+  title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
+    \            </scp>\n            gene is associated with\n            <scp>\n\
+    \              <i>INS</i>\n            </scp>\n            genetic variation (rs689)\
+    \ and type 1 diabetes in the Diabetes Autoimmunity Study in the Young"
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Fran Dong
+  - Andrea K. Steck
+  - Brigitte I. Frohnert
+  - Marian Rewers
+  - Ivana V. Yang
+  - Katerina Kechris
+  - Jill M. Norris
+  publisher: Pediatric Diabetes
+  date: '2020-02-28'
+  link: https://doi.org/gqvv7s
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+  - trainee lead
+  - genetics
+- id: doi:10.1111/pedi.13085
+  title: "Metabolomics\u2010related nutrient patterns at seroconversion and risk of\
+    \ progression to type 1 diabetes"
+  authors:
+  - Randi K. Johnson
+  - Lauren A. Vanderlinden
+  - Brian C. DeFelice
+  - Ulla Uusitalo
+  - Jennifer Seifert
+  - Sili Fan
+  - Tessa Crume
+  - Oliver Fiehn
+  - Marian Rewers
+  - Katerina Kechris
+  - Jill M. Norris
+  publisher: Pediatric Diabetes
+  date: '2020-08-09'
+  link: https://doi.org/gqvv7r
+  orcid: 0000-0001-9345-4439
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
   - trainee lead
   - nutrition
 - id: pmid:31715316
@@ -846,6 +5622,20 @@
   tags:
   - population health
   - trainee lead
+- id: doi:10.1097/OGX.0000000000000296
+  title: Adverse Birth Outcomes in Colorado
+  authors:
+  - Lisa M. Goldthwaite
+  - Lindsey Duca
+  - Randi K. Johnson
+  - Danielle Ostendorf
+  - Jeanelle Sheeder
+  publisher: Obstetrical &amp; Gynecological Survey
+  date: '2016-02-01'
+  link: https://doi.org/f79bbh
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.2105/AJPH.2015.302711
   title: 'Adverse Birth Outcomes in Colorado: Assessing the Impact of a Statewide
     Initiative to Prevent Unintended Pregnancy'
@@ -864,3 +5654,27 @@
   tags:
   - population health
   - trainee lead
+- id: pmid:38915393
+  title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
+    differentiate between reversion versus progression of islet autoimmunity.
+  authors:
+  - Patrick M Carry
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Teresa Buckner
+  - Andrea K Steck
+  - Katerina Kechris
+  - Ivana V Yang
+  - Tasha E Fingerlin
+  - Oliver Fiehn
+  - Marian Rewers
+  - Jill M Norris
+  publisher: Frontiers in immunology
+  date: '2024-06-10'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/38915393
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+  plugin: sources.py
+  file: sources.yaml
