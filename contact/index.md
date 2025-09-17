@@ -38,7 +38,7 @@ nav:
 
 - **MPH, Undergraduate, and Other Students:** Open postings on [Handshake](https://app.joinhandshake.com/login)
 
-- **Or email** [Randi K Johnson](mailto:randi.johnson@cuanschutz.edu)
+- **Or** email [Randi K Johnson](mailto:randi.johnson@cuanschutz.edu)
 
 - [RKJcollab Mentoring Philosophy and Compact](pdfs/RKJcollab-Mentoring-Philosophy-and-Compact.pdf)
 
