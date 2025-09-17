@@ -12,7 +12,7 @@ aliases:
 links: 
   orcid: 0000-0001-8656-0903  
   github: crepaci
-  google-scholar: https://scholar.google.com/citations?user=GT0xSs0AAAAJ&hl=en
+  google-scholar: GT0xSs0AAAAJ
   linkedin: charlie-repaci-07b723179 
 ---
 
