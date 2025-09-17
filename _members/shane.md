@@ -12,7 +12,7 @@ aliases:
 links:
   orcid: 0009-0003-0936-3377
   github: shaneridoux
-  google-scholar: https://scholar.google.com/citations?user=aZ9oJFcAAAAJ&hl=en
+  google-scholar: aZ9oJFcAAAAJ
   linkedin: shaneridoux
 ---
 

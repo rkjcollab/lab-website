@@ -15,7 +15,7 @@ links:
   orcid: 0000-0001-9345-4439
   github: rkayjay
   google-scholar: pwGJOuEAAAAJ
-  linkedin: randikjohson
+  linkedin: https://www.linkedin.com/in/randikjohnson/
 ---
 
 Randi is our boss and loves talking about science and gardening. Her favorite starch is bread..

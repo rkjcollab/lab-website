@@ -12,7 +12,7 @@ aliases:
 links: 
   orcid: 0000-0002-0559-3138
   github: sdslack
-  google-scholar: https://scholar.google.com/citations?user=e0pEWM8AAAAJ&hl=en
+  google-scholar: e0pEWM8AAAAJ
   linkedin: sarah-slack
 ---
 
