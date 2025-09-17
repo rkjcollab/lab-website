@@ -1,5 +1,5 @@
 ---
-name: Randi Johnson
+name: Randi K. Johnson
 slug: randi-johnson
 image: images/randi.jpg
 role: principal-investigator
@@ -13,8 +13,8 @@ aliases:
   - Randi
 links:
   orcid: 0000-0001-9345-4439
-  github: alexchen
-  google-scholar: https://scholar.google.com/citations?user=pwGJOuEAAAAJ&hl=en
+  github: rkayjay
+  google-scholar: pwGJOuEAAAAJ
   linkedin: randikjohson
 ---
 
