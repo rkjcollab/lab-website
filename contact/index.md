@@ -32,13 +32,13 @@ nav:
 
 ## 👩 Join Us
 
-- Staff and Postdoctoral Fellows: Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
+- **Staff and Postdoctoral Fellows:** Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
 
-- PhD Students: Through [affiliated training programs](#affiliations)
+- **PhD Students:** Through [affiliated training programs](#affiliations)
 
-- MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
+- **MPH, Undergraduate, and Other Students:** Open postings on [Handshake](https://app.joinhandshake.com/login)
 
-- Or email [Randi Johnson](mailto:randi.johnson@cuanschutz.edu)
+- **Or email** [Randi K Johnson](mailto:randi.johnson@cuanschutz.edu)
 
 - [RKJcollab Mentoring Philosophy and Compact](/pdfs/RKJcollab-Mentoring-Philosophy-and-Compact.pdf)
 
