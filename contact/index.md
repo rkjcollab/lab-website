@@ -34,7 +34,7 @@ nav:
 
 - Staff and Postdoctoral Fellows: Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
 
-- PhD Students: Through affiliated training programs
+- PhD Students: Through [affiliated training programs](#affiliations)
 
 - MPH, Undergraduate, and Other Students: Open postings on [Handshake](https://app.joinhandshake.com/login)
 
@@ -45,7 +45,7 @@ nav:
 
 {% include section.html %}
 
-## 🧬 Affiliations and Training Programs 
+## 🧬 Affiliations and Training Programs {#affiliations}
 
 {% capture col1 %}
 
