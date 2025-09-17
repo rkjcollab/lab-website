@@ -10,7 +10,10 @@ aliases:
   - neha
   - a venkatesh
 links:
-  linkedin:neha-v-vph
+  orcid: ""
+  github: NehaMPH
+  google-scholar: ""
+  linkedin: neha-v-vph
 ---
 
 
