@@ -65,7 +65,7 @@ sass:
 include:
   - _styles
   - _scripts
-  - pdfs
+  - _pdfs
 
 
 # force jekyll to exclude certain files/folders
