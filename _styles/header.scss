@@ -108,13 +108,14 @@ nav {
   align-items: center;
   flex-wrap: wrap;
   gap: 10px;
-  font-family: var(--heading);
+  font-family: "Vernon Adams", sans-serif;
   text-transform: uppercase;
 }
 
 nav > a {
   padding: 5px;
-  font-weight: bold
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 nav > a:hover {
