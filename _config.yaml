@@ -1,10 +1,10 @@
 # site properties and page defaults
 
 title: ""
-subtitle: Under Construction
+subtitle: ""
 description: ""
-header: "images/background.png"
-footer: "images/background.png"
+header: "images/background-a70.png"
+footer: "images/background-a70.png"
 proofer: false
 
 # site social media and other links
