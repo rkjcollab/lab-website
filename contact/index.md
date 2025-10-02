@@ -32,15 +32,13 @@ nav:
 
 ## 👩 Join Us
 
+Read the [RKJcollab Mentoring Philosophy and Compact]({{ site.baseurl }}/_pdfs/RKJcollab-Mentoring-Philosophy-and-Compact.pdf) to learn about our team's philosophy, expectations, and how we work together. Options for joining our team are provided below, or you can email [Randi K. Johnson](mailto:randi.johnson@cuanschutz.edu).
+
 - **Staff and Postdoctoral Fellows:** Open postings available on [CU Careers](https://www.cu.edu/cu-careers/anschutz-medical-campus)
 
 - **PhD Students:** Through [affiliated training programs](#affiliations)
 
 - **MPH, Undergraduate, and Other Students:** Open postings on [Handshake](https://app.joinhandshake.com/login)
-
-- **Or** email [Randi K. Johnson](mailto:randi.johnson@cuanschutz.edu)
-
-- [RKJcollab Mentoring Philosophy and Compact]({{ site.baseurl }}/_pdfs/RKJcollab-Mentoring-Philosophy-and-Compact.pdf)
 
 
 {% include section.html %}
