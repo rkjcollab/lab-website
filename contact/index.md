@@ -2,7 +2,6 @@
 title: Connect
 nav:
   order: 3
-  tooltip: Email, address, and location
 ---
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
