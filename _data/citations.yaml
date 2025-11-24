@@ -1,5 +1,30 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1210/clinem/dgaf578
+  title: Increased Levels of the Vitamin D Metabolite Ratio Are Protective Against
+    Progression From Islet Autoimmunity to T1D
+  authors:
+  - Patrick M Carry
+  - Soojeong Kim
+  - Nicole L Zwick
+  - Teresa Buckner
+  - Brian DeFelice
+  - Randi K Johnson
+  - Jennifer Seifert
+  - Kathleen Waugh
+  - Fran Dong
+  - Lauren A Vanderlinden
+  - Brigitte I Frohnert
+  - Katerina Kechris
+  - Oliver Fiehn
+  - Marian Rewers
+  - Jill M Norris
+  publisher: The Journal of Clinical Endocrinology &amp; Metabolism
+  date: '2025-10-30'
+  link: https://doi.org/g9749d
+  orcid: 0000-0001-9345-4439
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2025.06.30.25330574
   title: Demographic Factors, Attitudes, and Pre-Existing Conditions Impacting COVID-19
     Vaccine Hesitancy
@@ -5254,10 +5279,11 @@
   - trainee lead
   - nutrition
 - id: doi:10.1111/pedi.12995
-  title: "DNA methylation near the\n            <scp>\n              <i>INS</i>\n\
-    \            </scp>\n            gene is associated with\n            <scp>\n\
-    \              <i>INS</i>\n            </scp>\n            genetic variation (rs689)\
-    \ and type 1 diabetes in the Diabetes Autoimmunity Study in the Young"
+  title: "DNA methylation near the\n                    <scp>\n                  \
+    \    <i>INS</i>\n                    </scp>\n                    gene is associated\
+    \ with\n                    <scp>\n                      <i>INS</i>\n        \
+    \            </scp>\n                    genetic variation (rs689) and type 1\
+    \ diabetes in the Diabetes Autoimmunity Study in the Young"
   authors:
   - Patrick M. Carry
   - Lauren A. Vanderlinden
