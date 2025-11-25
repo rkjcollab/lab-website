@@ -21,18 +21,6 @@ Shane is a statistician and epidemiologist in training with a strong foundation 
 
 **Fun Facts About Shane**
 
-Outside the lab, Shane enjoys making soap, playing music, slinging pizza, and hiking.
-
-His ideal workspace includes lots of natural light, 2 ± 1 cups of coffee, and Lofi/lyric-free music playing softly in the background.
-
-If required to rank staple carbs, his list is: bread > rice > pasta > potatoes > corn > beans.
-
-Lab mates say he’s the one most likely to start a yard game or gather people around a game table at a party.
-
-If Shane were a plot, he’d be a chord diagram—a natural connector with many musical and social “networks.”
-
-For meetings, he appreciates agendas sent in advance.
-
-His go-to coffee order: Rook Iced New Orleans.
+Outside the lab, Shane enjoys making soap, playing music, slinging pizza, and hiking. He thrives in workspaces filled with natural light, a steady supply of coffee (2 ± 1 cups), and soft Lofi or lyric-free music in the background. When ranking staple carbs, he confidently goes with bread > rice > pasta > potatoes > corn > beans. Lab members describe him as the person most likely to spark a yard game or gather everyone around a game table at a party, and if he were a plot, he’d be a chord diagram—naturally connecting people, music, and ideas. For meetings, he appreciates receiving an agenda ahead of time, and his coffee order of choice is a Rook Iced New Orleans.
 
 
