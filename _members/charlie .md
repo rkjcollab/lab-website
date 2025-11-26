@@ -19,4 +19,5 @@ links:
 
 Charlie Repaci is a biostatistician who earned his master's degree in biostatistics from Washington University in St.Louis, where he contributed to multi-tissue metabolomics research into Alzheimer's disease with Neurogenomics and Informatics Center and corroborated biomarkers associated with breast cancer with the Toriola lab. With the RKJcollab, he primarily conducts statistical analyses while supporting the full project lifecycle. 
 
-He enjoys knitting, bookbinding, hiking, snowshoeing, and reading. He thrives in partial sun and mild temperatures (not exceeding 80°F), especially when supplied with daily tea. His ranked staple carbs are rice, pasta, potatoes, corn, bread, and beans.
+**Fun Facts About Charlie:**
+Outside the lab, he enjoys knitting, bookbinding, hiking, snowshoeing, and reading. He thrives in partial sun and mild temperatures (ideally below 80°F), especially when accompanied by a daily cup of tea. His staple carb ranking goes: rice > pasta > potatoes > corn > bread > beans. Lab members describe him as the person you’ll find in the corner happily petting the cat at a party, and if he were a plot, he’d be a radar plot - always leveling up across many dimensions. In meetings, he’s known for taking meticulous notes, and his go-to drink is a chai latte.
