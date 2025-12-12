@@ -91,8 +91,11 @@
   date: '2025-05-20'
   link: https://doi.org/g927zw
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - genetics
+  - methods
 - id: doi:10.1016/j.ajhg.2024.12.007
   title: Characterizing substructure via mixture modeling in large-scale genetic summary
     statistics
@@ -196,8 +199,13 @@
   date: '2025-07-25'
   link: https://doi.org/g927zx
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+  - trainee lead
 - id: doi:10.1210/clinem/dgae478
   title: Early Appearance of Thyroid Autoimmunity in Children Followed From Birth
     for Type 1 Diabetes Risk
@@ -938,8 +946,12 @@
   date: '2025-04-24'
   link: https://doi.org/g9vh6w
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 disbetes
+  - review
 - id: doi:10.3390/ijms25147620
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
     a Key Link to Offspring Obesity in Early Childhood
@@ -1625,8 +1637,12 @@
   date: '2024-04-06'
   link: https://doi.org/g927z3
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - review
 - id: doi:10.3389/fimmu.2024.1345494
   title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
     differentiate between reversion versus progression of islet autoimmunity
@@ -1646,8 +1662,12 @@
   date: '2024-06-10'
   link: https://doi.org/g9rxrw
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
 - id: doi:10.1038/s41467-024-48507-7
   title: Multi-omics in nasal epithelium reveals three axes of dysregulation for asthma
     risk in the African Diaspora populations
@@ -1698,6 +1718,7 @@
   tags:
   - omics
   - allergic disease
+  - trainee lead
   - genetics
 - id: doi:10.1038/s43856-023-00429-z
   title: 'Precision prognostics for cardiovascular disease in Type 2 diabetes: a systematic
@@ -2688,8 +2709,12 @@
   date: '2023-03-28'
   link: https://doi.org/g927z6
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - omics
+  - trainee lead
+  - genetics
 - id: doi:10.1038/s43856-023-00368-9
   title: 'Genotype-stratified treatment for monogenic insulin resistance: a systematic
     review'
@@ -4231,8 +4256,12 @@
   date: '2023-10-01'
   link: https://doi.org/gswpdp
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - review
 - id: doi:10.1038/s43856-023-00369-8
   title: 'The use of precision diagnostics for monogenic diabetes: a systematic review
     and expert opinion'
@@ -5020,6 +5049,7 @@
   - autoimmunity
   - type 1 diabetes
   - omics
+  - methods
 - id: pmid:33863802
   title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
     Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
@@ -5074,6 +5104,7 @@
   - omics
   - casual inference
   - trainee lead
+  - methods
 - id: doi:10.3390/nu13114057
   title: Epigenome-Wide Association Study of Infant Feeding and DNA Methylation in
     Infancy and Childhood in a Population at Increased Risk for Type 1 Diabetes
@@ -5155,6 +5186,7 @@
   - type 1 diabetes
   - omics
   - genetics
+  - methods
 - id: doi:10.1038/s41390-020-1084-2
   title: Predictors of oxylipins in a healthy pediatric population
   authors:
@@ -5217,6 +5249,7 @@
   file: sources.yaml
   tags:
   - type 1 diabetes
+  - review
 - id: doi:10.1038/s41598-020-60758-0
   title: Longitudinal DNA methylation differences precede type 1 diabetes
   authors:
@@ -5258,6 +5291,7 @@
   tags:
   - autoimmunity
   - type 1 diabetes
+  - review
 - id: doi:10.1017/jns.2020.9
   title: "Association between change in self-reported sugar intake and a sugar biomarker\
     \ (\u03B4<sup>13</sup>C) in children at increased risk for type 1 diabetes"
@@ -5493,11 +5527,8 @@
   date: '2015-09-01'
   link: https://doi.org/f7xm3b
   orcid: 0000-0001-9345-4439
-  plugin: sources.py
-  file: sources.yaml
-  tags:
-  - population health
-  - trainee lead
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:38915393
   title: Longitudinal changes in DNA methylation during the onset of islet autoimmunity
     differentiate between reversion versus progression of islet autoimmunity.
@@ -5537,5 +5568,351 @@
   publisher: Cold Spring Harbor Laboratory
   date: '2022-02-21'
   link: https://doi.org/g9k62s
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s13104-021-05741-2
+  title: "An effective processing pipeline for harmonizing DNA methylation data from\
+    \ Illumina\u2019s 450K and EPIC platforms for epidemiological studies"
+  authors:
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Patrick M. Carry
+  - Fran Dong
+  - Dawn L. DeMeo
+  - Ivana V. Yang
+  - Jill M. Norris
+  - Katerina Kechris
+  publisher: BMC Research Notes
+  date: '2021-09-08'
+  link: https://doi.org/gpdfw4
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+  - methods
+  plugin: sources.py
+  file: sources.yaml
+- id: "doi:\_10.3389/fimmu.2023.1124370"
+  title: 'Investigating iron intake in risk of progression from islet autoimmunity
+    to type 1 diabetes: The diabetes autoimmunity study in the young'
+  authors:
+  - Sulafa Elhassan
+  - Fran Dong
+  - Teresa Buckner
+  - Randi K. Johnson
+  - Jennifer A. Seifert
+  - Patrick M. Carry
+  - Lauren Vanderlinden
+  - Kathleen Waugh
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Frontiers in Immunology
+  date: '2023-03-28'
+  link: "https://doi.org/\_10.3389/fimmu.2023.1124370"
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - nutrition
+  - trainee lead
+  plugin: sources.py
+  file: sources.yaml
+- id: "doi:\_10.1038/s43856-023-00357-y"
+  title: 'Disease-modifying therapies and features linked to treatment response in
+    type 1 diabetes prevention: a systematic review'
+  authors:
+  - Jamie L. Felton
+  - Kurt J. Griffin
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela S. F. Monaco
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba M. Ismail
+  - Andrea K. Steck
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - Stephen Gitelman
+  - John M. Wentworth
+  - Maria J. Redondo
+  - Emily K. Sims
+  - Deirdre K. Tobias
+  - Jordi Merino
+  - Abrar Ahmad
+  - Catherine Aiken
+  - Jamie L. Benham
+  - Dhanasekaran Bodhini
+  - Amy L. Clark
+  - Kevin Colclough
+  - Rosa Corcoy
+  - Sara J. Cromer
+  - Daisy Duan
+  - Jamie L. Felton
+  - Ellen C. Francis
+  - Pieter Gillard
+  - "V\xE9ronique Gingras"
+  - Romy Gaillard
+  - Eram Haider
+  - Alice Hughes
+  - Jennifer M. Ikle
+  - Laura M. Jacobsen
+  - Anna R. Kahkoska
+  - Jarno L. T. Kettunen
+  - Raymond J. Kreienkamp
+  - Lee-Ling Lim
+  - "Jonna M. E. M\xE4nnist\xF6"
+  - Robert Massey
+  - Niamh-Maire Mclennan
+  - Rachel G. Miller
+  - Mario Luca Morieri
+  - Jasper Most
+  - Rochelle N. Naylor
+  - Bige Ozkan
+  - Kashyap Amratlal Patel
+  - Scott J. Pilla
+  - Katsiaryna Prystupa
+  - Sridharan Raghavan
+  - Mary R. Rooney
+  - "Martin Sch\xF6n"
+  - Zhila Semnani-Azad
+  - Magdalena Sevilla-Gonzalez
+  - Pernille Svalastoga
+  - Wubet Worku Takele
+  - Claudia Ha-ting Tam
+  - Anne Cathrine B. Thuesen
+  - Mustafa Tosur
+  - Amelia S. Wallace
+  - Caroline C. Wang
+  - Jessie J. Wong
+  - Jennifer M. Yamamoto
+  - Katherine Young
+  - "Chlo\xE9 Amouyal"
+  - Mette K. Andersen
+  - Maxine P. Bonham
+  - Mingling Chen
+  - Feifei Cheng
+  - Tinashe Chikowore
+  - Sian C. Chivers
+  - Christoffer Clemmensen
+  - Dana Dabelea
+  - Adem Y. Dawed
+  - Aaron J. Deutsch
+  - Laura T. Dickens
+  - Linda A. DiMeglio
+  - "Monika Dudenh\xF6ffer-Pfeifer"
+  - Carmella Evans-Molina
+  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
+  - Hugo Fitipaldi
+  - Stephanie L. Fitzpatrick
+  - Stephen E. Gitelman
+  - Mark O. Goodarzi
+  - Jessica A. Grieger
+  - "Marta Guasch-Ferr\xE9"
+  - Nahal Habibi
+  - Torben Hansen
+  - Chuiguo Huang
+  - Arianna Harris-Kawano
+  - Heba M. Ismail
+  - Benjamin Hoag
+  - Angus G. Jones
+  - Robert W. Koivula
+  - Aaron Leong
+  - Gloria K. W. Leung
+  - Ingrid M. Libman
+  - Kai Liu
+  - William L. Lowe
+  - Robert W. Morton
+  - Ayesha A. Motala
+  - Suna Onengut-Gumuscu
+  - James S. Pankow
+  - Maleesa Pathirana
+  - Sofia Pazmino
+  - Dianna Perez
+  - John R. Petrie
+  - Camille E. Powe
+  - Alejandra Quinteros
+  - Rashmi Jain
+  - Debashree Ray
+  - Mathias Ried-Larsen
+  - Zeb Saeed
+  - Vanessa Santhakumar
+  - Sarah Kanbour
+  - Sudipa Sarkar
+  - Gabriela S. F. Monaco
+  - Denise M. Scholtens
+  - Elizabeth Selvin
+  - Wayne Huey-Herng Sheu
+  - Maggie A. Stanislawski
+  - Nele Steenackers
+  - Andrea K. Steck
+  - Norbert Stefan
+  - "Julie St\xF8y"
+  - Rachael Taylor
+  - Sok Cin Tye
+  - Gebresilasea Gendisha Ukke
+  - Marzhan Urazbayeva
+  - Bart Van Der Schueren
+  - Camille Vatier
+  - John M. Wentworth
+  - Wesley Hannah
+  - Sara L. White
+  - Gechang Yu
+  - Yingchai Zhang
+  - Shao J. Zhou
+  - Jacques Beltrand
+  - Michel Polak
+  - Ingvild Aukrust
+  - Elisa De Franco
+  - Sarah E. Flanagan
+  - Kristin A. Maloney
+  - Andrew McGovern
+  - Janne Molnes
+  - Mariam Nakabuye
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Hugo Pomares-Millan
+  - Michele Provenzano
+  - "C\xE9cile Saint-Martin"
+  - Cuilin Zhang
+  - Yeyi Zhu
+  - Sungyoung Auh
+  - Russell De Souza
+  - Andrea J. Fawcett
+  - Chandra Gruber
+  - Eskedar Getie Mekonnen
+  - Emily Mixter
+  - Diana Sherifali
+  - Robert H. Eckel
+  - John J. Nolan
+  - Louis H. Philipson
+  - Rebecca J. Brown
+  - Liana K. Billings
+  - Kristen Boyle
+  - Tina Costacou
+  - John M. Dennis
+  - Jose C. Florez
+  - Anna L. Gloyn
+  - Maria F. Gomez
+  - Peter A. Gottlieb
+  - Siri Atma W. Greeley
+  - Kurt Griffin
+  - Andrew T. Hattersley
+  - Irl B. Hirsch
+  - Marie-France Hivert
+  - Korey K. Hood
+  - Jami L. Josefson
+  - Soo Heon Kwak
+  - Lori M. Laffel
+  - Siew S. Lim
+  - Ruth J. F. Loos
+  - Ronald C. W. Ma
+  - Chantal Mathieu
+  - Nestoras Mathioudakis
+  - James B. Meigs
+  - Shivani Misra
+  - Viswanathan Mohan
+  - Rinki Murphy
+  - Richard Oram
+  - Katharine R. Owen
+  - Susan E. Ozanne
+  - Ewan R. Pearson
+  - Wei Perng
+  - Toni I. Pollin
+  - Rodica Pop-Busui
+  - Richard E. Pratley
+  - Leanne M. Redman
+  - Rebecca M. Reynolds
+  - Robert K. Semple
+  - Jennifer L. Sherr
+  - Emily K. Sims
+  - Arianne Sweeting
+  - Tiinamaija Tuomi
+  - Miriam S. Udler
+  - Kimberly K. Vesco
+  - "Tina Vilsb\xF8ll"
+  - Robert Wagner
+  - Stephen S. Rich
+  - Paul W. Franks
+  publisher: Communications Medicine
+  date: '2023-10-05'
+  link: "https://doi.org/\_10.1038/s43856-023-00357-y"
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.02.06.25321273
+  title: Prediction and Characterization of Genetically Regulated Expression of Target
+    Tissues in Asthma
+  authors:
+  - Sarah D. Slack
+  - Erika Esquinca
+  - Christopher H. Arehart
+  - Meher Preethi Boorgula
+  - Brooke Szczesny
+  - Alex Romero
+  - Monica Campbell
+  - Sameer Chavan
+  - Nicholas Rafaels
+  - Harold Watson
+  - R. Clive Landis
+  - Nadia N. Hansel
+  - Charles N. Rotimi
+  - Christopher O. Olopade
+  - Camila A. Figueiredo
+  - Carole Ober
+  - Andrew H. Liu
+  - Eimear E. Kenny
+  - Kai Kammers
+  - Ingo Ruczinski
+  - Margaret A. Taub
+  - Michelle Daya
+  - Christopher R. Gignoux
+  - Katerina Kechris
+  - Kathleen C. Barnes
+  - Rasika A. Mathias
+  - Randi K. Johnson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-02-08'
+  link: https://doi.org/g927zz
+  tags:
+  - omics
+  - allergic disease
+  - trainee lead
+  - genetics
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.07.15.25331523
+  title: Enabling reproducible type 1 diabetes polygenic risk scoring for clinical
+    and translational applications
+  authors:
+  - Maizy S. Brasher
+  - Matthew J. Fisher
+  - Carolina Sanchez Wild
+  - Jonathan A. Shortt
+  - Krista Miller
+  - Randi K. Johnson
+  - Nicholas M. Rafaels
+  - Elizabeth L. Kudron
+  - Ian M. Brooks
+  - Kristy R. Crooks
+  - Sean M. Oser
+  - Tamara K. Oser
+  - Joanne B. Cole
+  - Laura K. Wiley
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Meng Lin
+  - Christopher R. Gignoux
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-07-17'
+  link: https://doi.org/g9wt9k
+  tags:
+  - type 1 diabetes
+  - biobank
+  - genetics
   plugin: sources.py
   file: sources.yaml
