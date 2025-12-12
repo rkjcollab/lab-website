@@ -26,9 +26,9 @@
 - id: doi:10.3390/nu13114057
   tags: [omics, trainee lead, nutrition]
 - id: pmid:34496950
-  tags: [autoimmunity, type 1 diabetes, omics]
+  tags: [autoimmunity, type 1 diabetes, omics, methods]
 - id: doi:10.3390/metabo11080542
-  tags: [autoimmunity, type 1 diabetes, omics, casual inference, trainee lead]
+  tags: [autoimmunity, type 1 diabetes, omics, casual inference, trainee lead, methods]
 - id: doi:10.1007/s00125-021-05446-y
   tags: [developmental origin, autoimmunity, type 1 diabetes, nutrition]
 - id: doi:10.1038/s41390-020-1084-2
@@ -36,7 +36,7 @@
 - id: pmid:33863802
   tags: [autoimmunity, type 1 diabetes, omics, trainee lead]
 - id: doi:10.1111/1753-0407.13093
-  tags: [autoimmunity, type 1 diabetes, omics, genetics]
+  tags: [autoimmunity, type 1 diabetes, omics, genetics, methods]
 - id: doi:10.1111/pedi.13085
   tags: [autoimmunity, type 1 diabetes, omics, trainee lead, nutrition]
 - id: pmid:32651851
@@ -44,11 +44,11 @@
 - id: doi:10.1111/pedi.12995
   tags: [autoimmunity, type 1 diabetes, omics, trainee lead, genetics]
 - id: pmid:32333871
-  tags: [type 1 diabetes]
+  tags: [type 1 diabetes, review]
 - id: doi:10.1038/s41598-020-60758-0
   tags: [autoimmunity, type 1 diabetes, trainee lead]
 - id: pmid:31999944
-  tags: [autoimmunity, type 1 diabetes]
+  tags: [autoimmunity, type 1 diabetes, review]
 - id: doi:10.1017/jns.2020.9
   tags: [ trainee lead, nutrition]
 - id: pmid:31715316
@@ -61,6 +61,34 @@
   tags: [autoimmunity, type 1 diabetes, trainee lead, nutrition]
 - id: pmid:30795754
   tags: [population health, trainee lead]
-- id: doi:10.2105/AJPH.2015.302711
-  tags: [population health, trainee lead]
+- id: doi:10.1093/genetics/iyaf094
+  tags: [genetics, methods]
+- id: doi:10.1186/s13104-021-05741-2 
+  tags: [autoimmunity, type 1 diabetes, omics, methods]
+- id: doi:10.3390/nu13114057
+  tags: [omics, trainee lead, nutrition]
+- id: doi:10.3389/fnut.2023.1040993
+  tags: [omics, trainee lead, genetics]
+- id: doi: 10.3389/fimmu.2023.1124370
+  tags: [autoimmunity, type 1 diabetes, nutrition, trainee lead]
+- id: doi: 10.1038/s43856-023-00357-y
+  tags: [autoimmunity, type 1 diabetes, review]
+- id: doi:10.1038/s43856-024-00478-y
+  tags: [autoimmunity, type 1 diabetes, review]
+- id: doi:10.1038/s41591-023-02502-5
+  tags: [autoimmunity, type 1 diabetes, review]
+- id: doi:10.1038/s41467-024-48507-7
+  tags: [omics, allergic disease, trainee lead, genetics]
+- id: doi:10.3389/fimmu.2024.1345494
+  tags: [autoimmunity, type 1 diabetes, omics]
+- id: doi:10.3390/ijms25147620
+  tags: [developmental origin, omics, trainee lead]
+- id: doi:10.1101/2025.02.06.25321273
+  tags: [omics, allergic disease, trainee lead, genetics]
+- id: doi:10.2337/dc24-2886
+  tags: [autoimmunity, type 1 disbetes, review]
+- id: doi:10.1101/2025.07.15.25331523
+  tags: [type 1 diabetes, biobank, genetics]
+- id: doi:10.2337/dc25-0330
+  tags: [autoimmunity, type 1 diabetes, omics, trainee lead]
 
