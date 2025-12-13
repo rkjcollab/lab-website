@@ -950,7 +950,7 @@
   file: sources.yaml
   tags:
   - autoimmunity
-  - type 1 disbetes
+  - type 1 diabetes
   - review
 - id: doi:10.3390/ijms25147620
   title: Maternal Serum Metabolomics in Mid-Pregnancy Identifies Lipid Pathways as
@@ -2685,8 +2685,12 @@
   date: '2023-10-05'
   link: https://doi.org/g927z5
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - review
 - id: doi:10.3389/fnut.2023.1040993
   title: Genome-wide analysis of oxylipins and oxylipin profiles in a pediatric population
   authors:
@@ -3164,8 +3168,13 @@
   date: '2023-03-28'
   link: https://doi.org/g927z9
   orcid: 0000-0001-9345-4439
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - nutrition
+  - trainee lead
 - id: doi:10.1038/s43856-023-00366-x
   title: 'Participant characteristics in the prevention of gestational diabetes as
     evidence for precision medicine: a systematic review and meta-analysis'
@@ -5102,7 +5111,7 @@
   - autoimmunity
   - type 1 diabetes
   - omics
-  - casual inference
+  - causal inference
   - trainee lead
   - methods
 - id: doi:10.3390/nu13114057
@@ -5553,23 +5562,6 @@
   - omics
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2022.02.15.22271018
-  title: COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
-    Medicine
-  authors:
-  - Randi K. Johnson
-  - Katie M. Marker
-  - David Mayer
-  - Jonathan Shortt
-  - David Kao
-  - Kathleen C. Barnes
-  - Jan T. Lowery
-  - Christopher R. Gignoux
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-21'
-  link: https://doi.org/g9k62s
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1186/s13104-021-05741-2
   title: "An effective processing pipeline for harmonizing DNA methylation data from\
     \ Illumina\u2019s 450K and EPIC platforms for epidemiological studies"
@@ -5590,258 +5582,6 @@
   - type 1 diabetes
   - omics
   - methods
-  plugin: sources.py
-  file: sources.yaml
-- id: "doi:\_10.3389/fimmu.2023.1124370"
-  title: 'Investigating iron intake in risk of progression from islet autoimmunity
-    to type 1 diabetes: The diabetes autoimmunity study in the young'
-  authors:
-  - Sulafa Elhassan
-  - Fran Dong
-  - Teresa Buckner
-  - Randi K. Johnson
-  - Jennifer A. Seifert
-  - Patrick M. Carry
-  - Lauren Vanderlinden
-  - Kathleen Waugh
-  - Marian Rewers
-  - Jill M. Norris
-  publisher: Frontiers in Immunology
-  date: '2023-03-28'
-  link: "https://doi.org/\_10.3389/fimmu.2023.1124370"
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - nutrition
-  - trainee lead
-  plugin: sources.py
-  file: sources.yaml
-- id: "doi:\_10.1038/s43856-023-00357-y"
-  title: 'Disease-modifying therapies and features linked to treatment response in
-    type 1 diabetes prevention: a systematic review'
-  authors:
-  - Jamie L. Felton
-  - Kurt J. Griffin
-  - Richard A. Oram
-  - Cate Speake
-  - S. Alice Long
-  - Suna Onengut-Gumuscu
-  - Stephen S. Rich
-  - Gabriela S. F. Monaco
-  - Carmella Evans-Molina
-  - Linda A. DiMeglio
-  - Heba M. Ismail
-  - Andrea K. Steck
-  - Dana Dabelea
-  - Randi K. Johnson
-  - Marzhan Urazbayeva
-  - Stephen Gitelman
-  - John M. Wentworth
-  - Maria J. Redondo
-  - Emily K. Sims
-  - Deirdre K. Tobias
-  - Jordi Merino
-  - Abrar Ahmad
-  - Catherine Aiken
-  - Jamie L. Benham
-  - Dhanasekaran Bodhini
-  - Amy L. Clark
-  - Kevin Colclough
-  - Rosa Corcoy
-  - Sara J. Cromer
-  - Daisy Duan
-  - Jamie L. Felton
-  - Ellen C. Francis
-  - Pieter Gillard
-  - "V\xE9ronique Gingras"
-  - Romy Gaillard
-  - Eram Haider
-  - Alice Hughes
-  - Jennifer M. Ikle
-  - Laura M. Jacobsen
-  - Anna R. Kahkoska
-  - Jarno L. T. Kettunen
-  - Raymond J. Kreienkamp
-  - Lee-Ling Lim
-  - "Jonna M. E. M\xE4nnist\xF6"
-  - Robert Massey
-  - Niamh-Maire Mclennan
-  - Rachel G. Miller
-  - Mario Luca Morieri
-  - Jasper Most
-  - Rochelle N. Naylor
-  - Bige Ozkan
-  - Kashyap Amratlal Patel
-  - Scott J. Pilla
-  - Katsiaryna Prystupa
-  - Sridharan Raghavan
-  - Mary R. Rooney
-  - "Martin Sch\xF6n"
-  - Zhila Semnani-Azad
-  - Magdalena Sevilla-Gonzalez
-  - Pernille Svalastoga
-  - Wubet Worku Takele
-  - Claudia Ha-ting Tam
-  - Anne Cathrine B. Thuesen
-  - Mustafa Tosur
-  - Amelia S. Wallace
-  - Caroline C. Wang
-  - Jessie J. Wong
-  - Jennifer M. Yamamoto
-  - Katherine Young
-  - "Chlo\xE9 Amouyal"
-  - Mette K. Andersen
-  - Maxine P. Bonham
-  - Mingling Chen
-  - Feifei Cheng
-  - Tinashe Chikowore
-  - Sian C. Chivers
-  - Christoffer Clemmensen
-  - Dana Dabelea
-  - Adem Y. Dawed
-  - Aaron J. Deutsch
-  - Laura T. Dickens
-  - Linda A. DiMeglio
-  - "Monika Dudenh\xF6ffer-Pfeifer"
-  - Carmella Evans-Molina
-  - "Mar\xEDa Merc\xE8 Fern\xE1ndez-Balsells"
-  - Hugo Fitipaldi
-  - Stephanie L. Fitzpatrick
-  - Stephen E. Gitelman
-  - Mark O. Goodarzi
-  - Jessica A. Grieger
-  - "Marta Guasch-Ferr\xE9"
-  - Nahal Habibi
-  - Torben Hansen
-  - Chuiguo Huang
-  - Arianna Harris-Kawano
-  - Heba M. Ismail
-  - Benjamin Hoag
-  - Angus G. Jones
-  - Robert W. Koivula
-  - Aaron Leong
-  - Gloria K. W. Leung
-  - Ingrid M. Libman
-  - Kai Liu
-  - William L. Lowe
-  - Robert W. Morton
-  - Ayesha A. Motala
-  - Suna Onengut-Gumuscu
-  - James S. Pankow
-  - Maleesa Pathirana
-  - Sofia Pazmino
-  - Dianna Perez
-  - John R. Petrie
-  - Camille E. Powe
-  - Alejandra Quinteros
-  - Rashmi Jain
-  - Debashree Ray
-  - Mathias Ried-Larsen
-  - Zeb Saeed
-  - Vanessa Santhakumar
-  - Sarah Kanbour
-  - Sudipa Sarkar
-  - Gabriela S. F. Monaco
-  - Denise M. Scholtens
-  - Elizabeth Selvin
-  - Wayne Huey-Herng Sheu
-  - Maggie A. Stanislawski
-  - Nele Steenackers
-  - Andrea K. Steck
-  - Norbert Stefan
-  - "Julie St\xF8y"
-  - Rachael Taylor
-  - Sok Cin Tye
-  - Gebresilasea Gendisha Ukke
-  - Marzhan Urazbayeva
-  - Bart Van Der Schueren
-  - Camille Vatier
-  - John M. Wentworth
-  - Wesley Hannah
-  - Sara L. White
-  - Gechang Yu
-  - Yingchai Zhang
-  - Shao J. Zhou
-  - Jacques Beltrand
-  - Michel Polak
-  - Ingvild Aukrust
-  - Elisa De Franco
-  - Sarah E. Flanagan
-  - Kristin A. Maloney
-  - Andrew McGovern
-  - Janne Molnes
-  - Mariam Nakabuye
-  - "P\xE5l Rasmus Nj\xF8lstad"
-  - Hugo Pomares-Millan
-  - Michele Provenzano
-  - "C\xE9cile Saint-Martin"
-  - Cuilin Zhang
-  - Yeyi Zhu
-  - Sungyoung Auh
-  - Russell De Souza
-  - Andrea J. Fawcett
-  - Chandra Gruber
-  - Eskedar Getie Mekonnen
-  - Emily Mixter
-  - Diana Sherifali
-  - Robert H. Eckel
-  - John J. Nolan
-  - Louis H. Philipson
-  - Rebecca J. Brown
-  - Liana K. Billings
-  - Kristen Boyle
-  - Tina Costacou
-  - John M. Dennis
-  - Jose C. Florez
-  - Anna L. Gloyn
-  - Maria F. Gomez
-  - Peter A. Gottlieb
-  - Siri Atma W. Greeley
-  - Kurt Griffin
-  - Andrew T. Hattersley
-  - Irl B. Hirsch
-  - Marie-France Hivert
-  - Korey K. Hood
-  - Jami L. Josefson
-  - Soo Heon Kwak
-  - Lori M. Laffel
-  - Siew S. Lim
-  - Ruth J. F. Loos
-  - Ronald C. W. Ma
-  - Chantal Mathieu
-  - Nestoras Mathioudakis
-  - James B. Meigs
-  - Shivani Misra
-  - Viswanathan Mohan
-  - Rinki Murphy
-  - Richard Oram
-  - Katharine R. Owen
-  - Susan E. Ozanne
-  - Ewan R. Pearson
-  - Wei Perng
-  - Toni I. Pollin
-  - Rodica Pop-Busui
-  - Richard E. Pratley
-  - Leanne M. Redman
-  - Rebecca M. Reynolds
-  - Robert K. Semple
-  - Jennifer L. Sherr
-  - Emily K. Sims
-  - Arianne Sweeting
-  - Tiinamaija Tuomi
-  - Miriam S. Udler
-  - Kimberly K. Vesco
-  - "Tina Vilsb\xF8ll"
-  - Robert Wagner
-  - Stephen S. Rich
-  - Paul W. Franks
-  publisher: Communications Medicine
-  date: '2023-10-05'
-  link: "https://doi.org/\_10.1038/s43856-023-00357-y"
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - review
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.02.06.25321273
