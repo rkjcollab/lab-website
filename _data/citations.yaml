@@ -4863,6 +4863,28 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
+- id: doi:10.1016/j.jaci.2022.02.026
+  title: Lipid mediators are detectable in the nasal epithelium and differ by asthma
+    status in female subjects
+  authors:
+  - Randi K. Johnson
+  - Jonathan Manke
+  - Monica Campbell
+  - Michael Armstrong
+  - Meher Preethi Boorgula
+  - Gabriela Pinheiro
+  - Cinthia Vila Nova Santana
+  - Rasika A. Mathias
+  - Kathleen C. Barnes
+  - Alvaro Cruz
+  - Nichole Reisdorph
+  - Camila A. Figueiredo
+  publisher: Journal of Allergy and Clinical Immunology
+  date: '2022-10-01'
+  link: https://doi.org/g9rxrx
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.2196/37327
   title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
     Medicine: Observational Study'
@@ -4921,6 +4943,45 @@
   publisher: Journal of Allergy and Clinical Immunology
   date: '2022-05-01'
   link: https://doi.org/g9k62r
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.1186/s13104-021-05741-2
+  title: "An effective processing pipeline for harmonizing DNA methylation data from\
+    \ Illumina\u2019s 450K and EPIC platforms for epidemiological studies"
+  authors:
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Patrick M. Carry
+  - Fran Dong
+  - Dawn L. DeMeo
+  - Ivana V. Yang
+  - Jill M. Norris
+  - Katerina Kechris
+  publisher: BMC Research Notes
+  date: '2021-09-08'
+  link: https://doi.org/gpdfw4
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.2337/db20-1251
+  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
+    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young'
+  authors:
+  - Patrick M. Carry
+  - Lauren A. Vanderlinden
+  - Randi K. Johnson
+  - Teresa Buckner
+  - Oliver Fiehn
+  - Andrea K. Steck
+  - Katerina Kechris
+  - Ivana Yang
+  - Tasha E. Fingerlin
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Diabetes
+  date: '2021-04-16'
+  link: https://doi.org/gqvv4s
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
@@ -5034,6 +5095,36 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
+- id: doi:10.1007/s12020-020-02412-3
+  title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes
+    Autoimmunity Study In the Young (DAISY)
+  authors:
+  - Jacqueline A. Gardner
+  - Randi K. Johnson
+  - Fran Dong
+  - Michelle Hoffman
+  - Andrea K. Steck
+  - Brigitte I. Frohnert
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Endocrine
+  date: '2020-07-10'
+  link: https://doi.org/g9rxr2
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.1016/s2213-8587(20)30109-1
+  title: "Type 1 diabetes\u2014origins and epidemiology \u2013 Authors' reply"
+  authors:
+  - Jill M Norris
+  - Randi K Johnson
+  - Lars C Stene
+  publisher: The Lancet Diabetes &amp; Endocrinology
+  date: '2020-05-01'
+  link: https://doi.org/g9rxr4
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1038/s41598-020-60758-0
   title: Longitudinal DNA methylation differences precede type 1 diabetes
   authors:
@@ -5053,6 +5144,18 @@
   publisher: Scientific Reports
   date: '2020-02-28'
   link: https://doi.org/gqvv7q
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.1016/s2213-8587(19)30412-7
+  title: "Type 1 diabetes\u2014early life origins and changing epidemiology"
+  authors:
+  - Jill M Norris
+  - Randi K Johnson
+  - Lars C Stene
+  publisher: The Lancet Diabetes &amp; Endocrinology
+  date: '2020-03-01'
+  link: https://doi.org/gh3w2w
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
@@ -5117,156 +5220,6 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
-- id: doi:10.1097/OGX.0000000000000296
-  title: Adverse Birth Outcomes in Colorado
-  authors:
-  - Lisa M. Goldthwaite
-  - Lindsey Duca
-  - Randi K. Johnson
-  - Danielle Ostendorf
-  - Jeanelle Sheeder
-  publisher: Obstetrical &amp; Gynecological Survey
-  date: '2016-02-01'
-  link: https://doi.org/f79bbh
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: doi:10.2105/AJPH.2015.302711
-  title: 'Adverse Birth Outcomes in Colorado: Assessing the Impact of a Statewide
-    Initiative to Prevent Unintended Pregnancy'
-  authors:
-  - Lisa M. Goldthwaite
-  - Lindsey Duca
-  - Randi K. Johnson
-  - Danielle Ostendorf
-  - Jeanelle Sheeder
-  publisher: American Journal of Public Health
-  date: '2015-09-01'
-  link: https://doi.org/f7xm3b
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: doi:10.1016/j.jaci.2022.02.026
-  title: Lipid mediators are detectable in the nasal epithelium and differ by asthma
-    status in female subjects
-  authors:
-  - Randi K. Johnson
-  - Jonathan Manke
-  - Monica Campbell
-  - Michael Armstrong
-  - Meher Preethi Boorgula
-  - Gabriela Pinheiro
-  - Cinthia Vila Nova Santana
-  - Rasika A. Mathias
-  - Kathleen C. Barnes
-  - Alvaro Cruz
-  - Nichole Reisdorph
-  - Camila A. Figueiredo
-  publisher: Journal of Allergy and Clinical Immunology
-  date: '2022-10-01'
-  link: https://doi.org/g9rxrx
-  tags:
-  - omics
-  - allergic disease
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.1186/s13104-021-05741-2
-  title: "An effective processing pipeline for harmonizing DNA methylation data from\
-    \ Illumina\u2019s 450K and EPIC platforms for epidemiological studies"
-  authors:
-  - Lauren A. Vanderlinden
-  - Randi K. Johnson
-  - Patrick M. Carry
-  - Fran Dong
-  - Dawn L. DeMeo
-  - Ivana V. Yang
-  - Jill M. Norris
-  - Katerina Kechris
-  publisher: BMC Research Notes
-  date: '2021-09-08'
-  link: https://doi.org/gpdfw4
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - methods
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.2337/db20-1251
-  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
-    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young'
-  authors:
-  - Patrick M. Carry
-  - Lauren A. Vanderlinden
-  - Randi K. Johnson
-  - Teresa Buckner
-  - Oliver Fiehn
-  - Andrea K. Steck
-  - Katerina Kechris
-  - Ivana Yang
-  - Tasha E. Fingerlin
-  - Marian Rewers
-  - Jill M. Norris
-  publisher: Diabetes
-  date: '2021-04-16'
-  link: https://doi.org/gqvv4s
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - trainee lead
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.1007/s12020-020-02412-3
-  title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes
-    Autoimmunity Study In the Young (DAISY)
-  authors:
-  - Jacqueline A. Gardner
-  - Randi K. Johnson
-  - Fran Dong
-  - Michelle Hoffman
-  - Andrea K. Steck
-  - Brigitte I. Frohnert
-  - Marian Rewers
-  - Jill M. Norris
-  publisher: Endocrine
-  date: '2020-07-10'
-  link: https://doi.org/g9rxr2
-  tags:
-  - autoimmunity
-  - trainee lead
-  - nutrition
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.1016/s2213-8587(20)30109-1
-  title: "Type 1 diabetes\u2014origins and epidemiology \u2013 Authors' reply"
-  authors:
-  - Jill M Norris
-  - Randi K Johnson
-  - Lars C Stene
-  publisher: The Lancet Diabetes &amp; Endocrinology
-  date: '2020-05-01'
-  link: https://doi.org/g9rxr4
-  tags:
-  - type 1 diabetes
-  - review
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.1016/s2213-8587(19)30412-7
-  title: "Type 1 diabetes\u2014early life origins and changing epidemiology"
-  authors:
-  - Jill M Norris
-  - Randi K Johnson
-  - Lars C Stene
-  publisher: The Lancet Diabetes &amp; Endocrinology
-  date: '2020-03-01'
-  link: https://doi.org/gh3w2w
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - review
-  plugin: sources
-  file: sources.yaml
 - id: doi:10.1016/j.jsbmb.2019.105519
   title: "Utilizing cooled liquid chromatography and chemical derivatization to separate\
     \ and quantify C3-epimers of 25-hydroxy vitamin D and low abundant 1\u03B1,25(OH)2D3:\
@@ -5282,12 +5235,9 @@
   publisher: The Journal of Steroid Biochemistry and Molecular Biology
   date: '2020-03-01'
   link: https://doi.org/g9rxr5
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - trainee lead
-  plugin: sources
-  file: sources.yaml
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1038/s41598-019-51251-4
   title: Metabolite-related dietary patterns and the development of islet autoimmunity
   authors:
@@ -5516,14 +5466,9 @@
   publisher: Scientific Reports
   date: '2019-10-15'
   link: https://doi.org/gjdjdt
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - omics
-  - trainee lead
-  - nutrition
-  plugin: sources
-  file: sources.yaml
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.14309/ajg.0000000000000255
   title: 'Gluten Intake and Risk of Celiac Disease: Long-Term Follow-up of an At-Risk
     Birth Cohort'
@@ -5545,12 +5490,9 @@
   publisher: American Journal of Gastroenterology
   date: '2019-05-09'
   link: https://doi.org/g9rxr7
-  tags:
-  - autoimmunity
-  - trainee lead
-  - nutrition
-  plugin: sources
-  file: sources.yaml
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.2337/dc18-2315
   title: 'Gluten Intake and Risk of Islet Autoimmunity and Progression to Type 1 Diabetes
     in Children at Increased Risk of the Disease: The Diabetes Autoimmunity Study
@@ -5572,13 +5514,9 @@
   publisher: Diabetes Care
   date: '2019-02-22'
   link: https://doi.org/gjb8sp
-  tags:
-  - autoimmunity
-  - type 1 diabetes
-  - trainee lead
-  - nutrition
-  plugin: sources
-  file: sources.yaml
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1186/s12889-019-6539-1
   title: The global school-based student health survey as a tool to guide adolescent
     health interventions in rural Guatemala
@@ -5593,11 +5531,38 @@
   publisher: BMC Public Health
   date: '2019-02-22'
   link: https://doi.org/gs22k9
-  tags:
-  - population health
-  - trainee lead
-  plugin: sources
-  file: sources.yaml
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.1097/OGX.0000000000000296
+  title: Adverse Birth Outcomes in Colorado
+  authors:
+  - Lisa M. Goldthwaite
+  - Lindsey Duca
+  - Randi K. Johnson
+  - Danielle Ostendorf
+  - Jeanelle Sheeder
+  publisher: Obstetrical &amp; Gynecological Survey
+  date: '2016-02-01'
+  link: https://doi.org/f79bbh
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.2105/AJPH.2015.302711
+  title: 'Adverse Birth Outcomes in Colorado: Assessing the Impact of a Statewide
+    Initiative to Prevent Unintended Pregnancy'
+  authors:
+  - Lisa M. Goldthwaite
+  - Lindsey Duca
+  - Randi K. Johnson
+  - Danielle Ostendorf
+  - Jeanelle Sheeder
+  publisher: American Journal of Public Health
+  date: '2015-09-01'
+  link: https://doi.org/f7xm3b
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1101/2025.02.06.25321273
   title: Prediction and Characterization of Genetically Regulated Expression of Target
     Tissues in Asthma
