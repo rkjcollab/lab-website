@@ -34,6 +34,7 @@ def main(entry):
         for summary in get_safe(work, "work-summary", []):
             ids += get_safe(summary, "external-ids.external-id", [])
 
+        # pick first relevant id
         _id_obj = next(
             (id for id in ids if get_safe(id, "external-id-relationship", "") in ["self", "version-of", "part-of"]),
             ids[0] if ids else None,
@@ -42,8 +43,18 @@ def main(entry):
         if not _id_obj:
             continue
 
-        id_type = get_safe(_id_obj, "external-id-type", "")
+        id_type = get_safe(_id_obj, "external-id-type", "").lower()
         id_value = get_safe(_id_obj, "external-id-value", "")
+
+        # Only keep works that have a DOI
+        if id_type != "doi":
+            # check if any other id in the list is a DOI
+            doi_obj = next((id for id in ids if get_safe(id, "external-id-type", "").lower() == "doi"), None)
+            if doi_obj:
+                id_type = "doi"
+                id_value = get_safe(doi_obj, "external-id-value", "")
+            else:
+                continue  # skip works with no DOI
 
         unique_id = f"{id_type}:{id_value}".lower()
         if unique_id in seen_ids:

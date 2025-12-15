@@ -4863,28 +4863,6 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
-- id: pmid:35304161
-  title: Lipid mediators are detectable in the nasal epithelium and differ by asthma
-    status in female subjects.
-  authors:
-  - Randi K Johnson
-  - Jonathan Manke
-  - Monica Campbell
-  - Michael Armstrong
-  - Meher Preethi Boorgula
-  - Gabriela Pinheiro
-  - Cinthia Vila Nova Santana
-  - Rasika A Mathias
-  - Kathleen C Barnes
-  - Alvaro Cruz
-  - Nichole Reisdorph
-  - Camila A Figueiredo
-  publisher: The Journal of allergy and clinical immunology
-  date: '2022-03-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35304161
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
 - id: doi:10.2196/37327
   title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
     Medicine: Observational Study'
@@ -4943,45 +4921,6 @@
   publisher: Journal of Allergy and Clinical Immunology
   date: '2022-05-01'
   link: https://doi.org/g9k62r
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:34496950
-  title: An effective processing pipeline for harmonizing DNA methylation data from
-    Illumina's 450K and EPIC platforms for epidemiological studies.
-  authors:
-  - Lauren A Vanderlinden
-  - Randi K Johnson
-  - Patrick M Carry
-  - Fran Dong
-  - Dawn L DeMeo
-  - Ivana V Yang
-  - Jill M Norris
-  - Katerina Kechris
-  publisher: BMC research notes
-  date: '2021-09-08'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/34496950
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:33863802
-  title: 'Phospholipid Levels at Seroconversion Are Associated With Resolution of
-    Persistent Islet Autoimmunity: The Diabetes Autoimmunity Study in the Young.'
-  authors:
-  - Patrick M Carry
-  - Lauren A Vanderlinden
-  - Randi K Johnson
-  - Teresa Buckner
-  - Oliver Fiehn
-  - Andrea K Steck
-  - Katerina Kechris
-  - Ivana Yang
-  - Tasha E Fingerlin
-  - Marian Rewers
-  - Jill M Norris
-  publisher: Diabetes
-  date: '2021-04-16'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33863802
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
@@ -5095,36 +5034,6 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
-- id: pmid:32651851
-  title: Gluten intake and risk of thyroid peroxidase autoantibodies in the Diabetes
-    Autoimmunity Study In the Young (DAISY).
-  authors:
-  - Jacqueline A Gardner
-  - Randi K Johnson
-  - Fran Dong
-  - Michelle Hoffman
-  - Andrea K Steck
-  - Brigitte I Frohnert
-  - Marian Rewers
-  - Jill M Norris
-  publisher: Endocrine
-  date: '2020-07-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32651851
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:32333871
-  title: Type 1 diabetes-origins and epidemiology - Authors' reply.
-  authors:
-  - Jill M Norris
-  - Randi K Johnson
-  - Lars C Stene
-  publisher: The lancet. Diabetes & endocrinology
-  date: '2020-05-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32333871
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
 - id: doi:10.1038/s41598-020-60758-0
   title: Longitudinal DNA methylation differences precede type 1 diabetes
   authors:
@@ -5144,18 +5053,6 @@
   publisher: Scientific Reports
   date: '2020-02-28'
   link: https://doi.org/gqvv7q
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:31999944
-  title: Type 1 diabetes-early life origins and changing epidemiology.
-  authors:
-  - Jill M Norris
-  - Randi K Johnson
-  - Lars C Stene
-  publisher: The lancet. Diabetes & endocrinology
-  date: '2020-01-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31999944
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
@@ -5217,116 +5114,6 @@
   publisher: Pediatric Diabetes
   date: '2020-08-09'
   link: https://doi.org/gqvv7r
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:31715316
-  title: "Utilizing cooled liquid chromatography and chemical derivatization to separate\
-    \ and quantify C3-epimers of 25-hydroxy vitamin D and low abundant 1\u03B1,25(OH)"
-  authors:
-  - Brian C DeFelice
-  - Theresa L Pedersen
-  - Hanan Shorrosh
-  - Randi K Johnson
-  - Jennifer A Seifert
-  - Jill M Norris
-  - Oliver Fiehn
-  publisher: The Journal of steroid biochemistry and molecular biology
-  date: '2019-11-10'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31715316
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:31616039
-  title: Metabolite-related dietary patterns and the development of islet autoimmunity.
-  authors:
-  - Randi K Johnson
-  - Lauren Vanderlinden
-  - Brian C DeFelice
-  - Katerina Kechris
-  - Ulla Uusitalo
-  - Oliver Fiehn
-  - Marci Sontag
-  - Tessa Crume
-  - Andreas Beyerlein
-  - "\xC5ke Lernmark"
-  - Jorma Toppari
-  - Anette-G Ziegler
-  - Jin-Xiong She
-  - William Hagopian
-  - Marian Rewers
-  - Beena Akolkar
-  - Jeffrey Krischer
-  - Suvi M Virtanen
-  - Jill M Norris
-  publisher: Scientific reports
-  date: '2019-10-15'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31616039
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:31082869
-  title: 'Gluten Intake and Risk of Celiac Disease: Long-Term Follow-up of an At-Risk
-    Birth Cohort.'
-  authors:
-  - "Karl M\xE5rild"
-  - Fran Dong
-  - Nicolai A Lund-Blix
-  - Jennifer Seifert
-  - "Anna E Bar\xF3n"
-  - Kathleen C Waugh
-  - Iman Taki
-  - "Ketil St\xF8rdal"
-  - German Tapia
-  - Lars C Stene
-  - Randi K Johnson
-  - Edwin Liu
-  - Marian J Rewers
-  - Jill M Norris
-  publisher: The American journal of gastroenterology
-  date: '2019-08-01'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/31082869
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:30796108
-  title: 'Gluten Intake and Risk of Islet Autoimmunity and Progression to Type 1 Diabetes
-    in Children at Increased Risk of the Disease: The Diabetes Autoimmunity Study
-    in the Young (DAISY).'
-  authors:
-  - Nicolai A Lund-Blix
-  - Fran Dong
-  - "Karl M\xE5rild"
-  - Jennifer Seifert
-  - "Anna E Bar\xF3n"
-  - Kathleen C Waugh
-  - Geir Joner
-  - "Ketil St\xF8rdal"
-  - German Tapia
-  - Lars C Stene
-  - Randi K Johnson
-  - Marian J Rewers
-  - Jill M Norris
-  publisher: Diabetes care
-  date: '2019-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30796108
-  orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
-- id: pmid:30795754
-  title: The global school-based student health survey as a tool to guide adolescent
-    health interventions in rural Guatemala.
-  authors:
-  - Randi K Johnson
-  - Molly Lamb
-  - Hillary Anderson
-  - Michelle Pieters-Arroyo
-  - Bradley T Anderson
-  - "Guillermo A Bola\xF1os"
-  - Edwin J Asturias
-  publisher: BMC public health
-  date: '2019-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/30795754
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
