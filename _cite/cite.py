@@ -53,18 +53,42 @@ for plugin in plugins:
 
         # loop through data entries
         for index, entry in enumerate(data):
-            log(f"Processing entry {index + 1} of {len(data)}, {label(entry)}", level=2)
+            log(
+                f"Processing entry {index + 1} of {len(data)}, {label(entry)}",
+                level=2,
+            )
 
-            # run plugin on data entry to expand into multiple sources
+            # run plugin on data entry
             try:
-                expanded = import_module(f"plugins.{plugin_path.stem}").main(entry)
+                expanded = import_module(
+                    f"plugins.{plugin_path.stem}"
+                ).main(entry)
+
                 if not list_of_dicts(expanded):
-                    raise Exception(f"{plugin_path.stem} plugin didn't return list of dicts")
+                    raise Exception(
+                        f"{plugin_path.stem} plugin didn't return list of dicts"
+                    )
+
             except Exception as e:
                 print(traceback.format_exc())
                 log(e, indent=3, level="ERROR")
                 errors.append(e)
                 continue
+
+            # -------------------------
+            # ORCID: KEEP DOI ONLY
+            # -------------------------
+            if plugin_path.stem == "orcid":
+                before = len(expanded)
+                expanded = [
+                    s for s in expanded
+                    if get_safe(s, "id", "").lower().startswith("doi:")
+                ]
+                after = len(expanded)
+                log(
+                    f"Filtered ORCID sources: {before} → {after} (DOI-only)",
+                    indent=3,
+                )
 
             # loop through sources
             for source in expanded:
@@ -92,7 +116,7 @@ deduped_sources = []
 for s in sources:
     _id = get_safe(s, "id", "").strip().lower()
     if not _id:
-        deduped_sources.append(s)  # keep entries without ID
+        deduped_sources.append(s)
         continue
     if _id in seen_ids:
         log(f"Skipping duplicate {_id}", indent=2)
@@ -114,7 +138,6 @@ citations = []
 for index, source in enumerate(sources):
     log(f"Processing source {index + 1} of {len(sources)}, {label(source)}")
 
-    # skip explicitly removed sources
     if get_safe(source, "remove", False) is True:
         continue
 
@@ -130,18 +153,19 @@ for index, source in enumerate(sources):
             file_name = get_safe(source, "file", "")
             if plugin_name == "sources":
                 log(e, indent=3, level="ERROR")
-                errors.append(f"Manubot could not generate citation for source {_id}")
+                errors.append(
+                    f"Manubot could not generate citation for source {_id}"
+                )
             else:
                 log(e, indent=3, level="WARNING")
                 warnings.append(
-                    f"Manubot could not generate citation for source {_id} (from {file_name} with {plugin_name})"
+                    f"Manubot could not generate citation for source {_id} "
+                    f"(from {file_name} with {plugin_name})"
                 )
                 continue
 
-    # preserve input source fields
     citation.update(source)
 
-    # ensure date formatting for sorting
     if get_safe(citation, "date", ""):
         citation["date"] = format_date(get_safe(citation, "date", ""))
 
