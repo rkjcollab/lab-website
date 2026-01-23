@@ -34,6 +34,9 @@ We accomplish our work using open-source software implemented in high-performanc
   <img src="images/hp13.jpg" alt="Photo 13 from RKJcollab">
   <img src="images/hp14.jpg" alt="Photo 14 from RKJcollab">
   <img src="images/hp15.jpg" alt="Photo 15 from RKJcollab">
+  <img src="images/hp16.jpg" alt="Photo 16 from RKJcollab">
+  <img src="images/hp17.jpg" alt="Photo 17 from RKJcollab">
+  <img src="images/hp18.jpg" alt="Photo 18 from RKJcollab">
 
 </div>
 
