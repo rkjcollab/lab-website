@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.gallery img {
+  max-width: 300px;
+  width: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/*# sourceMappingURL=main.css.map */
