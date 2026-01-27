@@ -22,6 +22,10 @@ ms:
   icon: fa-solid fa-user-graduate
   description: MS Student
 
+rotation-student:
+  icon: fa-solid fa-user-graduate
+  description: Rotation Student
+
 biostatistician:
   icon: fa-solid fa-code
   description: Biostatistician
