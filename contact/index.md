@@ -88,6 +88,7 @@ Read the [RKJcollab Mentoring Philosophy and Compact]({{ site.baseurl }}/_pdfs/R
   include figure.html
   image="images/pathgds.jpg"
   caption="[PATHways in Genomic Data Science Fellowship](https://hendricks-research-team.github.io/PATHGDS/)"
+%}
 
 {% endcapture %}
 
