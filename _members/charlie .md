@@ -6,9 +6,12 @@ role: biostatistician
 group: staff
 aliases:
   - Charlie R.
+  - Charles R.
   - charlie
+  - charles
   - C. Repaci
   - Charlie T. Repaci
+  - Charles T. Repaci
 links: 
   orcid: 0000-0001-8656-0903  
   github: crepaci
