@@ -1,0 +1,21 @@
+footer {
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+  padding: 40px;
+  line-height: var(--spacing);
+  box-shadow: var(--shadow);
+}
+
+footer a,
+footer a:visited,
+footer a:hover,
+footer a:active {
+  color: black !important;
+  text-decoration: none; /* optional */
+}
+
+/*# sourceMappingURL=footer.css.map */
