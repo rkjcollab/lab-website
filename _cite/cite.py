@@ -6,7 +6,7 @@ import traceback
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
-from _cite.util import *
+from util import *
 
 # -------------------------------------------------
 # Setup
