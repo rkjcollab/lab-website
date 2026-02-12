@@ -1,7 +1,7 @@
 import json
 import logging
 from urllib.request import Request, urlopen
-from _cite.util import *
+from cite.util import *
 from manubot.cite.handlers import prefix_to_handler as manubot_prefixes
 
 # ------------------------------------------------------------------------------
