@@ -23,8 +23,44 @@
   date: '2025-10-30'
   link: https://doi.org/g9749d
   orcid: 0000-0001-9345-4439
-  plugin: orcid
-  file: orcid.yaml
+  plugin: sources
+  file: sources.yaml
+  tags:
+  - autoimmunity
+  - type 1 diabetes
+  - omics
+- id: doi:10.1101/2025.07.15.25331523
+  title: Enabling reproducible type 1 diabetes polygenic risk scoring for clinical
+    and translational applications
+  authors:
+  - Maizy S. Brasher
+  - Matthew J. Fisher
+  - Carolina Sanchez Wild
+  - Jonathan A. Shortt
+  - Krista Miller
+  - Randi K. Johnson
+  - Nicholas M. Rafaels
+  - Elizabeth L. Kudron
+  - Ian M. Brooks
+  - Kristy R. Crooks
+  - Sean M. Oser
+  - Tamara K. Oser
+  - Joanne B. Cole
+  - Laura K. Wiley
+  - Sridharan Raghavan
+  - Neda Rasouli
+  - Meng Lin
+  - Christopher R. Gignoux
+  publisher: openRxiv
+  date: '2025-07-17'
+  link: https://doi.org/g9wt9k
+  orcid: 0000-0001-9345-4439
+  plugin: sources
+  file: sources.yaml
+  tags:
+  - type 1 diabetes
+  - biobank
+  - genetics
 - id: doi:10.1101/2025.06.30.25330574
   title: Demographic Factors, Attitudes, and Pre-Existing Conditions Impacting COVID-19
     Vaccine Hesitancy
@@ -541,6 +577,48 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
+- id: doi:10.1101/2025.02.06.25321273
+  title: Prediction and Characterization of Genetically Regulated Expression of Target
+    Tissues in Asthma
+  authors:
+  - Sarah D. Slack
+  - Erika Esquinca
+  - Christopher H. Arehart
+  - Meher Preethi Boorgula
+  - Brooke Szczesny
+  - Alex Romero
+  - Monica Campbell
+  - Sameer Chavan
+  - Nicholas Rafaels
+  - Harold Watson
+  - R. Clive Landis
+  - Nadia N. Hansel
+  - Charles N. Rotimi
+  - Christopher O. Olopade
+  - Camila A. Figueiredo
+  - Carole Ober
+  - Andrew H. Liu
+  - Eimear E. Kenny
+  - Kai Kammers
+  - Ingo Ruczinski
+  - Margaret A. Taub
+  - Michelle Daya
+  - Christopher R. Gignoux
+  - Katerina Kechris
+  - Kathleen C. Barnes
+  - Rasika A. Mathias
+  - Randi K. Johnson
+  publisher: openRxiv
+  date: '2025-02-08'
+  link: https://doi.org/g927zz
+  orcid: 0000-0001-9345-4439
+  plugin: sources
+  file: sources.yaml
+  tags:
+  - omics
+  - allergic disease
+  - trainee lead
+  - genetics
 - id: doi:10.1002/mus.28301
   title: Prevalence of Pathogenic Transthyretin Gene Variants in the Rocky Mountain
     Region
@@ -3400,6 +3478,38 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
+- id: doi:10.1101/2023.04.18.23288756
+  title: 'Precision Diagnostics: Using Islet Autoantibodies to Characterize Heterogeneity
+    in Type 1 Diabetes'
+  authors:
+  - Jamie L. Felton
+  - Maria J. Redondo
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela SF Monaco
+  - Arianna Harris-Kawano
+  - Dianna Perez
+  - Zeb Saeed
+  - Benjamin Hoag
+  - Rashmi Jain
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba Ismail
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - John M. Wentworth
+  - Kurt J. Griffin
+  - Emily K. Sims
+  publisher: openRxiv
+  date: '2023-04-19'
+  link: https://doi.org/g9272c
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1038/s43856-023-00371-0
   title: 'Precision gestational diabetes treatment: a systematic review and meta-analyses'
   authors:
@@ -4715,6 +4825,35 @@
   orcid: 0000-0001-9345-4439
   plugin: orcid
   file: orcid.yaml
+- id: doi:10.1101/2023.04.12.23288421
+  title: 'Type 1 Diabetes Prevention: a systematic review of studies testing disease-modifying
+    therapies and features linked to treatment response'
+  authors:
+  - Jamie L. Felton
+  - Kurt J. Griffin
+  - Richard A. Oram
+  - Cate Speake
+  - S. Alice Long
+  - Suna Onengut-Gumuscu
+  - Stephen S. Rich
+  - Gabriela SF Monaco
+  - Carmella Evans-Molina
+  - Linda A. DiMeglio
+  - Heba M. Ismail
+  - Andrea K. Steck
+  - Dana Dabelea
+  - Randi K. Johnson
+  - Marzhan Urazbayeva
+  - Stephen Gitelman
+  - John M. Wentworth
+  - Maria J. Redondo
+  - Emily K. Sims
+  publisher: openRxiv
+  date: '2023-04-17'
+  link: https://doi.org/g9272g
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1038/s43856-023-00358-x
   title: 'Utility and precision evidence of technology in the treatment of type 1
     diabetes: a systematic review'
@@ -4961,6 +5100,24 @@
   tags:
   - omics
   - allergic disease
+- id: doi:10.1101/2022.02.15.22271018
+  title: COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
+    Medicine
+  authors:
+  - Randi K. Johnson
+  - Katie M. Marker
+  - David Mayer
+  - Jonathan Shortt
+  - David Kao
+  - Kathleen C. Barnes
+  - Jan T. Lowery
+  - Christopher R. Gignoux
+  publisher: openRxiv
+  date: '2022-02-21'
+  link: https://doi.org/g9k62s
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.2196/37327
   title: 'COVID-19 Surveillance in the Biobank at the Colorado Center for Personalized
     Medicine: Observational Study'
@@ -5301,6 +5458,44 @@
   - autoimmunity
   - type 1 diabetes
   - review
+- id: doi:10.1101/2020.02.25.965376
+  title: A rapid, accurate approach to inferring pedigrees in endogamous populations
+  authors:
+  - Cole M. Williams
+  - Brooke A. Scelza
+  - Sarah D. Slack
+  - Rasika A. Mathias
+  - Harold Watson
+  - Kathleen C. Barnes
+  - Ethan Lange
+  - Randi K. Johnson
+  - Christopher R. Gignoux
+  - Sohini Ramachandran
+  - Brenna M. Henn
+  publisher: openRxiv
+  date: '2020-02-26'
+  link: https://doi.org/gkvphz
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-85951/v1
+  title: "An Effective Processing Pipeline for Harmonizing DNA Methylation Data from\
+    \ Illumina\u2019s 450K and EPIC Platforms for Epidemiological Studies"
+  authors:
+  - Lauren A Vanderlinden
+  - Randi K Johnson
+  - Patrick M Carry
+  - Fran Dong
+  - Dawn L. DeMeo
+  - Ivana V Yang
+  - Jill M Norris
+  - Katerina Kechris
+  publisher: Springer Science and Business Media LLC
+  date: '2020-10-07'
+  link: https://doi.org/g9272h
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1017/jns.2020.9
   title: "Association between change in self-reported sugar intake and a sugar biomarker\
     \ (\u03B4<sup>13</sup>C) in children at increased risk for type 1 diabetes"
@@ -5745,75 +5940,3 @@
   tags:
   - trainee lead
   - population health
-- id: doi:10.1101/2025.02.06.25321273
-  title: Prediction and Characterization of Genetically Regulated Expression of Target
-    Tissues in Asthma
-  authors:
-  - Sarah D. Slack
-  - Erika Esquinca
-  - Christopher H. Arehart
-  - Meher Preethi Boorgula
-  - Brooke Szczesny
-  - Alex Romero
-  - Monica Campbell
-  - Sameer Chavan
-  - Nicholas Rafaels
-  - Harold Watson
-  - R. Clive Landis
-  - Nadia N. Hansel
-  - Charles N. Rotimi
-  - Christopher O. Olopade
-  - Camila A. Figueiredo
-  - Carole Ober
-  - Andrew H. Liu
-  - Eimear E. Kenny
-  - Kai Kammers
-  - Ingo Ruczinski
-  - Margaret A. Taub
-  - Michelle Daya
-  - Christopher R. Gignoux
-  - Katerina Kechris
-  - Kathleen C. Barnes
-  - Rasika A. Mathias
-  - Randi K. Johnson
-  publisher: openRxiv
-  date: '2025-02-08'
-  link: https://doi.org/g927zz
-  tags:
-  - omics
-  - allergic disease
-  - trainee lead
-  - genetics
-  plugin: sources
-  file: sources.yaml
-- id: doi:10.1101/2025.07.15.25331523
-  title: Enabling reproducible type 1 diabetes polygenic risk scoring for clinical
-    and translational applications
-  authors:
-  - Maizy S. Brasher
-  - Matthew J. Fisher
-  - Carolina Sanchez Wild
-  - Jonathan A. Shortt
-  - Krista Miller
-  - Randi K. Johnson
-  - Nicholas M. Rafaels
-  - Elizabeth L. Kudron
-  - Ian M. Brooks
-  - Kristy R. Crooks
-  - Sean M. Oser
-  - Tamara K. Oser
-  - Joanne B. Cole
-  - Laura K. Wiley
-  - Sridharan Raghavan
-  - Neda Rasouli
-  - Meng Lin
-  - Christopher R. Gignoux
-  publisher: openRxiv
-  date: '2025-07-17'
-  link: https://doi.org/g9wt9k
-  tags:
-  - type 1 diabetes
-  - biobank
-  - genetics
-  plugin: sources
-  file: sources.yaml
