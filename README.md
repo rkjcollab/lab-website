@@ -11,7 +11,3 @@ Visit **[rkjcollab.github.io/lab-website-template](https://rkjcollab.github.io/l
 ![on-push](../../actions/workflows/on-push.yaml/badge.svg)  
 ![on-pull-request](../../actions/workflows/on-pull-request.yaml/badge.svg)  
 ![on-schedule](../../actions/workflows/on-schedule.yaml/badge.svg)
-
-
-
-
