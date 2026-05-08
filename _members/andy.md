@@ -3,7 +3,7 @@ name: Andy Gonzalez
 slug: andy-gonzalez
 image: images/andy.jpg
 role: rotation-student
-group: student
+group: alumni
 aliases:
   - A. Gonzalez
   - andy
