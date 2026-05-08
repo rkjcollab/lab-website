@@ -1,17 +1,17 @@
-- title: "Epigenomic biomarkers of the incomplete maternal protection in type 1 diabetes"
-  subtitle: 2026-2029
+- title: "Immunogenetics in the viral etiology and pathogenesis of type 1 diabetes"
+  subtitle: 2026-2028
   group: featured
   image: images/NIH NIDDK.jpg
   description: "We will investigate the genetic variation controlling two key components of innate immunity which are responsible for defense against viral infection to clarify the role of virus in T1D etiology and pathogenesis."
   repo: rkjcollab/lab-website-template
-  
- - title: "Agentic AI to bridge pancreas and peripheral tissue via interpretable gene networks for type 1 diabetes"
+ 
+- title: "Agentic AI to bridge pancreas and peripheral tissue via interpretable gene networks for type 1 diabetes"
   subtitle: 2025-2026
   group: featured
   image: images/NIH NIDDK.jpg
   description: "The goal of this project is to develop agentic AI systems that bridge pancreatic tissue biology with accessible peripheral blood signatures to advance type 1 diabetes (T1D) understanding and prediction."
   repo: rkjcollab/lab-website-template
-  
+ 
 - title: "Epigenomic biomarkers of the incomplete maternal protection in type 1 diabetes"
   subtitle: 2024-2027
   group: featured
