@@ -29,6 +29,29 @@
   - autoimmunity
   - type 1 diabetes
   - omics
+- id: doi:10.1136/bmjdrc-2025-005725
+  title: Longitudinal changes in epigenetic age acceleration prior to type 1 diabetes
+    onset in the Diabetes Autoimmunity Study in the Young (DAISY)
+  authors:
+  - Kelly Bergstrom
+  - Harry Smith
+  - Randi K Johnson
+  - Lauren A Vanderlinden
+  - Jennifer Seifert
+  - Kirk R Hohsfield
+  - Ivana V Yang
+  - Sarah D Slack
+  - Fran Dong
+  - Katerina Kechris
+  - Marian Rewers
+  - Jill M Norris
+  - Patrick M Carry
+  publisher: BMJ Open Diabetes Research &amp; Care
+  date: '2026-01-01'
+  link: https://doi.org/hbsppc
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1101/2025.07.15.25331523
   title: Enabling reproducible type 1 diabetes polygenic risk scoring for clinical
     and translational applications
