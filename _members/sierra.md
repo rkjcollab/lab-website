@@ -1,16 +1,16 @@
-name: Sierra Bainbridge-Bowman
-slug: sierra-bainbridge-bowman
-image: images/sierra
-role: GREU
-group: trainees
-aliases:
+name Sierra Bainbridge-Bowman
+slug sierra-bainbridge-bowman
+image images/sierra
+role GREU
+group student
+aliases
   - Sierra B.
   - Sierra Bowman
   - Sierra Bainbridge
   - sierra
   - Sierra M. Bainbridge-Bowman
   - S. Bainbridge-Bowman
-links: 
+links
   github: bainbris-ucd
   linkedin: sierra-bainbridge-bowman-223394359
 ---
