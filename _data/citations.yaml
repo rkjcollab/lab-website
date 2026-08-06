@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.2337/dc26-0659
+  title: A Secular Increase in the Incidence of Islet Autoimmunity Among Colorado
+    Children With Moderate-Risk HLA Genotypes
+  authors:
+  - Kirk R. Hohsfield
+  - Fran Dong
+  - Kathleen Waugh
+  - Andrea K. Steck
+  - Teresa Buckner
+  - Randi K. Johnson
+  - Patrick M. Carry
+  - Brigitte Frohnert
+  - Marian Rewers
+  - Jill M. Norris
+  publisher: Diabetes Care
+  date: '2026-07-01'
+  link: https://doi.org/hb9j96
+  orcid: 0000-0001-9345-4439
+  plugin: orcid
+  file: orcid.yaml
 - id: doi:10.1136/bmjdrc-2026-006015
   title: Differences in immune cell profiles around the time of islet autoimmunity
     seroconversion in children with and without type 1 diabetes
