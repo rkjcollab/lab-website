@@ -18,6 +18,10 @@ mph:
   icon: fa-solid fa-user-graduate
   description: MPH Student
 
+greu:
+  icon: fa-solid fa-user-graduate
+  description: GREU Student
+
 ms:
   icon: fa-solid fa-user-graduate
   description: MS Student
