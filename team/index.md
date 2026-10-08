@@ -27,6 +27,12 @@ nav:
   {% endfor %}
 {% endfor %}
 
+{% for member in staff %}
+  {% unless role_order_staff contains member.role %}
+    {% include portrait.html lookup=member.slug %}
+  {% endunless %}
+{% endfor %}
+
 ---
 
 ## Trainees
@@ -40,6 +46,12 @@ nav:
       {% include portrait.html lookup=member.slug %}
     {% endif %}
   {% endfor %}
+{% endfor %}
+
+{% for member in students %}
+  {% unless role_order_students contains member.role or member.role == "rotation-student" %}
+    {% include portrait.html lookup=member.slug %}
+  {% endunless %}
 {% endfor %}
 
 ---
@@ -70,4 +82,10 @@ nav:
       {% include portrait.html lookup=member.slug %}
     {% endif %}
   {% endfor %}
+{% endfor %}
+
+{% for member in alumni %}
+  {% unless role_order_alumni contains member.role %}
+    {% include portrait.html lookup=member.slug %}
+  {% endunless %}
 {% endfor %}
