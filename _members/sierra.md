@@ -2,7 +2,7 @@
 name: Sierra Bainbridge-Bowman
 slug: sierra-bainbridge-bowman
 image: images/sierra.png
-role: GREU
+role: greu
 group: student
 aliases:
   - Sierra B.
