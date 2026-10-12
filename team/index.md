@@ -49,24 +49,9 @@ nav:
 {% endfor %}
 
 {% for member in students %}
-  {% unless role_order_students contains member.role or member.role == "rotation-student" %}
+  {% unless role_order_students contains member.role %}
     {% include portrait.html lookup=member.slug %}
   {% endunless %}
-{% endfor %}
-
----
-
-## Rotation Students
-
-{% assign students = site.members | where: "group", "student" %}
-{% assign role_order_students = "rotation-student" | split: "," %}
-
-{% for role in role_order_students %}
-  {% for member in students %}
-    {% if member.role == role %}
-      {% include portrait.html lookup=member.slug %}
-    {% endif %}
-  {% endfor %}
 {% endfor %}
 
 ---
